@@ -1,0 +1,2 @@
+# ai-radar has no runtime dependencies: it uses only the Python standard
+# library (urllib, xml.etree, json), so it runs anywhere Python 3.10+ does.

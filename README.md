@@ -1,0 +1,111 @@
+# ai-radar
+
+[![tests](https://github.com/agentdynarq/ai-radar/actions/workflows/tests.yml/badge.svg)](https://github.com/agentdynarq/ai-radar/actions/workflows/tests.yml)
+[![daily digest](https://github.com/agentdynarq/ai-radar/actions/workflows/digest.yml/badge.svg)](https://github.com/agentdynarq/ai-radar/actions/workflows/digest.yml)
+![python](https://img.shields.io/badge/python-3.10%2B-blue)
+![license](https://img.shields.io/badge/license-MIT-green)
+![dependencies](https://img.shields.io/badge/runtime%20deps-none-e8ff00)
+
+A daily, self-updating **radar for AI research and model releases**. Once a day a scheduled GitHub Action fetches the newest [arXiv](https://arxiv.org/) AI papers (cs.AI, cs.CL, cs.LG) and the newest models on the [Hugging Face](https://huggingface.co/) Hub, renders a dated digest, and commits it. The section below is regenerated automatically, so this page always shows what landed most recently.
+
+Pure Python standard library. No API keys, no servers, no dependencies.
+
+Part of [Dynarq](https://www.dynarq.com).
+
+## Latest digest
+
+<!-- LATEST:START -->
+## 2026-07-12
+
+### New AI research · arXiv
+
+- **[UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](http://arxiv.org/abs/2607.08768v1)** — Zhekai Chen et al. · 2026-07-09
+  <br/>The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-w…
+- **[OpenCoF: Learning to Reason Through Video Generation](http://arxiv.org/abs/2607.08763v1)** — Xinyan Chen et al. · 2026-07-09
+  <br/>Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct…
+- **[Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation](http://arxiv.org/abs/2607.08758v1)** — Yifan Zhou et al. · 2026-07-09
+  <br/>Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say li…
+- **[Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling](http://arxiv.org/abs/2607.08757v1)** — Yiwei Zhou · 2026-07-09
+  <br/>Score matching controls average error under the forward marginals, but a discretized reverse-time sampler evaluates the learned score along its own trajectory. We show that small forward-marginal err…
+- **[MulTTiPop: A Multitrack Transcription Dataset for Pop Music](http://arxiv.org/abs/2607.08756v1)** — Nathan Pruyne et al. · 2026-07-09
+  <br/>We present MulTTiPop, a dataset of pop music segments and their associated multitrack MIDI recordings for the evaluation of automatic music transcription models. MulTTiPop contains 572 segments of po…
+- **[SLORR: Simple and Efficient In-Training Low-Rank Regularization](http://arxiv.org/abs/2607.08754v1)** — David González-Martínez et al. · 2026-07-09
+  <br/>Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-…
+- **[Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis](http://arxiv.org/abs/2607.08748v1)** — Kristina Schaaff et al. · 2026-07-09
+  <br/>In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in di…
+- **[Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph](http://arxiv.org/abs/2607.08746v1)** — Duen Horng Chau et al. · 2026-07-09
+  <br/>While UMAP is widely used for exploring high-dimensional data, typical workflows focus on its lower-dimensional embedding, largely overlooking the rich k-nearest-neighbor (kNN) graph that UMAP constr…
+
+### New model releases · Hugging Face
+
+- **[ahmedaali/so101_smolvla_v1](https://huggingface.co/ahmedaali/so101_smolvla_v1)**
+- **[ishiki-emo/mojicast-fugumt-ja-en-ct2](https://huggingface.co/ishiki-emo/mojicast-fugumt-ja-en-ct2)** — translation
+- **[ishiki-emo/mojicast-punct-onnx](https://huggingface.co/ishiki-emo/mojicast-punct-onnx)** — token-classification
+- **[Ilia2003Mah/qwen25_math_7b-exp_07-3400](https://huggingface.co/Ilia2003Mah/qwen25_math_7b-exp_07-3400)**
+- **[kkomyoeminaung/gemma4-26b-myanmar-tokenizer-v3](https://huggingface.co/kkomyoeminaung/gemma4-26b-myanmar-tokenizer-v3)**
+- **[rummanadib023/denpar-bone-loss](https://huggingface.co/rummanadib023/denpar-bone-loss)**
+- **[EFFFFFFFFFFFF/lologhka](https://huggingface.co/EFFFFFFFFFFFF/lologhka)**
+- **[sahuabinash/slm-125m-finetuned-qa](https://huggingface.co/sahuabinash/slm-125m-finetuned-qa)**
+
+<!-- LATEST:END -->
+
+## Archive
+
+<!-- ARCHIVE:START -->
+- [2026-07-12](archive/2026-07-12.md)
+<!-- ARCHIVE:END -->
+
+## How it works
+
+```
+ cron (daily)
+     │
+     ▼
+ python -m radar
+     │
+     ├─ fetch arXiv cs.AI/cs.CL/cs.LG   (open Atom API, no key)
+     ├─ fetch Hugging Face new models   (open JSON API, no key)
+     ├─ render a dated markdown digest
+     ├─ write archive/YYYY-MM-DD.md
+     └─ refresh the README's Latest + Archive sections
+     │
+     ▼
+ commit the real diff and push
+```
+
+The network fetch and the parsing are separate, so the parsers are unit-tested offline against fixtures. A source being briefly unreachable never breaks the job: the digest just notes that nothing was fetched that day.
+
+## Run locally
+
+```bash
+python -m radar
+```
+
+That regenerates today's `archive/` entry and updates this README in place.
+
+## Project structure
+
+```
+ai-radar/
+  radar/
+    sources/
+      arxiv.py          fetch + parse arXiv Atom feed
+      huggingface.py    fetch + parse Hugging Face model list
+    render.py           digest markdown + README section updates
+    build.py            orchestrate fetch -> render -> write
+  archive/              one markdown file per day
+  tests/                offline parser and renderer tests
+  .github/workflows/
+    digest.yml          the daily scheduled build
+    tests.yml           unit tests on push / PR
+```
+
+## Tests
+
+```bash
+python -m unittest discover -s tests -v
+```
+
+## License
+
+MIT
