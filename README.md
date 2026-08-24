@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-08-23
+## 2026-08-24
 
 ### New AI research · arXiv
 
-- **[Information on trajectories: martingales and random times](http://arxiv.org/abs/2608.20337v1)** — Akshay Balsubramani · 2026-08-20
-  <br/>Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used…
-- **[ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](http://arxiv.org/abs/2608.20338v1)** — Sahil Kale et al. · 2026-08-20
-  <br/>Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability complete…
-- **[G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation](http://arxiv.org/abs/2608.20331v1)** — Shiao Xie et al. · 2026-08-20
-  <br/>Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depend…
-- **[$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval](http://arxiv.org/abs/2608.20326v1)** — Parampreet Singh et al. · 2026-08-20
-  <br/>Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-h…
-- **[A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection](http://arxiv.org/abs/2608.20322v1)** — Anton Lambrecht et al. · 2026-08-20
-  <br/>Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radi…
-- **[An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](http://arxiv.org/abs/2608.20320v1)** — Narges Ahmadi et al. · 2026-08-20
-  <br/>Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workf…
-- **[Inducing Task Models from Computer-Use Traces](http://arxiv.org/abs/2608.20319v1)** — Yucheng Jiang et al. · 2026-08-20
-  <br/>Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is d…
-- **[AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement](http://arxiv.org/abs/2608.20318v1)** — Yizhe Chi et al. · 2026-08-20
-  <br/>Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm:…
+- **[Primal Acceleration of Newton's Method](http://arxiv.org/abs/2608.21359v1)** — Nikita Doikov · 2026-08-21
+  <br/>We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per it…
+- **[VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](http://arxiv.org/abs/2608.21357v1)** — Elaine Lau et al. · 2026-08-21
+  <br/>In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform resear…
+- **[AI with Authority, from Application to Silicon](http://arxiv.org/abs/2608.21356v1)** — Jason Hickey · 2026-08-21
+  <br/>For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine veri…
+- **[PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction](http://arxiv.org/abs/2608.21349v1)** — Yoshitaka Inoue et al. · 2026-08-21
+  <br/>Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, witho…
+- **[Truthful Calibration Measures for Sequential Prediction](http://arxiv.org/abs/2608.21348v1)** — Anagha Gokul et al. · 2026-08-21
+  <br/>Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab…
+- **[Asymmetric Capacity Allocation in Self-Refinement Pipelines](http://arxiv.org/abs/2608.21345v1)** — Zhuoyi Yang et al. · 2026-08-21
+  <br/>Self-refinement, typically structured as generation, critique, and revision, is a widely adopted paradigm for improving LLM generation and serves as a core mechanism in many LLM agents. While the thr…
+- **[TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems](http://arxiv.org/abs/2608.21343v1)** — Vladimir Bataev et al. · 2026-08-21
+  <br/>Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many con…
+- **[Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price Trajectories](http://arxiv.org/abs/2608.21334v1)** — Pedro Cadahia Delgado · 2026-08-21
+  <br/>Short observational pricing panels can contain many observations while offering only a small number of distinct price movements. This paper studies the inferential consequences of that distinction in…
 
 ### New model releases · Hugging Face
 
-- **[tatanjsc/mich3](https://huggingface.co/tatanjsc/mich3)**
-- **[abhishek1995s/rbi-sentinel-v3](https://huggingface.co/abhishek1995s/rbi-sentinel-v3)**
-- **[TuKoResearch/AuriStream7BDeep_1Pred_BigAudioDataset_500k-randinit](https://huggingface.co/TuKoResearch/AuriStream7BDeep_1Pred_BigAudioDataset_500k-randinit)** — feature-extraction
-- **[chewbacca321/Qwen3.8-27B-Unleashed-Q3XL-mirror](https://huggingface.co/chewbacca321/Qwen3.8-27B-Unleashed-Q3XL-mirror)**
-- **[TASMVIDIT07/watch-price-prediction-model](https://huggingface.co/TASMVIDIT07/watch-price-prediction-model)**
-- **[TuKoResearch/AuriStream100M_80Pred_BigAudioDataset_500k-randinit](https://huggingface.co/TuKoResearch/AuriStream100M_80Pred_BigAudioDataset_500k-randinit)** — feature-extraction
-- **[herurg/q-Taxi-v3](https://huggingface.co/herurg/q-Taxi-v3)** — reinforcement-learning
-- **[TuKoResearch/AuriStream100M_60Pred_BigAudioDataset_500k-randinit](https://huggingface.co/TuKoResearch/AuriStream100M_60Pred_BigAudioDataset_500k-randinit)** — feature-extraction
+- **[mmt2000/TrOCRAdapter_Latin_AdrianusCodex_v3](https://huggingface.co/mmt2000/TrOCRAdapter_Latin_AdrianusCodex_v3)**
+- **[Haongchen/MemoryVLA](https://huggingface.co/Haongchen/MemoryVLA)**
+- **[pubgpubgpubgpub/javaaa](https://huggingface.co/pubgpubgpubgpub/javaaa)**
+- **[litert-community/granite-docling-258M](https://huggingface.co/litert-community/granite-docling-258M)** — image-text-to-text
+- **[dfdfdgghh677/MyAwesomeModel-TestRepo](https://huggingface.co/dfdfdgghh677/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[dsfsdfsf56577/MyAwesomeModel-TestRepo](https://huggingface.co/dsfsdfsf56577/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[min-samis2/Marketplace_assistant](https://huggingface.co/min-samis2/Marketplace_assistant)**
+- **[Eleass/Mara](https://huggingface.co/Eleass/Mara)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-08-24](archive/2026-08-24.md)
 - [2026-08-23](archive/2026-08-23.md)
 - [2026-08-22](archive/2026-08-22.md)
 - [2026-08-21](archive/2026-08-21.md)
