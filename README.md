@@ -15,43 +15,29 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-08-25
+## 2026-08-26
 
 ### New AI research · arXiv
 
-- **[How to Train a Critic Stably and Efficiently](http://arxiv.org/abs/2608.23566v1)** — Penghui Qi et al. · 2026-08-24
-  <br/>Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate toke…
-- **[ReWorld: An Interactive World Model with Long-Horizon Memory](http://arxiv.org/abs/2608.23565v1)** — Zhifei Chen et al. · 2026-08-24
-  <br/>An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbound…
-- **[SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?](http://arxiv.org/abs/2608.23564v1)** — Deyao Hong et al. · 2026-08-24
-  <br/>Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they…
-- **[EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings](http://arxiv.org/abs/2608.23563v1)** — Md Thamed Bin Zaman Chowdhury et al. · 2026-08-24
-  <br/>Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and t…
-- **[Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography](http://arxiv.org/abs/2608.23562v1)** — Yuanyuan Zhang et al. · 2026-08-24
-  <br/>Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed inter…
-- **[Provably adaptive sampling with uniform and remasking discrete diffusion models](http://arxiv.org/abs/2608.23554v1)** — Daniil Dmitriev et al. · 2026-08-24
-  <br/>Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward proce…
-- **[Prime Agent: A Self-Improving RLM Harness](http://arxiv.org/abs/2608.23552v1)** — Seth Karten et al. · 2026-08-24
-  <br/>Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for lon…
-- **[ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings](http://arxiv.org/abs/2608.23551v1)** — Na Li et al. · 2026-08-24
-  <br/>Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders su…
+_No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[INCModel2/Qwen3.5-397B-A17B-MXFP4-Mixed-MXFP8Attn-CT-AutoRound](https://huggingface.co/INCModel2/Qwen3.5-397B-A17B-MXFP4-Mixed-MXFP8Attn-CT-AutoRound)**
-- **[localized-ft/Qwen3-8B-school-of-reward-hacks-inoculation-prompting-seed5](https://huggingface.co/localized-ft/Qwen3-8B-school-of-reward-hacks-inoculation-prompting-seed5)** — text-generation
-- **[ricky7000/tds-carbon-card](https://huggingface.co/ricky7000/tds-carbon-card)**
-- **[Wooooolf/smolvla_libero_smoke500](https://huggingface.co/Wooooolf/smolvla_libero_smoke500)**
-- **[mulemp/Baeass](https://huggingface.co/mulemp/Baeass)**
-- **[siva3091/ppo-LunarLander-v3](https://huggingface.co/siva3091/ppo-LunarLander-v3)** — reinforcement-learning
-- **[Prasanjeet18/carbon-audit](https://huggingface.co/Prasanjeet18/carbon-audit)**
-- **[Myszz/tmp](https://huggingface.co/Myszz/tmp)**
+- **[RyanYr/asyncrl-m17b_klr_pi_s128_b0p005_detox_2gpu-gs128](https://huggingface.co/RyanYr/asyncrl-m17b_klr_pi_s128_b0p005_detox_2gpu-gs128)**
+- **[aoiandroid/nllb200-coreml-1024-pal8-macos](https://huggingface.co/aoiandroid/nllb200-coreml-1024-pal8-macos)**
+- **[MoshinAli/iccit2026-crop-disease-results](https://huggingface.co/MoshinAli/iccit2026-crop-disease-results)**
+- **[JokerJokerJoker/cat03](https://huggingface.co/JokerJokerJoker/cat03)**
+- **[Tohirju/sl-plover3](https://huggingface.co/Tohirju/sl-plover3)**
+- **[seiten223/Qwen3-8B-NSFW-JP](https://huggingface.co/seiten223/Qwen3-8B-NSFW-JP)** — text-generation
+- **[tanshin91/Ornith-1.5-9B-oQ4e-fp16-mtp](https://huggingface.co/tanshin91/Ornith-1.5-9B-oQ4e-fp16-mtp)**
+- **[madhav7781/quickprep-interview-ai](https://huggingface.co/madhav7781/quickprep-interview-ai)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-08-26](archive/2026-08-26.md)
 - [2026-08-25](archive/2026-08-25.md)
 - [2026-08-24](archive/2026-08-24.md)
 - [2026-08-23](archive/2026-08-23.md)
