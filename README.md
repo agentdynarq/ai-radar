@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-08-27
+## 2026-09-01
 
 ### New AI research · arXiv
 
-- **[VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning](http://arxiv.org/abs/2608.26105v1)** — Junxiang Xu et al. · 2026-08-26
-  <br/>Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-…
-- **[A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training](http://arxiv.org/abs/2608.26095v1)** — Kaichen Li et al. · 2026-08-26
-  <br/>In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised…
-- **[MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching](http://arxiv.org/abs/2608.26094v1)** — Hao Yin et al. · 2026-08-26
-  <br/>Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling acti…
-- **[Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role](http://arxiv.org/abs/2608.26093v1)** — Ahmad Khan et al. · 2026-08-26
-  <br/>Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that…
-- **[PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans](http://arxiv.org/abs/2608.26091v1)** — Nabaraj Subedi et al. · 2026-08-26
-  <br/>Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting th…
-- **[Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders](http://arxiv.org/abs/2608.26090v1)** — Raphaël Bonnet-Guerrini et al. · 2026-08-26
-  <br/>We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for directi…
-- **[Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](http://arxiv.org/abs/2608.26088v1)** — Evelyn Ma et al. · 2026-08-26
-  <br/>Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predict…
-- **[TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development](http://arxiv.org/abs/2608.26086v1)** — Jiarui Yan et al. · 2026-08-26
-  <br/>Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over…
+- **[Context-Aware Interleaved Batching for WhisperX](http://arxiv.org/abs/2608.31170v1)** — Carlos Bain et al. · 2026-08-31
+  <br/>While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conv…
+- **[Constant Individual Regret in General Games](http://arxiv.org/abs/2608.31166v1)** — Mingyang Liu et al. · 2026-08-31
+  <br/>Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for…
+- **[SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies](http://arxiv.org/abs/2608.31167v1)** — Weiqi Wang et al. · 2026-08-31
+  <br/>Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a react…
+- **[Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations](http://arxiv.org/abs/2608.31157v1)** — Shijun Zhang · 2026-08-31
+  <br/>Many parameter-efficient methods generate the parameters of a large neural network from a low-dimensional latent representation. Given an architecture $Φ$ with $P_Φ$ parameter slots, we write $olds…
+- **[Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification](http://arxiv.org/abs/2608.31142v1)** — Yisen Xi · 2026-08-31
+  <br/>The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, su…
+- **[Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation](http://arxiv.org/abs/2608.31139v1)** — Riya Ahuja et al. · 2026-08-31
+  <br/>BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence.…
+- **[OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques](http://arxiv.org/abs/2608.31137v1)** — Hamed Babaei Giglou et al. · 2026-08-31
+  <br/>Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language…
+- **[Implementing neural network mixed-effects models in Template Model Builder (TMB)](http://arxiv.org/abs/2608.31133v1)** — Nan Zheng et al. · 2026-08-31
+  <br/>Neural network mixed-effects models (NMMs) have gained traction by combining the strong representation and predictive power of artificial neural networks with the capacity of mixed-effects modeling t…
 
 ### New model releases · Hugging Face
 
-- **[t8star/IndexTTS-2.5-T8](https://huggingface.co/t8star/IndexTTS-2.5-T8)**
-- **[algomaster99/pretrain-2.2e18](https://huggingface.co/algomaster99/pretrain-2.2e18)**
-- **[bimabk/instruct_gradients-io-tournaments-text_7186d8d4851c95219281](https://huggingface.co/bimabk/instruct_gradients-io-tournaments-text_7186d8d4851c95219281)**
-- **[xmrb/elysia](https://huggingface.co/xmrb/elysia)**
-- **[TechnoBaptist/phonellm-alpha-1](https://huggingface.co/TechnoBaptist/phonellm-alpha-1)** — text-generation
-- **[snsnc/Polaris-V1-MLX-4bit](https://huggingface.co/snsnc/Polaris-V1-MLX-4bit)** — text-generation
-- **[niksixus/Mask2Former-Traffic-Segmentation](https://huggingface.co/niksixus/Mask2Former-Traffic-Segmentation)**
-- **[michaelmorris/experiment-retrieval-2023](https://huggingface.co/michaelmorris/experiment-retrieval-2023)**
+- **[RyanYr/asyncrl-math_adpklr_s128_b0p01_truncneg1_refinit_shuf-gs704](https://huggingface.co/RyanYr/asyncrl-math_adpklr_s128_b0p01_truncneg1_refinit_shuf-gs704)**
+- **[dumengze/DF5T](https://huggingface.co/dumengze/DF5T)**
+- **[anorim/bertweetbr-fusion-5-dareties-p0.99-k0.5-l1.1-bestcross-hatebr-hspt-olidbr-tupy-v52](https://huggingface.co/anorim/bertweetbr-fusion-5-dareties-p0.99-k0.5-l1.1-bestcross-hatebr-hspt-olidbr-tupy-v52)**
+- **[toolathlon68/MyAwesomeModel-TestRepo](https://huggingface.co/toolathlon68/MyAwesomeModel-TestRepo)**
+- **[Banaxi-Tech/bird-alpha](https://huggingface.co/Banaxi-Tech/bird-alpha)**
+- **[ducthang1703/llama3-arc-bpo-sensitivity-10k-bs64-2xa100-ga16](https://huggingface.co/ducthang1703/llama3-arc-bpo-sensitivity-10k-bs64-2xa100-ga16)**
+- **[explcre/tcod-resume-search_sacd_3B_mt8_bs16_s42_k1_q0.30-0.05_b1.0_sftplain_lazy_tea-98e39d](https://huggingface.co/explcre/tcod-resume-search_sacd_3B_mt8_bs16_s42_k1_q0.30-0.05_b1.0_sftplain_lazy_tea-98e39d)**
+- **[policewoman/bad01](https://huggingface.co/policewoman/bad01)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-01](archive/2026-09-01.md)
 - [2026-08-27](archive/2026-08-27.md)
 - [2026-08-26](archive/2026-08-26.md)
 - [2026-08-25](archive/2026-08-25.md)
