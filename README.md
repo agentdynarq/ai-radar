@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-01
+## 2026-09-02
 
 ### New AI research · arXiv
 
-- **[Context-Aware Interleaved Batching for WhisperX](http://arxiv.org/abs/2608.31170v1)** — Carlos Bain et al. · 2026-08-31
-  <br/>While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conv…
-- **[Constant Individual Regret in General Games](http://arxiv.org/abs/2608.31166v1)** — Mingyang Liu et al. · 2026-08-31
-  <br/>Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for…
-- **[SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies](http://arxiv.org/abs/2608.31167v1)** — Weiqi Wang et al. · 2026-08-31
-  <br/>Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a react…
-- **[Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations](http://arxiv.org/abs/2608.31157v1)** — Shijun Zhang · 2026-08-31
-  <br/>Many parameter-efficient methods generate the parameters of a large neural network from a low-dimensional latent representation. Given an architecture $Φ$ with $P_Φ$ parameter slots, we write $olds…
-- **[Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification](http://arxiv.org/abs/2608.31142v1)** — Yisen Xi · 2026-08-31
-  <br/>The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, su…
-- **[Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation](http://arxiv.org/abs/2608.31139v1)** — Riya Ahuja et al. · 2026-08-31
-  <br/>BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence.…
-- **[OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques](http://arxiv.org/abs/2608.31137v1)** — Hamed Babaei Giglou et al. · 2026-08-31
-  <br/>Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language…
-- **[Implementing neural network mixed-effects models in Template Model Builder (TMB)](http://arxiv.org/abs/2608.31133v1)** — Nan Zheng et al. · 2026-08-31
-  <br/>Neural network mixed-effects models (NMMs) have gained traction by combining the strong representation and predictive power of artificial neural networks with the capacity of mixed-effects modeling t…
+- **[Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](http://arxiv.org/abs/2609.01604v1)** — Himil Vasava et al. · 2026-09-01
+  <br/>LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating rema…
+- **[Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation](http://arxiv.org/abs/2609.01603v1)** — Kefeng Duan et al. · 2026-09-01
+  <br/>Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation meth…
+- **[Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation](http://arxiv.org/abs/2609.01601v1)** — Kefeng Duan et al. · 2026-09-01
+  <br/>The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories ofte…
+- **[CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?](http://arxiv.org/abs/2609.01600v1)** — Damien Sileo et al. · 2026-09-01
+  <br/>Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependenci…
+- **[The Rise of Verbal Reinforcement Learning](http://arxiv.org/abs/2609.01597v1)** — Kshitij Tayal et al. · 2026-09-01
+  <br/>Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and mode…
+- **[Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation](http://arxiv.org/abs/2609.01596v1)** — Haoyuan Deng et al. · 2026-09-01
+  <br/>Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that pred…
+- **[Mechanism Design for Alignment and Control](http://arxiv.org/abs/2609.01595v1)** — Dirk Bergemann et al. · 2026-09-01
+  <br/>We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so m…
+- **[StudentSim: Training LLM-based Student Simulators](http://arxiv.org/abs/2609.01591v1)** — Ke Yang et al. · 2026-09-01
+  <br/>AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to col…
 
 ### New model releases · Hugging Face
 
-- **[RyanYr/asyncrl-math_adpklr_s128_b0p01_truncneg1_refinit_shuf-gs704](https://huggingface.co/RyanYr/asyncrl-math_adpklr_s128_b0p01_truncneg1_refinit_shuf-gs704)**
-- **[dumengze/DF5T](https://huggingface.co/dumengze/DF5T)**
-- **[anorim/bertweetbr-fusion-5-dareties-p0.99-k0.5-l1.1-bestcross-hatebr-hspt-olidbr-tupy-v52](https://huggingface.co/anorim/bertweetbr-fusion-5-dareties-p0.99-k0.5-l1.1-bestcross-hatebr-hspt-olidbr-tupy-v52)**
-- **[toolathlon68/MyAwesomeModel-TestRepo](https://huggingface.co/toolathlon68/MyAwesomeModel-TestRepo)**
-- **[Banaxi-Tech/bird-alpha](https://huggingface.co/Banaxi-Tech/bird-alpha)**
-- **[ducthang1703/llama3-arc-bpo-sensitivity-10k-bs64-2xa100-ga16](https://huggingface.co/ducthang1703/llama3-arc-bpo-sensitivity-10k-bs64-2xa100-ga16)**
-- **[explcre/tcod-resume-search_sacd_3B_mt8_bs16_s42_k1_q0.30-0.05_b1.0_sftplain_lazy_tea-98e39d](https://huggingface.co/explcre/tcod-resume-search_sacd_3B_mt8_bs16_s42_k1_q0.30-0.05_b1.0_sftplain_lazy_tea-98e39d)**
-- **[policewoman/bad01](https://huggingface.co/policewoman/bad01)**
+- **[johndef64/KG-TransomicNet](https://huggingface.co/johndef64/KG-TransomicNet)**
+- **[Rainzor/GameDLSS](https://huggingface.co/Rainzor/GameDLSS)**
+- **[qf-iquest/OmniReason-Deploy](https://huggingface.co/qf-iquest/OmniReason-Deploy)**
+- **[SabrinaBabeZ/Altertant](https://huggingface.co/SabrinaBabeZ/Altertant)**
+- **[NascimentoGH/PruningEverything](https://huggingface.co/NascimentoGH/PruningEverything)**
+- **[asd123dxa3xczcq/MyAwesomeModel-TestRepo](https://huggingface.co/asd123dxa3xczcq/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[jimilismith/qwen2.5-7b-FT-risk-oracle](https://huggingface.co/jimilismith/qwen2.5-7b-FT-risk-oracle)**
+- **[usmanbaloch84/wasee](https://huggingface.co/usmanbaloch84/wasee)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-02](archive/2026-09-02.md)
 - [2026-09-01](archive/2026-09-01.md)
 - [2026-08-27](archive/2026-08-27.md)
 - [2026-08-26](archive/2026-08-26.md)
