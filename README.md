@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-02
+## 2026-09-03
 
 ### New AI research · arXiv
 
-- **[Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](http://arxiv.org/abs/2609.01604v1)** — Himil Vasava et al. · 2026-09-01
-  <br/>LLM-based evaluators of natural language generation (NLG) quality are widely deployed as scoring tools and as automated training signals, yet the internal procedure by which they assign a rating rema…
-- **[Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation](http://arxiv.org/abs/2609.01603v1)** — Kefeng Duan et al. · 2026-09-01
-  <br/>Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation meth…
-- **[Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation](http://arxiv.org/abs/2609.01601v1)** — Kefeng Duan et al. · 2026-09-01
-  <br/>The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories ofte…
-- **[CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?](http://arxiv.org/abs/2609.01600v1)** — Damien Sileo et al. · 2026-09-01
-  <br/>Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependenci…
-- **[The Rise of Verbal Reinforcement Learning](http://arxiv.org/abs/2609.01597v1)** — Kshitij Tayal et al. · 2026-09-01
-  <br/>Natural language is emerging as a primary feedback channel for improving language agents, capable of conveying intent, preferences, and causal structure in forms interpretable by both humans and mode…
-- **[Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation](http://arxiv.org/abs/2609.01596v1)** — Haoyuan Deng et al. · 2026-09-01
-  <br/>Real-world robotic assembly at sub-millimeter tolerances demands spatial precision, compliant interaction, and robustness to contact failures. We present Facet-0, a robotic foundation model that pred…
-- **[Mechanism Design for Alignment and Control](http://arxiv.org/abs/2609.01595v1)** — Dirk Bergemann et al. · 2026-09-01
-  <br/>We develop a framework for mechanism design with AI agents whose alignment (preferences) and capabilities (feasible actions and information) are unknown. We want such agents to act on our behalf so m…
-- **[StudentSim: Training LLM-based Student Simulators](http://arxiv.org/abs/2609.01591v1)** — Ke Yang et al. · 2026-09-01
-  <br/>AI tutors are most useful when they adapt to each student's strengths, weaknesses, and preferred guidance, but evidence about which guidance works for which student is sparse, slow, and costly to col…
+- **[A Common Measure of Communication for Speech Brain-Computer Interfaces](http://arxiv.org/abs/2609.02887v1)** — Dulhan Jayalath et al. · 2026-09-02
+  <br/>Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of nat…
+- **[Discriminative World Models for Web Agents](http://arxiv.org/abs/2609.02885v1)** — Kelvin Li et al. · 2026-09-02
+  <br/>Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (P…
+- **[Graph Machine: Towards Better Pretraining via Edges](http://arxiv.org/abs/2609.02881v1)** — Lintai Hou · 2026-09-02
+  <br/>We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static r…
+- **[GRADSOLVE: fast exact gradients for ODE ensembles on GPUs](http://arxiv.org/abs/2609.02876v1)** — Alessio Spurio Mancini · 2026-09-02
+  <br/>Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent traje…
+- **[Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework](http://arxiv.org/abs/2609.02861v1)** — Cagri Temel · 2026-09-02
+  <br/>Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper present…
+- **[User Feedback Provides a Unique Signal that LLMs Can not Detect](http://arxiv.org/abs/2609.02859v1)** — Shachar Don-Yehiya et al. · 2026-09-02
+  <br/>Harnessing naturally occurring feedback from user interactions offers a promising learning signal for Large Language Models (LLMs). However, recent studies suggest this feedback is inherently noisy a…
+- **[Improved Gradient Descent Lower Bounds Beyond Nesterov](http://arxiv.org/abs/2609.02855v1)** — Yuhan Ye et al. · 2026-09-02
+  <br/>We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky…
+- **[The Implications of Linguistic Illegibility for LLM Security](http://arxiv.org/abs/2609.02852v1)** — James Mickens · 2026-09-02
+  <br/>LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an…
 
 ### New model releases · Hugging Face
 
-- **[johndef64/KG-TransomicNet](https://huggingface.co/johndef64/KG-TransomicNet)**
-- **[Rainzor/GameDLSS](https://huggingface.co/Rainzor/GameDLSS)**
-- **[qf-iquest/OmniReason-Deploy](https://huggingface.co/qf-iquest/OmniReason-Deploy)**
-- **[SabrinaBabeZ/Altertant](https://huggingface.co/SabrinaBabeZ/Altertant)**
-- **[NascimentoGH/PruningEverything](https://huggingface.co/NascimentoGH/PruningEverything)**
-- **[asd123dxa3xczcq/MyAwesomeModel-TestRepo](https://huggingface.co/asd123dxa3xczcq/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[jimilismith/qwen2.5-7b-FT-risk-oracle](https://huggingface.co/jimilismith/qwen2.5-7b-FT-risk-oracle)**
-- **[usmanbaloch84/wasee](https://huggingface.co/usmanbaloch84/wasee)**
+- **[Xenna/cielvox2.5](https://huggingface.co/Xenna/cielvox2.5)**
+- **[felsager/smolvla_test](https://huggingface.co/felsager/smolvla_test)** — robotics
+- **[titan-3646/q-FrozenLake-v1-4x4-noSlippery](https://huggingface.co/titan-3646/q-FrozenLake-v1-4x4-noSlippery)** — reinforcement-learning
+- **[SAD12E21/MyAwesomeModel-TestRepo](https://huggingface.co/SAD12E21/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Stage-org/appworld-qwen35-4b-luna-all-no-filter-epoch2-iter1](https://huggingface.co/Stage-org/appworld-qwen35-4b-luna-all-no-filter-epoch2-iter1)**
+- **[smruti90/odia-tiny-lm-20m](https://huggingface.co/smruti90/odia-tiny-lm-20m)** — text-generation
+- **[symrex/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V13-dequantized-oQ4e-fp16-mtp](https://huggingface.co/symrex/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V13-dequantized-oQ4e-fp16-mtp)**
+- **[xcc12ds21313/MyAwesomeModel-TestRepo](https://huggingface.co/xcc12ds21313/MyAwesomeModel-TestRepo)** — feature-extraction
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-03](archive/2026-09-03.md)
 - [2026-09-02](archive/2026-09-02.md)
 - [2026-09-01](archive/2026-09-01.md)
 - [2026-08-27](archive/2026-08-27.md)
