@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-03
+## 2026-09-04
 
 ### New AI research · arXiv
 
-- **[A Common Measure of Communication for Speech Brain-Computer Interfaces](http://arxiv.org/abs/2609.02887v1)** — Dulhan Jayalath et al. · 2026-09-02
-  <br/>Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of nat…
-- **[Discriminative World Models for Web Agents](http://arxiv.org/abs/2609.02885v1)** — Kelvin Li et al. · 2026-09-02
-  <br/>Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (P…
-- **[Graph Machine: Towards Better Pretraining via Edges](http://arxiv.org/abs/2609.02881v1)** — Lintai Hou · 2026-09-02
-  <br/>We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static r…
-- **[GRADSOLVE: fast exact gradients for ODE ensembles on GPUs](http://arxiv.org/abs/2609.02876v1)** — Alessio Spurio Mancini · 2026-09-02
-  <br/>Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent traje…
-- **[Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework](http://arxiv.org/abs/2609.02861v1)** — Cagri Temel · 2026-09-02
-  <br/>Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper present…
-- **[User Feedback Provides a Unique Signal that LLMs Can not Detect](http://arxiv.org/abs/2609.02859v1)** — Shachar Don-Yehiya et al. · 2026-09-02
-  <br/>Harnessing naturally occurring feedback from user interactions offers a promising learning signal for Large Language Models (LLMs). However, recent studies suggest this feedback is inherently noisy a…
-- **[Improved Gradient Descent Lower Bounds Beyond Nesterov](http://arxiv.org/abs/2609.02855v1)** — Yuhan Ye et al. · 2026-09-02
-  <br/>We study how far gradient descent (GD) can be accelerated by predetermined stepsizes in smooth convex optimization. Going beyond the classical $Ω(n^{-2})$ first-order oracle lower bound of Nemirovsky…
-- **[The Implications of Linguistic Illegibility for LLM Security](http://arxiv.org/abs/2609.02852v1)** — James Mickens · 2026-09-02
-  <br/>LLMs are trained to generate natural language. However, various strands of evidence indicate that an LLM's externalized linguistic outputs and mechanistically-extracted linguistic features can be an…
+- **[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1)** — Yuntian Deng et al. · 2026-09-03
+  <br/>Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a pro…
+- **[Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](http://arxiv.org/abs/2609.04198v1)** — Haoyaun Zhu et al. · 2026-09-03
+  <br/>Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to…
+- **[ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1)** — Lihao Liu et al. · 2026-09-03
+  <br/>Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$	imes$ longer yet no more accurate. We trace this to three d…
+- **[Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning](http://arxiv.org/abs/2609.04194v1)** — Kevin Du et al. · 2026-09-03
+  <br/>Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors,…
+- **[One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing](http://arxiv.org/abs/2609.04190v1)** — Adheesh Sunil Juvekar et al. · 2026-09-03
+  <br/>Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a…
+- **[Robust PAC Learning of Concurrent Stochastic Games](http://arxiv.org/abs/2609.04189v1)** — Angel Y. He et al. · 2026-09-03
+  <br/>We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash e…
+- **[Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning](http://arxiv.org/abs/2609.04183v1)** — Ye-Chan Kim et al. · 2026-09-03
+  <br/>Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxilia…
+- **[Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](http://arxiv.org/abs/2609.04180v1)** — Joseph Lee et al. · 2026-09-03
+  <br/>Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learni…
 
 ### New model releases · Hugging Face
 
-- **[Xenna/cielvox2.5](https://huggingface.co/Xenna/cielvox2.5)**
-- **[felsager/smolvla_test](https://huggingface.co/felsager/smolvla_test)** — robotics
-- **[titan-3646/q-FrozenLake-v1-4x4-noSlippery](https://huggingface.co/titan-3646/q-FrozenLake-v1-4x4-noSlippery)** — reinforcement-learning
-- **[SAD12E21/MyAwesomeModel-TestRepo](https://huggingface.co/SAD12E21/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[Stage-org/appworld-qwen35-4b-luna-all-no-filter-epoch2-iter1](https://huggingface.co/Stage-org/appworld-qwen35-4b-luna-all-no-filter-epoch2-iter1)**
-- **[smruti90/odia-tiny-lm-20m](https://huggingface.co/smruti90/odia-tiny-lm-20m)** — text-generation
-- **[symrex/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V13-dequantized-oQ4e-fp16-mtp](https://huggingface.co/symrex/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V13-dequantized-oQ4e-fp16-mtp)**
-- **[xcc12ds21313/MyAwesomeModel-TestRepo](https://huggingface.co/xcc12ds21313/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Fork123/smolvla_test_run1_7000steps](https://huggingface.co/Fork123/smolvla_test_run1_7000steps)**
+- **[SaadAbs/PyTroch](https://huggingface.co/SaadAbs/PyTroch)** — ♥ 1
+- **[johnsilver8/arc_grid_qlora](https://huggingface.co/johnsilver8/arc_grid_qlora)**
+- **[HusnainAmjad/Qwen_2.5_Math_7b_GRPO](https://huggingface.co/HusnainAmjad/Qwen_2.5_Math_7b_GRPO)**
+- **[HusnainAmjad/Qwen_2.5_Math_7b_Replay_SFT](https://huggingface.co/HusnainAmjad/Qwen_2.5_Math_7b_Replay_SFT)**
+- **[JWei05/gemma4-distill-v2-e4b-hard-to-e4b-base](https://huggingface.co/JWei05/gemma4-distill-v2-e4b-hard-to-e4b-base)**
+- **[HusnainAmjad/Qwen_2.5_Math_7b_SFT](https://huggingface.co/HusnainAmjad/Qwen_2.5_Math_7b_SFT)**
+- **[dfsfg5657/MyAwesomeModel-TestRepo](https://huggingface.co/dfsfg5657/MyAwesomeModel-TestRepo)** — feature-extraction
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-04](archive/2026-09-04.md)
 - [2026-09-03](archive/2026-09-03.md)
 - [2026-09-02](archive/2026-09-02.md)
 - [2026-09-01](archive/2026-09-01.md)
