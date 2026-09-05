@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-04
+## 2026-09-05
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[Fork123/smolvla_test_run1_7000steps](https://huggingface.co/Fork123/smolvla_test_run1_7000steps)**
-- **[SaadAbs/PyTroch](https://huggingface.co/SaadAbs/PyTroch)** — ♥ 1
-- **[johnsilver8/arc_grid_qlora](https://huggingface.co/johnsilver8/arc_grid_qlora)**
-- **[HusnainAmjad/Qwen_2.5_Math_7b_GRPO](https://huggingface.co/HusnainAmjad/Qwen_2.5_Math_7b_GRPO)**
-- **[HusnainAmjad/Qwen_2.5_Math_7b_Replay_SFT](https://huggingface.co/HusnainAmjad/Qwen_2.5_Math_7b_Replay_SFT)**
-- **[JWei05/gemma4-distill-v2-e4b-hard-to-e4b-base](https://huggingface.co/JWei05/gemma4-distill-v2-e4b-hard-to-e4b-base)**
-- **[HusnainAmjad/Qwen_2.5_Math_7b_SFT](https://huggingface.co/HusnainAmjad/Qwen_2.5_Math_7b_SFT)**
-- **[dfsfg5657/MyAwesomeModel-TestRepo](https://huggingface.co/dfsfg5657/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Elianee/sn92-cl1239-b](https://huggingface.co/Elianee/sn92-cl1239-b)**
+- **[iionai/1788604293](https://huggingface.co/iionai/1788604293)**
+- **[yunjae-won/T14goodrevise_14b_S4b_klreg1.0_stage0_checkpoint50](https://huggingface.co/yunjae-won/T14goodrevise_14b_S4b_klreg1.0_stage0_checkpoint50)**
+- **[ShoaibRaza12/ppo-LunarLander-v3](https://huggingface.co/ShoaibRaza12/ppo-LunarLander-v3)** — reinforcement-learning
+- **[ewrwerwerer44/MyAwesomeModel-TestRepo](https://huggingface.co/ewrwerwerer44/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[alirezaaminzadeh/refineryguard-lstm-ae](https://huggingface.co/alirezaaminzadeh/refineryguard-lstm-ae)**
+- **[tooldev/MyAwesomeModel-TestRepo](https://huggingface.co/tooldev/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Anwar786/nova-pony](https://huggingface.co/Anwar786/nova-pony)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-05](archive/2026-09-05.md)
 - [2026-09-04](archive/2026-09-04.md)
 - [2026-09-03](archive/2026-09-03.md)
 - [2026-09-02](archive/2026-09-02.md)
