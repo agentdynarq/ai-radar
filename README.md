@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-05
+## 2026-09-06
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[Elianee/sn92-cl1239-b](https://huggingface.co/Elianee/sn92-cl1239-b)**
-- **[iionai/1788604293](https://huggingface.co/iionai/1788604293)**
-- **[yunjae-won/T14goodrevise_14b_S4b_klreg1.0_stage0_checkpoint50](https://huggingface.co/yunjae-won/T14goodrevise_14b_S4b_klreg1.0_stage0_checkpoint50)**
-- **[ShoaibRaza12/ppo-LunarLander-v3](https://huggingface.co/ShoaibRaza12/ppo-LunarLander-v3)** — reinforcement-learning
-- **[ewrwerwerer44/MyAwesomeModel-TestRepo](https://huggingface.co/ewrwerwerer44/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[alirezaaminzadeh/refineryguard-lstm-ae](https://huggingface.co/alirezaaminzadeh/refineryguard-lstm-ae)**
-- **[tooldev/MyAwesomeModel-TestRepo](https://huggingface.co/tooldev/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[Anwar786/nova-pony](https://huggingface.co/Anwar786/nova-pony)**
+- **[Sanaullahbs/Wan2.2-TI2V-5B](https://huggingface.co/Sanaullahbs/Wan2.2-TI2V-5B)** — text-to-video
+- **[Ved4nt/act-so101-retrieve](https://huggingface.co/Ved4nt/act-so101-retrieve)**
+- **[aarinirb/llama3.2-3b-ayurveda-herb-drug-checker](https://huggingface.co/aarinirb/llama3.2-3b-ayurveda-herb-drug-checker)**
+- **[nachiketj14/Girlfriend](https://huggingface.co/nachiketj14/Girlfriend)** — ♥ 1
+- **[Nitsiyami/plm_agent](https://huggingface.co/Nitsiyami/plm_agent)**
+- **[sandeep123/sqabf-grpo-vanilla-step1200](https://huggingface.co/sandeep123/sqabf-grpo-vanilla-step1200)**
+- **[JSWAI/Z-image-turbo-aesthetics](https://huggingface.co/JSWAI/Z-image-turbo-aesthetics)**
+- **[Jongbin-kr/llama-3.1-8b-instruct_lbox-judicial-labeling-precisionist_fallback_ffn-only](https://huggingface.co/Jongbin-kr/llama-3.1-8b-instruct_lbox-judicial-labeling-precisionist_fallback_ffn-only)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-06](archive/2026-09-06.md)
 - [2026-09-05](archive/2026-09-05.md)
 - [2026-09-04](archive/2026-09-04.md)
 - [2026-09-03](archive/2026-09-03.md)
