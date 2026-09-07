@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-06
+## 2026-09-07
 
 ### New AI research · arXiv
 
-- **[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1)** — Yuntian Deng et al. · 2026-09-03
-  <br/>Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a pro…
-- **[Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](http://arxiv.org/abs/2609.04198v1)** — Haoyaun Zhu et al. · 2026-09-03
-  <br/>Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to…
-- **[ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1)** — Lihao Liu et al. · 2026-09-03
-  <br/>Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$	imes$ longer yet no more accurate. We trace this to three d…
-- **[Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning](http://arxiv.org/abs/2609.04194v1)** — Kevin Du et al. · 2026-09-03
-  <br/>Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors,…
-- **[One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing](http://arxiv.org/abs/2609.04190v1)** — Adheesh Sunil Juvekar et al. · 2026-09-03
-  <br/>Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a…
-- **[Robust PAC Learning of Concurrent Stochastic Games](http://arxiv.org/abs/2609.04189v1)** — Angel Y. He et al. · 2026-09-03
-  <br/>We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash e…
-- **[Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning](http://arxiv.org/abs/2609.04183v1)** — Ye-Chan Kim et al. · 2026-09-03
-  <br/>Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxilia…
-- **[Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](http://arxiv.org/abs/2609.04180v1)** — Joseph Lee et al. · 2026-09-03
-  <br/>Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learni…
+- **[UniMate: One Unified Model to Animate Diverse Skeletons](http://arxiv.org/abs/2609.05415v1)** — Linzhan Mou et al. · 2026-09-04
+  <br/>Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained:…
+- **[WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](http://arxiv.org/abs/2609.05405v1)** — Ji Soo Lee et al. · 2026-09-04
+  <br/>Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's long…
+- **[Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction](http://arxiv.org/abs/2609.05404v1)** — Sihwa Park · 2026-09-04
+  <br/>Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences…
+- **[RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments](http://arxiv.org/abs/2609.05403v1)** — Quoc H. Nguyen et al. · 2026-09-04
+  <br/>Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preser…
+- **[Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models](http://arxiv.org/abs/2609.05401v1)** — Wonje Jeung et al. · 2026-09-04
+  <br/>Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantica…
+- **[A Deep Generative Model for Synthesizing Labeled Wireless Signals](http://arxiv.org/abs/2609.05396v1)** — Yuxiao Li et al. · 2026-09-04
+  <br/>Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challeng…
+- **[Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe](http://arxiv.org/abs/2609.05395v1)** — Dain Kim et al. · 2026-09-04
+  <br/>Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source mod…
+- **[Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence](http://arxiv.org/abs/2609.05385v1)** — Urja Pawar et al. · 2026-09-04
+  <br/>LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor…
 
 ### New model releases · Hugging Face
 
-- **[Sanaullahbs/Wan2.2-TI2V-5B](https://huggingface.co/Sanaullahbs/Wan2.2-TI2V-5B)** — text-to-video
-- **[Ved4nt/act-so101-retrieve](https://huggingface.co/Ved4nt/act-so101-retrieve)**
-- **[aarinirb/llama3.2-3b-ayurveda-herb-drug-checker](https://huggingface.co/aarinirb/llama3.2-3b-ayurveda-herb-drug-checker)**
-- **[nachiketj14/Girlfriend](https://huggingface.co/nachiketj14/Girlfriend)** — ♥ 1
-- **[Nitsiyami/plm_agent](https://huggingface.co/Nitsiyami/plm_agent)**
-- **[sandeep123/sqabf-grpo-vanilla-step1200](https://huggingface.co/sandeep123/sqabf-grpo-vanilla-step1200)**
-- **[JSWAI/Z-image-turbo-aesthetics](https://huggingface.co/JSWAI/Z-image-turbo-aesthetics)**
-- **[Jongbin-kr/llama-3.1-8b-instruct_lbox-judicial-labeling-precisionist_fallback_ffn-only](https://huggingface.co/Jongbin-kr/llama-3.1-8b-instruct_lbox-judicial-labeling-precisionist_fallback_ffn-only)**
+- **[xkwwwww/meditok-ctrate-recon](https://huggingface.co/xkwwwww/meditok-ctrate-recon)**
+- **[RyanYr/asyncrl-math_adpklr_s128_b0p01_lenpen_minlen_shuf-gs576](https://huggingface.co/RyanYr/asyncrl-math_adpklr_s128_b0p01_lenpen_minlen_shuf-gs576)**
+- **[DIRKDIGGLER69420/TEST](https://huggingface.co/DIRKDIGGLER69420/TEST)**
+- **[KillerBoss/e-os-v3-hybrid](https://huggingface.co/KillerBoss/e-os-v3-hybrid)**
+- **[Fatatug/Figur](https://huggingface.co/Fatatug/Figur)**
+- **[asd12dscxzcz12/MyAwesomeModel-best](https://huggingface.co/asd12dscxzcz12/MyAwesomeModel-best)** — text-classification
+- **[safafa45346/MyAwesomeModel-TestRepo](https://huggingface.co/safafa45346/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[tomevident/MyAwesomeModel-TestRepo](https://huggingface.co/tomevident/MyAwesomeModel-TestRepo)** — feature-extraction
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-07](archive/2026-09-07.md)
 - [2026-09-06](archive/2026-09-06.md)
 - [2026-09-05](archive/2026-09-05.md)
 - [2026-09-04](archive/2026-09-04.md)
