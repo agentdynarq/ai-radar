@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-07
+## 2026-09-08
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[xkwwwww/meditok-ctrate-recon](https://huggingface.co/xkwwwww/meditok-ctrate-recon)**
-- **[RyanYr/asyncrl-math_adpklr_s128_b0p01_lenpen_minlen_shuf-gs576](https://huggingface.co/RyanYr/asyncrl-math_adpklr_s128_b0p01_lenpen_minlen_shuf-gs576)**
-- **[DIRKDIGGLER69420/TEST](https://huggingface.co/DIRKDIGGLER69420/TEST)**
-- **[KillerBoss/e-os-v3-hybrid](https://huggingface.co/KillerBoss/e-os-v3-hybrid)**
-- **[Fatatug/Figur](https://huggingface.co/Fatatug/Figur)**
-- **[asd12dscxzcz12/MyAwesomeModel-best](https://huggingface.co/asd12dscxzcz12/MyAwesomeModel-best)** — text-classification
-- **[safafa45346/MyAwesomeModel-TestRepo](https://huggingface.co/safafa45346/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[tomevident/MyAwesomeModel-TestRepo](https://huggingface.co/tomevident/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Saktsant/Qwen3-VL-4B-Instruct-AWQ-ONNX](https://huggingface.co/Saktsant/Qwen3-VL-4B-Instruct-AWQ-ONNX)**
+- **[ThuraAung1601/tw_turbo_lf_fixed](https://huggingface.co/ThuraAung1601/tw_turbo_lf_fixed)**
+- **[mradermacher/Horus-Cyber-Nano-1.0-i1-GGUF](https://huggingface.co/mradermacher/Horus-Cyber-Nano-1.0-i1-GGUF)**
+- **[BangorAI/Menai-Qwen3.5-122B-A10B](https://huggingface.co/BangorAI/Menai-Qwen3.5-122B-A10B)**
+- **[ThuraAung1601/tw_turbo_aibench](https://huggingface.co/ThuraAung1601/tw_turbo_aibench)**
+- **[ElMusk/fun06](https://huggingface.co/ElMusk/fun06)**
+- **[Nanochat/nanochat-d26-ademamix-s43](https://huggingface.co/Nanochat/nanochat-d26-ademamix-s43)**
+- **[a1mohamadd/xlm-roberta-base-finetuned-panx-de](https://huggingface.co/a1mohamadd/xlm-roberta-base-finetuned-panx-de)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-08](archive/2026-09-08.md)
 - [2026-09-07](archive/2026-09-07.md)
 - [2026-09-06](archive/2026-09-06.md)
 - [2026-09-05](archive/2026-09-05.md)
