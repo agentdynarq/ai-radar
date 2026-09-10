@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-08
+## 2026-09-10
 
 ### New AI research · arXiv
 
-- **[UniMate: One Unified Model to Animate Diverse Skeletons](http://arxiv.org/abs/2609.05415v1)** — Linzhan Mou et al. · 2026-09-04
-  <br/>Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained:…
-- **[WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](http://arxiv.org/abs/2609.05405v1)** — Ji Soo Lee et al. · 2026-09-04
-  <br/>Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's long…
-- **[Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction](http://arxiv.org/abs/2609.05404v1)** — Sihwa Park · 2026-09-04
-  <br/>Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences…
-- **[RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments](http://arxiv.org/abs/2609.05403v1)** — Quoc H. Nguyen et al. · 2026-09-04
-  <br/>Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preser…
-- **[Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models](http://arxiv.org/abs/2609.05401v1)** — Wonje Jeung et al. · 2026-09-04
-  <br/>Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantica…
-- **[A Deep Generative Model for Synthesizing Labeled Wireless Signals](http://arxiv.org/abs/2609.05396v1)** — Yuxiao Li et al. · 2026-09-04
-  <br/>Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challeng…
-- **[Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe](http://arxiv.org/abs/2609.05395v1)** — Dain Kim et al. · 2026-09-04
-  <br/>Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source mod…
-- **[Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence](http://arxiv.org/abs/2609.05385v1)** — Urja Pawar et al. · 2026-09-04
-  <br/>LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor…
+- **[IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications](http://arxiv.org/abs/2609.10539v1)** — Yiling Ma et al. · 2026-09-09
+  <br/>A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of i…
+- **[Likelihood-free inference with nuisance parameters through normalizing flows](http://arxiv.org/abs/2609.10534v1)** — Phil Assheton · 2026-09-09
+  <br/>We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a s…
+- **[A positive resolution of the gap-entropy conjecture](http://arxiv.org/abs/2609.10529v1)** — P. M. Aronow et al. · 2026-09-09
+  <br/>We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$,…
+- **[Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch](http://arxiv.org/abs/2609.10525v1)** — Xiaoyu Li et al. · 2026-09-09
+  <br/>Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a co…
+- **[Show-Harness: Just a VLM Agent Can Play Robots](http://arxiv.org/abs/2609.10522v1)** — Yanzhe Chen et al. · 2026-09-09
+  <br/>Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Har…
+- **[Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements](http://arxiv.org/abs/2609.10514v1)** — Ashwin Nayak et al. · 2026-09-09
+  <br/>We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $arepsilon$, estimating an unkno…
+- **[Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers](http://arxiv.org/abs/2609.10505v1)** — Menachem Finkelstein et al. · 2026-09-09
+  <br/>Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP…
+- **[Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation](http://arxiv.org/abs/2609.10495v1)** — Siddharth Gupta et al. · 2026-09-09
+  <br/>In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free f…
 
 ### New model releases · Hugging Face
 
-- **[Saktsant/Qwen3-VL-4B-Instruct-AWQ-ONNX](https://huggingface.co/Saktsant/Qwen3-VL-4B-Instruct-AWQ-ONNX)**
-- **[ThuraAung1601/tw_turbo_lf_fixed](https://huggingface.co/ThuraAung1601/tw_turbo_lf_fixed)**
-- **[mradermacher/Horus-Cyber-Nano-1.0-i1-GGUF](https://huggingface.co/mradermacher/Horus-Cyber-Nano-1.0-i1-GGUF)**
-- **[BangorAI/Menai-Qwen3.5-122B-A10B](https://huggingface.co/BangorAI/Menai-Qwen3.5-122B-A10B)**
-- **[ThuraAung1601/tw_turbo_aibench](https://huggingface.co/ThuraAung1601/tw_turbo_aibench)**
-- **[ElMusk/fun06](https://huggingface.co/ElMusk/fun06)**
-- **[Nanochat/nanochat-d26-ademamix-s43](https://huggingface.co/Nanochat/nanochat-d26-ademamix-s43)**
-- **[a1mohamadd/xlm-roberta-base-finetuned-panx-de](https://huggingface.co/a1mohamadd/xlm-roberta-base-finetuned-panx-de)**
+- **[thuyduongjoe123/checkpoints_lo_vi_logit](https://huggingface.co/thuyduongjoe123/checkpoints_lo_vi_logit)**
+- **[ZXC12EDSA/MyAwesomeModel-TestRepo](https://huggingface.co/ZXC12EDSA/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[devonfire/Financial-Fraud-Detection-Model-Qwen-1.5b](https://huggingface.co/devonfire/Financial-Fraud-Detection-Model-Qwen-1.5b)**
+- **[0xbidkslj1/causal_3](https://huggingface.co/0xbidkslj1/causal_3)**
+- **[chair0/single_multiple_lighting_10hz](https://huggingface.co/chair0/single_multiple_lighting_10hz)**
+- **[INCModel3/Z-Image-Turbo-MXFP8-RTN-AutoRound](https://huggingface.co/INCModel3/Z-Image-Turbo-MXFP8-RTN-AutoRound)** — text-to-image
+- **[Jeesup/svd-safety-l2_remove60_swapdisc_b001](https://huggingface.co/Jeesup/svd-safety-l2_remove60_swapdisc_b001)**
+- **[frantree/M-Prometheus-7B-Q4_K_M-GGUF](https://huggingface.co/frantree/M-Prometheus-7B-Q4_K_M-GGUF)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-10](archive/2026-09-10.md)
 - [2026-09-08](archive/2026-09-08.md)
 - [2026-09-07](archive/2026-09-07.md)
 - [2026-09-06](archive/2026-09-06.md)
