@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-10
+## 2026-09-11
 
 ### New AI research · arXiv
 
-- **[IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications](http://arxiv.org/abs/2609.10539v1)** — Yiling Ma et al. · 2026-09-09
-  <br/>A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of i…
-- **[Likelihood-free inference with nuisance parameters through normalizing flows](http://arxiv.org/abs/2609.10534v1)** — Phil Assheton · 2026-09-09
-  <br/>We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a s…
-- **[A positive resolution of the gap-entropy conjecture](http://arxiv.org/abs/2609.10529v1)** — P. M. Aronow et al. · 2026-09-09
-  <br/>We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$,…
-- **[Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch](http://arxiv.org/abs/2609.10525v1)** — Xiaoyu Li et al. · 2026-09-09
-  <br/>Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a co…
-- **[Show-Harness: Just a VLM Agent Can Play Robots](http://arxiv.org/abs/2609.10522v1)** — Yanzhe Chen et al. · 2026-09-09
-  <br/>Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Har…
-- **[Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements](http://arxiv.org/abs/2609.10514v1)** — Ashwin Nayak et al. · 2026-09-09
-  <br/>We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $arepsilon$, estimating an unkno…
-- **[Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers](http://arxiv.org/abs/2609.10505v1)** — Menachem Finkelstein et al. · 2026-09-09
-  <br/>Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP…
-- **[Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation](http://arxiv.org/abs/2609.10495v1)** — Siddharth Gupta et al. · 2026-09-09
-  <br/>In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free f…
+- **[GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay](http://arxiv.org/abs/2609.11923v1)** — Boning Li et al. · 2026-09-10
+  <br/>Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in mi…
+- **[General Quantification of Covariate and Concept Shifts](http://arxiv.org/abs/2609.11918v1)** — Hongbo Chen et al. · 2026-09-10
+  <br/>Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samp…
+- **[Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data](http://arxiv.org/abs/2609.11917v1)** — Atindra Jha et al. · 2026-09-10
+  <br/>As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, bu…
+- **[Can Edge-Deployable Vision-Language Models Identify Species?](http://arxiv.org/abs/2609.11916v1)** — William Zhou et al. · 2026-09-10
+  <br/>Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically rele…
+- **[Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact](http://arxiv.org/abs/2609.11915v1)** — Masahiro Kato et al. · 2026-09-10
+  <br/>Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generativ…
+- **[Distance generalization in transformers: why bother with positional encoding?](http://arxiv.org/abs/2609.11913v1)** — Daniel Henrik Nevermann et al. · 2026-09-10
+  <br/>Out-of-distribution length generalization, namely to extrapolate a task from short to longer context, has been studied intensively for transformers. Here we focus on distance generalization, which pr…
+- **[Artificial Id: Drive and Persistent Alignment in Agentic AI](http://arxiv.org/abs/2609.11911v1)** — Yakov Pyotr Shkolnikov · 2026-09-10
+  <br/>Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current…
+- **[From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good](http://arxiv.org/abs/2609.11910v1)** — Nitesh V. Chawla et al. · 2026-09-10
+  <br/>Artificial Intelligence does more than create a governance problem. It can also reveal where institutions have already failed to provide responsiveness, belonging, care, and accountability. Once depl…
 
 ### New model releases · Hugging Face
 
-- **[thuyduongjoe123/checkpoints_lo_vi_logit](https://huggingface.co/thuyduongjoe123/checkpoints_lo_vi_logit)**
-- **[ZXC12EDSA/MyAwesomeModel-TestRepo](https://huggingface.co/ZXC12EDSA/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[devonfire/Financial-Fraud-Detection-Model-Qwen-1.5b](https://huggingface.co/devonfire/Financial-Fraud-Detection-Model-Qwen-1.5b)**
-- **[0xbidkslj1/causal_3](https://huggingface.co/0xbidkslj1/causal_3)**
-- **[chair0/single_multiple_lighting_10hz](https://huggingface.co/chair0/single_multiple_lighting_10hz)**
-- **[INCModel3/Z-Image-Turbo-MXFP8-RTN-AutoRound](https://huggingface.co/INCModel3/Z-Image-Turbo-MXFP8-RTN-AutoRound)** — text-to-image
-- **[Jeesup/svd-safety-l2_remove60_swapdisc_b001](https://huggingface.co/Jeesup/svd-safety-l2_remove60_swapdisc_b001)**
-- **[frantree/M-Prometheus-7B-Q4_K_M-GGUF](https://huggingface.co/frantree/M-Prometheus-7B-Q4_K_M-GGUF)**
+- **[dhchoi/bandit-ocr](https://huggingface.co/dhchoi/bandit-ocr)**
+- **[dhchoi/bandit-ocr-lora](https://huggingface.co/dhchoi/bandit-ocr-lora)** — image-text-to-text
+- **[aadarshppofficial/vizwiz-hindi-vqa-final](https://huggingface.co/aadarshppofficial/vizwiz-hindi-vqa-final)** — text-generation
+- **[astroos/meena-2-education-progeny](https://huggingface.co/astroos/meena-2-education-progeny)**
+- **[tooldev/MyAwesomeModel-TestRepo](https://huggingface.co/tooldev/MyAwesomeModel-TestRepo)** — feature-extraction · ↓ 1562
+- **[Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-AraStance-512-44](https://huggingface.co/Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-AraStance-512-44)**
+- **[Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-UnifiedFC-512-44](https://huggingface.co/Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-UnifiedFC-512-44)**
+- **[Jeesup/svd-safety-l2_remove40_swapgapiter_b010](https://huggingface.co/Jeesup/svd-safety-l2_remove40_swapgapiter_b010)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-11](archive/2026-09-11.md)
 - [2026-09-10](archive/2026-09-10.md)
 - [2026-09-08](archive/2026-09-08.md)
 - [2026-09-07](archive/2026-09-07.md)
