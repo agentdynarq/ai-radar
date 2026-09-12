@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-11
+## 2026-09-12
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[dhchoi/bandit-ocr](https://huggingface.co/dhchoi/bandit-ocr)**
-- **[dhchoi/bandit-ocr-lora](https://huggingface.co/dhchoi/bandit-ocr-lora)** — image-text-to-text
-- **[aadarshppofficial/vizwiz-hindi-vqa-final](https://huggingface.co/aadarshppofficial/vizwiz-hindi-vqa-final)** — text-generation
-- **[astroos/meena-2-education-progeny](https://huggingface.co/astroos/meena-2-education-progeny)**
-- **[tooldev/MyAwesomeModel-TestRepo](https://huggingface.co/tooldev/MyAwesomeModel-TestRepo)** — feature-extraction · ↓ 1562
-- **[Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-AraStance-512-44](https://huggingface.co/Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-AraStance-512-44)**
-- **[Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-UnifiedFC-512-44](https://huggingface.co/Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-UnifiedFC-512-44)**
-- **[Jeesup/svd-safety-l2_remove40_swapgapiter_b010](https://huggingface.co/Jeesup/svd-safety-l2_remove40_swapgapiter_b010)**
+- **[morinaoki/multimodal-generation-exp](https://huggingface.co/morinaoki/multimodal-generation-exp)**
+- **[yungisimon/Qwen2.5-14B-giri-msq-0N-ep1](https://huggingface.co/yungisimon/Qwen2.5-14B-giri-msq-0N-ep1)**
+- **[imamywright/flamingo-retrieval](https://huggingface.co/imamywright/flamingo-retrieval)**
+- **[mradermacher/ZynDwarf-1.1-GGUF](https://huggingface.co/mradermacher/ZynDwarf-1.1-GGUF)**
+- **[RyanYr/asyncrl-math_adpklr_s40_b0p01_be2_shift0p01_truncneg1_shuf-gs80](https://huggingface.co/RyanYr/asyncrl-math_adpklr_s40_b0p01_be2_shift0p01_truncneg1_shuf-gs80)**
+- **[hirsch-sw/distilbert-rotten-tomatoes](https://huggingface.co/hirsch-sw/distilbert-rotten-tomatoes)**
+- **[ailexleon/Dark-Nexus-27B-v3.0-uncensored-heretic-mlx-6Bit](https://huggingface.co/ailexleon/Dark-Nexus-27B-v3.0-uncensored-heretic-mlx-6Bit)**
+- **[RyanYr/asyncrl-math_adpklr_s40_b0p01_be2_shift0p02_truncneg1_shuf-gs400](https://huggingface.co/RyanYr/asyncrl-math_adpklr_s40_b0p01_be2_shift0p02_truncneg1_shuf-gs400)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-12](archive/2026-09-12.md)
 - [2026-09-11](archive/2026-09-11.md)
 - [2026-09-10](archive/2026-09-10.md)
 - [2026-09-08](archive/2026-09-08.md)
