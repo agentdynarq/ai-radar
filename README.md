@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-13
+## 2026-09-14
 
 ### New AI research · arXiv
 
@@ -23,20 +23,21 @@ _No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[THOMASPATEL/contrastive](https://huggingface.co/THOMASPATEL/contrastive)**
-- **[THOMASPATEL/matching](https://huggingface.co/THOMASPATEL/matching)**
-- **[xelsoft-ai-lab/AfriVoxAccent_QW3_spk_acc_12hz_lora-r16_frac25_s42_20260913_111625](https://huggingface.co/xelsoft-ai-lab/AfriVoxAccent_QW3_spk_acc_12hz_lora-r16_frac25_s42_20260913_111625)** — text-to-speech
-- **[llm-semantic-router/Vela-1.0-Encoder-307M-Hazard](https://huggingface.co/llm-semantic-router/Vela-1.0-Encoder-307M-Hazard)** — text-classification
-- **[0xA50C1A1/Muse-Glimmer-30B-abliterix](https://huggingface.co/0xA50C1A1/Muse-Glimmer-30B-abliterix)**
-- **[CryptoDed/L1n4](https://huggingface.co/CryptoDed/L1n4)**
-- **[sangyon/qwen3_4b_grpo_think_intentcheck_qwen3_4b_nonthink](https://huggingface.co/sangyon/qwen3_4b_grpo_think_intentcheck_qwen3_4b_nonthink)**
-- **[divakar7c5/wealthwand-qwen3-1.7b-int4-onnx](https://huggingface.co/divakar7c5/wealthwand-qwen3-1.7b-int4-onnx)** — text-generation
+- **[Mulder2007/matching-rc1](https://huggingface.co/Mulder2007/matching-rc1)**
+- **[oi-uae/Qwen-Cyber-27B](https://huggingface.co/oi-uae/Qwen-Cyber-27B)**
+- **[OzodbekAImarkaz/smolvla_resting-star](https://huggingface.co/OzodbekAImarkaz/smolvla_resting-star)** — robotics
+- **[nest102/god01](https://huggingface.co/nest102/god01)**
+- **[mradermacher/Clary-2-Cyber-Flash-1.7B-GGUF](https://huggingface.co/mradermacher/Clary-2-Cyber-Flash-1.7B-GGUF)**
+- **[lyca-byte/business-revenue-prediction-model](https://huggingface.co/lyca-byte/business-revenue-prediction-model)**
+- **[yunjae-won/T14b_32badrevise_S4b_klreg0.1_stage0_checkpoint20](https://huggingface.co/yunjae-won/T14b_32badrevise_S4b_klreg0.1_stage0_checkpoint20)**
+- **[wy8edhuh/DeepSeek-R1-0528-Qwen3-8B-heretic-Q6_K-GGUF](https://huggingface.co/wy8edhuh/DeepSeek-R1-0528-Qwen3-8B-heretic-Q6_K-GGUF)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-14](archive/2026-09-14.md)
 - [2026-09-13](archive/2026-09-13.md)
 - [2026-09-12](archive/2026-09-12.md)
 - [2026-09-11](archive/2026-09-11.md)
