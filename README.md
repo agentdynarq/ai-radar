@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-14
+## 2026-09-15
 
 ### New AI research · arXiv
 
@@ -23,20 +23,21 @@ _No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[Mulder2007/matching-rc1](https://huggingface.co/Mulder2007/matching-rc1)**
-- **[oi-uae/Qwen-Cyber-27B](https://huggingface.co/oi-uae/Qwen-Cyber-27B)**
-- **[OzodbekAImarkaz/smolvla_resting-star](https://huggingface.co/OzodbekAImarkaz/smolvla_resting-star)** — robotics
-- **[nest102/god01](https://huggingface.co/nest102/god01)**
-- **[mradermacher/Clary-2-Cyber-Flash-1.7B-GGUF](https://huggingface.co/mradermacher/Clary-2-Cyber-Flash-1.7B-GGUF)**
-- **[lyca-byte/business-revenue-prediction-model](https://huggingface.co/lyca-byte/business-revenue-prediction-model)**
-- **[yunjae-won/T14b_32badrevise_S4b_klreg0.1_stage0_checkpoint20](https://huggingface.co/yunjae-won/T14b_32badrevise_S4b_klreg0.1_stage0_checkpoint20)**
-- **[wy8edhuh/DeepSeek-R1-0528-Qwen3-8B-heretic-Q6_K-GGUF](https://huggingface.co/wy8edhuh/DeepSeek-R1-0528-Qwen3-8B-heretic-Q6_K-GGUF)**
+- **[77Pete77/krea2_dua_lipa](https://huggingface.co/77Pete77/krea2_dua_lipa)**
+- **[jujeongho/Qwen3.5-4B-LoRA-Welding-Component-Segmentation](https://huggingface.co/jujeongho/Qwen3.5-4B-LoRA-Welding-Component-Segmentation)**
+- **[mradermacher/Haidass-Translate-143M-Instruction-GGUF](https://huggingface.co/mradermacher/Haidass-Translate-143M-Instruction-GGUF)**
+- **[JessicaYoung/few-shot-multimodal-2024](https://huggingface.co/JessicaYoung/few-shot-multimodal-2024)**
+- **[mradermacher/Single_GPU_Llama3-8B-GGUF](https://huggingface.co/mradermacher/Single_GPU_Llama3-8B-GGUF)**
+- **[Cisco1963/llmplasticity-baseline-en_zh_linear_8-s44](https://huggingface.co/Cisco1963/llmplasticity-baseline-en_zh_linear_8-s44)**
+- **[mradermacher/Swift-Qwen3.8-27B-Uncensored-MTP-GGUF](https://huggingface.co/mradermacher/Swift-Qwen3.8-27B-Uncensored-MTP-GGUF)**
+- **[Ram20307/qwen3-0.6b-gsm8k-openmath-sft-dpo-seed42](https://huggingface.co/Ram20307/qwen3-0.6b-gsm8k-openmath-sft-dpo-seed42)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-15](archive/2026-09-15.md)
 - [2026-09-14](archive/2026-09-14.md)
 - [2026-09-13](archive/2026-09-13.md)
 - [2026-09-12](archive/2026-09-12.md)
