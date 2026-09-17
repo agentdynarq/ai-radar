@@ -15,43 +15,29 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-16
+## 2026-09-17
 
 ### New AI research · arXiv
 
-- **[Agentic Societies Need a Social Harness](http://arxiv.org/abs/2609.17527v1)** — Tapan Chugh et al. · 2026-09-15
-  <br/>An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimental…
-- **[ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](http://arxiv.org/abs/2609.17523v1)** — Shuhan Xue et al. · 2026-09-15
-  <br/>We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports res…
-- **[PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control](http://arxiv.org/abs/2609.17521v1)** — Chuhao Chen et al. · 2026-09-15
-  <br/>Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the…
-- **[When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control](http://arxiv.org/abs/2609.17516v1)** — Ali Şenol · 2026-09-15
-  <br/>Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment condi…
-- **[What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity](http://arxiv.org/abs/2609.17515v1)** — Congjing Zhang et al. · 2026-09-15
-  <br/>Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation…
-- **[LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs](http://arxiv.org/abs/2609.17509v1)** — Thanapat Trachu et al. · 2026-09-15
-  <br/>Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate…
-- **[ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation](http://arxiv.org/abs/2609.17499v1)** — Vicky Feliren et al. · 2026-09-15
-  <br/>Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisio…
-- **[Verifiable Social Reasoning for LLM Assistants](http://arxiv.org/abs/2609.17496v1)** — Amir Taubenfeld et al. · 2026-09-15
-  <br/>LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns…
+_No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[adpretko/celerity-906m-8k-ad0p4-ild](https://huggingface.co/adpretko/celerity-906m-8k-ad0p4-ild)**
-- **[logeshsenthil13/Gemma_Embeddings](https://huggingface.co/logeshsenthil13/Gemma_Embeddings)**
-- **[eason1021/sd-class-butterflies-64](https://huggingface.co/eason1021/sd-class-butterflies-64)**
-- **[melihovoleg173/Qwen3.8-27B-Uncensored-Cyber-agentic-imatrix-GGUF](https://huggingface.co/melihovoleg173/Qwen3.8-27B-Uncensored-Cyber-agentic-imatrix-GGUF)** — image-text-to-text
-- **[adpretko/celerity-906m-8k-ad0p2-ild](https://huggingface.co/adpretko/celerity-906m-8k-ad0p2-ild)**
-- **[diaaaah/smolvla-malva-right-pickup](https://huggingface.co/diaaaah/smolvla-malva-right-pickup)**
-- **[nishti1024/DeepSeek-V4.1-Flash](https://huggingface.co/nishti1024/DeepSeek-V4.1-Flash)** — image-text-to-text
-- **[adpretko/celerity-906m-8k-ad0p4](https://huggingface.co/adpretko/celerity-906m-8k-ad0p4)**
+- **[virtuanista/LFM2.5-8B-A1B-Uncensored-GGUF](https://huggingface.co/virtuanista/LFM2.5-8B-A1B-Uncensored-GGUF)**
+- **[ayampepes/tmp](https://huggingface.co/ayampepes/tmp)**
+- **[iammad1/bark-small](https://huggingface.co/iammad1/bark-small)** — text-to-speech · ♥ 1
+- **[sra-vjti/molmoact2-yam-pi05-fold-pink-towel-vr-expert](https://huggingface.co/sra-vjti/molmoact2-yam-pi05-fold-pink-towel-vr-expert)** — robotics
+- **[ayampepes/Mistral-7B-v0.1](https://huggingface.co/ayampepes/Mistral-7B-v0.1)**
+- **[M1ztyk/SAIGE-dpo-v3-1-run3](https://huggingface.co/M1ztyk/SAIGE-dpo-v3-1-run3)**
+- **[Deboyeeeeeee/ticket-classifier-distilbert](https://huggingface.co/Deboyeeeeeee/ticket-classifier-distilbert)**
+- **[AshK/nepalijagdumbo-eval](https://huggingface.co/AshK/nepalijagdumbo-eval)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-17](archive/2026-09-17.md)
 - [2026-09-16](archive/2026-09-16.md)
 - [2026-09-15](archive/2026-09-15.md)
 - [2026-09-14](archive/2026-09-14.md)
