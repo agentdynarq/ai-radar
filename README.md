@@ -15,43 +15,29 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-18
+## 2026-09-19
 
 ### New AI research · arXiv
 
-- **[Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation](http://arxiv.org/abs/2609.20822v1)** — Bingxin Xu et al. · 2026-09-17
-  <br/>Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spe…
-- **[Embedding Models Measure in Peculiar Ways](http://arxiv.org/abs/2609.20821v1)** — Juri Opitz et al. · 2026-09-17
-  <br/>Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objectiv…
-- **[Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision](http://arxiv.org/abs/2609.20820v1)** — Nitish Dashora et al. · 2026-09-17
-  <br/>Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades per…
-- **[FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations](http://arxiv.org/abs/2609.20817v1)** — Kevin Qu et al. · 2026-09-17
-  <br/>Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a…
-- **[Paint-Anything: Unified Any-Color Control for Image Generation and Editing](http://arxiv.org/abs/2609.20816v1)** — Ji Xie et al. · 2026-09-17
-  <br/>Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, e…
-- **[ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis](http://arxiv.org/abs/2609.20815v1)** — Zahra Ghaffari et al. · 2026-09-17
-  <br/>Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these…
-- **[How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?](http://arxiv.org/abs/2609.20814v1)** — Pochinapeddi Sai Bhargav et al. · 2026-09-17
-  <br/>Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift af…
-- **[Quantifying Overclaiming Propensity in Frontier LLM Agents](http://arxiv.org/abs/2609.20812v1)** — Nolan Smyth et al. · 2026-09-17
-  <br/>Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of…
+_No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[selcukkubur/Confucius4-R2T2-mlx-4bit](https://huggingface.co/selcukkubur/Confucius4-R2T2-mlx-4bit)**
-- **[SADD1DSA21DSA/MyAwesomeModel-TestRepo](https://huggingface.co/SADD1DSA21DSA/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[sadad1szc12cxzq/MyAwesomeModel](https://huggingface.co/sadad1szc12cxzq/MyAwesomeModel)**
-- **[seema4786/arabic-rvc-models](https://huggingface.co/seema4786/arabic-rvc-models)**
-- **[Papahaven/DSSA-LUCAS](https://huggingface.co/Papahaven/DSSA-LUCAS)** — image-classification
-- **[chenqinyuluguan/deepseek-llm-7b-chat](https://huggingface.co/chenqinyuluguan/deepseek-llm-7b-chat)**
-- **[SAD1CXZC12DXZ/MyAwesomeModel-TestRepo](https://huggingface.co/SAD1CXZC12DXZ/MyAwesomeModel-TestRepo)**
-- **[ToddBB/MyAwesomeModel-TestRepo](https://huggingface.co/ToddBB/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Artiomg1/truthlens-distilbert](https://huggingface.co/Artiomg1/truthlens-distilbert)**
+- **[Arup330/Abdomen_closed_noCoT_MedGemma-4B_lora](https://huggingface.co/Arup330/Abdomen_closed_noCoT_MedGemma-4B_lora)**
+- **[Jomanne3/MyAwesomeModel-TestRepo](https://huggingface.co/Jomanne3/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[aixk/ba3-img-150m-sota](https://huggingface.co/aixk/ba3-img-150m-sota)**
+- **[pikapengAI/PikaPengAI](https://huggingface.co/pikapengAI/PikaPengAI)**
+- **[Ruurd/BYOD-Llama-3.1-8B](https://huggingface.co/Ruurd/BYOD-Llama-3.1-8B)**
+- **[AffixIO/affixio-agent-tools](https://huggingface.co/AffixIO/affixio-agent-tools)**
+- **[AffixIO/affixio-ollama](https://huggingface.co/AffixIO/affixio-ollama)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-19](archive/2026-09-19.md)
 - [2026-09-18](archive/2026-09-18.md)
 - [2026-09-17](archive/2026-09-17.md)
 - [2026-09-16](archive/2026-09-16.md)
