@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-19
+## 2026-09-20
 
 ### New AI research · arXiv
 
@@ -23,20 +23,21 @@ _No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[Artiomg1/truthlens-distilbert](https://huggingface.co/Artiomg1/truthlens-distilbert)**
-- **[Arup330/Abdomen_closed_noCoT_MedGemma-4B_lora](https://huggingface.co/Arup330/Abdomen_closed_noCoT_MedGemma-4B_lora)**
-- **[Jomanne3/MyAwesomeModel-TestRepo](https://huggingface.co/Jomanne3/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[aixk/ba3-img-150m-sota](https://huggingface.co/aixk/ba3-img-150m-sota)**
-- **[pikapengAI/PikaPengAI](https://huggingface.co/pikapengAI/PikaPengAI)**
-- **[Ruurd/BYOD-Llama-3.1-8B](https://huggingface.co/Ruurd/BYOD-Llama-3.1-8B)**
-- **[AffixIO/affixio-agent-tools](https://huggingface.co/AffixIO/affixio-agent-tools)**
-- **[AffixIO/affixio-ollama](https://huggingface.co/AffixIO/affixio-ollama)**
+- **[yyuan244/asyncrl-m4b_adpklr_s40_b0p01_shift0p04_tn1-gs360](https://huggingface.co/yyuan244/asyncrl-m4b_adpklr_s40_b0p01_shift0p04_tn1-gs360)**
+- **[Rand000mGuy/droolk](https://huggingface.co/Rand000mGuy/droolk)** — text-to-image
+- **[mrinal22258/floorgen](https://huggingface.co/mrinal22258/floorgen)**
+- **[nwsrt/MyAwesomeModel-TestRepo](https://huggingface.co/nwsrt/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[ThomasinAlistair1794/MyAwesomeModel-TestRepo](https://huggingface.co/ThomasinAlistair1794/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[backpacks12344321/swa2](https://huggingface.co/backpacks12344321/swa2)**
+- **[jensjepsen/danish-lm-400m-sft-toolmix-v19-mid](https://huggingface.co/jensjepsen/danish-lm-400m-sft-toolmix-v19-mid)**
+- **[yurunyyr/asyncrl-math_grpo_s40_truncneg1_lr4x_2side_lo0p3_hi6_shuf-gs440](https://huggingface.co/yurunyyr/asyncrl-math_grpo_s40_truncneg1_lr4x_2side_lo0p3_hi6_shuf-gs440)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-20](archive/2026-09-20.md)
 - [2026-09-19](archive/2026-09-19.md)
 - [2026-09-18](archive/2026-09-18.md)
 - [2026-09-17](archive/2026-09-17.md)
