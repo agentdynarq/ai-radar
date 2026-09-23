@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-22
+## 2026-09-23
 
 ### New AI research · arXiv
 
@@ -23,20 +23,21 @@ _No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[nassimjp/Qwen3-VL-2B-Thinking-Pashto-Zi](https://huggingface.co/nassimjp/Qwen3-VL-2B-Thinking-Pashto-Zi)**
-- **[MelNikov49539/tbird-log-anomaly](https://huggingface.co/MelNikov49539/tbird-log-anomaly)**
-- **[vana98/skotch](https://huggingface.co/vana98/skotch)**
-- **[asd11dasd21dd/MyAwesomeModel-TestRepo](https://huggingface.co/asd11dasd21dd/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[kewalk123/beans0922_pi05_base_10k](https://huggingface.co/kewalk123/beans0922_pi05_base_10k)**
-- **[javimosch/mtlm-7m-router2](https://huggingface.co/javimosch/mtlm-7m-router2)**
-- **[javimosch/mtlm-7m-router2s384](https://huggingface.co/javimosch/mtlm-7m-router2s384)**
-- **[MelNikov49539/bgl-log-anomaly](https://huggingface.co/MelNikov49539/bgl-log-anomaly)**
+- **[bqgs/taxi](https://huggingface.co/bqgs/taxi)** — reinforcement-learning
+- **[francesca9805/nor-latn-10mb-ppt-Dp-10mb-packed-bfd_seed10](https://huggingface.co/francesca9805/nor-latn-10mb-ppt-Dp-10mb-packed-bfd_seed10)**
+- **[huggingaccounttest/DUME-PARTIAL-PLANNER-050-COMP-ACTION-CHUNK-15-STRIDE-2](https://huggingface.co/huggingaccounttest/DUME-PARTIAL-PLANNER-050-COMP-ACTION-CHUNK-15-STRIDE-2)**
+- **[WijewardhanaNT/xnli_en_and_hi_5000_percentage_1_42_Full_tune](https://huggingface.co/WijewardhanaNT/xnli_en_and_hi_5000_percentage_1_42_Full_tune)**
+- **[Timathk/mms-tts-tgk-female-finetuned](https://huggingface.co/Timathk/mms-tts-tgk-female-finetuned)** — text-to-audio
+- **[pavansainath/tourism-wellness-model](https://huggingface.co/pavansainath/tourism-wellness-model)**
+- **[TB22427/MyAwesomeModel-TestRepo](https://huggingface.co/TB22427/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[wgdna/Mifaz6](https://huggingface.co/wgdna/Mifaz6)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-23](archive/2026-09-23.md)
 - [2026-09-22](archive/2026-09-22.md)
 - [2026-09-21](archive/2026-09-21.md)
 - [2026-09-20](archive/2026-09-20.md)
