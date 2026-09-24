@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-23
+## 2026-09-24
 
 ### New AI research · arXiv
 
@@ -23,20 +23,21 @@ _No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[bqgs/taxi](https://huggingface.co/bqgs/taxi)** — reinforcement-learning
-- **[francesca9805/nor-latn-10mb-ppt-Dp-10mb-packed-bfd_seed10](https://huggingface.co/francesca9805/nor-latn-10mb-ppt-Dp-10mb-packed-bfd_seed10)**
-- **[huggingaccounttest/DUME-PARTIAL-PLANNER-050-COMP-ACTION-CHUNK-15-STRIDE-2](https://huggingface.co/huggingaccounttest/DUME-PARTIAL-PLANNER-050-COMP-ACTION-CHUNK-15-STRIDE-2)**
-- **[WijewardhanaNT/xnli_en_and_hi_5000_percentage_1_42_Full_tune](https://huggingface.co/WijewardhanaNT/xnli_en_and_hi_5000_percentage_1_42_Full_tune)**
-- **[Timathk/mms-tts-tgk-female-finetuned](https://huggingface.co/Timathk/mms-tts-tgk-female-finetuned)** — text-to-audio
-- **[pavansainath/tourism-wellness-model](https://huggingface.co/pavansainath/tourism-wellness-model)**
-- **[TB22427/MyAwesomeModel-TestRepo](https://huggingface.co/TB22427/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[wgdna/Mifaz6](https://huggingface.co/wgdna/Mifaz6)**
+- **[Goat691/my_awesome_asr_mind_model](https://huggingface.co/Goat691/my_awesome_asr_mind_model)**
+- **[yurunyyr/asyncrl-math_sc_tis_s40_shuf-gs1040](https://huggingface.co/yurunyyr/asyncrl-math_sc_tis_s40_shuf-gs1040)**
+- **[yyuan244/asyncrl-m4b_async_s5_mb8_klpi_pg_b0p05_adbeta_eta0p5-gs50](https://huggingface.co/yyuan244/asyncrl-m4b_async_s5_mb8_klpi_pg_b0p05_adbeta_eta0p5-gs50)**
+- **[RunningHubAI/rh-ramthrusts-nsfw-pink-alchemy-anima-v2.9-unet](https://huggingface.co/RunningHubAI/rh-ramthrusts-nsfw-pink-alchemy-anima-v2.9-unet)**
+- **[francesca9805/ppt-wc-uniform-newlex-dan-before-100mb-packed-bfd_seed455](https://huggingface.co/francesca9805/ppt-wc-uniform-newlex-dan-before-100mb-packed-bfd_seed455)**
+- **[MANGSEOK123/qwen3-4b-tau2-retail_setting4_n34-1ep](https://huggingface.co/MANGSEOK123/qwen3-4b-tau2-retail_setting4_n34-1ep)**
+- **[cwaud/tournament-exp-s1-f644ed68-ef1b-4e2b-9709-e301680e4958-5Expbaff5600974633a3](https://huggingface.co/cwaud/tournament-exp-s1-f644ed68-ef1b-4e2b-9709-e301680e4958-5Expbaff5600974633a3)**
+- **[kumar1006/ppo-LunarLander-v2](https://huggingface.co/kumar1006/ppo-LunarLander-v2)** — reinforcement-learning
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-24](archive/2026-09-24.md)
 - [2026-09-23](archive/2026-09-23.md)
 - [2026-09-22](archive/2026-09-22.md)
 - [2026-09-21](archive/2026-09-21.md)
