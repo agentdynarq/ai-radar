@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-24
+## 2026-09-25
 
 ### New AI research · arXiv
 
@@ -23,20 +23,21 @@ _No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[Goat691/my_awesome_asr_mind_model](https://huggingface.co/Goat691/my_awesome_asr_mind_model)**
-- **[yurunyyr/asyncrl-math_sc_tis_s40_shuf-gs1040](https://huggingface.co/yurunyyr/asyncrl-math_sc_tis_s40_shuf-gs1040)**
-- **[yyuan244/asyncrl-m4b_async_s5_mb8_klpi_pg_b0p05_adbeta_eta0p5-gs50](https://huggingface.co/yyuan244/asyncrl-m4b_async_s5_mb8_klpi_pg_b0p05_adbeta_eta0p5-gs50)**
-- **[RunningHubAI/rh-ramthrusts-nsfw-pink-alchemy-anima-v2.9-unet](https://huggingface.co/RunningHubAI/rh-ramthrusts-nsfw-pink-alchemy-anima-v2.9-unet)**
-- **[francesca9805/ppt-wc-uniform-newlex-dan-before-100mb-packed-bfd_seed455](https://huggingface.co/francesca9805/ppt-wc-uniform-newlex-dan-before-100mb-packed-bfd_seed455)**
-- **[MANGSEOK123/qwen3-4b-tau2-retail_setting4_n34-1ep](https://huggingface.co/MANGSEOK123/qwen3-4b-tau2-retail_setting4_n34-1ep)**
-- **[cwaud/tournament-exp-s1-f644ed68-ef1b-4e2b-9709-e301680e4958-5Expbaff5600974633a3](https://huggingface.co/cwaud/tournament-exp-s1-f644ed68-ef1b-4e2b-9709-e301680e4958-5Expbaff5600974633a3)**
-- **[kumar1006/ppo-LunarLander-v2](https://huggingface.co/kumar1006/ppo-LunarLander-v2)** — reinforcement-learning
+- **[Future-Labs/banking77-minilm](https://huggingface.co/Future-Labs/banking77-minilm)** — text-classification
+- **[mangocloud/gr00t-n1.7-robocasa-category-b-ricl](https://huggingface.co/mangocloud/gr00t-n1.7-robocasa-category-b-ricl)**
+- **[AbrahamPJ/npuforge-sd15-inpaint-diff](https://huggingface.co/AbrahamPJ/npuforge-sd15-inpaint-diff)**
+- **[danghoang2005/qwen25-math-1.5b-long-sft-v2-yarn-8k](https://huggingface.co/danghoang2005/qwen25-math-1.5b-long-sft-v2-yarn-8k)**
+- **[sushmitha3141/a2c-PandaReachDense-v3](https://huggingface.co/sushmitha3141/a2c-PandaReachDense-v3)**
+- **[heisenberg-goddamnright/taxi](https://huggingface.co/heisenberg-goddamnright/taxi)** — reinforcement-learning
+- **[ManekiGamo/tpd-runs](https://huggingface.co/ManekiGamo/tpd-runs)**
+- **[WhitneyHelga/MyAwesomeModel-TestRepo](https://huggingface.co/WhitneyHelga/MyAwesomeModel-TestRepo)** — feature-extraction
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-25](archive/2026-09-25.md)
 - [2026-09-24](archive/2026-09-24.md)
 - [2026-09-23](archive/2026-09-23.md)
 - [2026-09-22](archive/2026-09-22.md)
