@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-25
+## 2026-09-26
 
 ### New AI research · arXiv
 
@@ -23,20 +23,21 @@ _No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[Future-Labs/banking77-minilm](https://huggingface.co/Future-Labs/banking77-minilm)** — text-classification
-- **[mangocloud/gr00t-n1.7-robocasa-category-b-ricl](https://huggingface.co/mangocloud/gr00t-n1.7-robocasa-category-b-ricl)**
-- **[AbrahamPJ/npuforge-sd15-inpaint-diff](https://huggingface.co/AbrahamPJ/npuforge-sd15-inpaint-diff)**
-- **[danghoang2005/qwen25-math-1.5b-long-sft-v2-yarn-8k](https://huggingface.co/danghoang2005/qwen25-math-1.5b-long-sft-v2-yarn-8k)**
-- **[sushmitha3141/a2c-PandaReachDense-v3](https://huggingface.co/sushmitha3141/a2c-PandaReachDense-v3)**
-- **[heisenberg-goddamnright/taxi](https://huggingface.co/heisenberg-goddamnright/taxi)** — reinforcement-learning
-- **[ManekiGamo/tpd-runs](https://huggingface.co/ManekiGamo/tpd-runs)**
-- **[WhitneyHelga/MyAwesomeModel-TestRepo](https://huggingface.co/WhitneyHelga/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[MariaLover/pplx-computer-qwen-3-8-27b-dflash2-20260824](https://huggingface.co/MariaLover/pplx-computer-qwen-3-8-27b-dflash2-20260824)**
+- **[toolathlonmsft2/MyAwesomeModel-TestRepo](https://huggingface.co/toolathlonmsft2/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[parmanu-lcs2/Phi-4-7B](https://huggingface.co/parmanu-lcs2/Phi-4-7B)**
+- **[AnishRacherla/anlp-a2-part1-mlp](https://huggingface.co/AnishRacherla/anlp-a2-part1-mlp)**
+- **[ApollonLabs/Heliactis-1-4B-GGUF](https://huggingface.co/ApollonLabs/Heliactis-1-4B-GGUF)** — text-generation
+- **[TagoreC/doom-health-gathering-supreme](https://huggingface.co/TagoreC/doom-health-gathering-supreme)** — reinforcement-learning
+- **[vanshthadani/FlashCardsLLM](https://huggingface.co/vanshthadani/FlashCardsLLM)**
+- **[TagoreC/Reinforce-LunarLander-v2](https://huggingface.co/TagoreC/Reinforce-LunarLander-v2)** — reinforcement-learning
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-26](archive/2026-09-26.md)
 - [2026-09-25](archive/2026-09-25.md)
 - [2026-09-24](archive/2026-09-24.md)
 - [2026-09-23](archive/2026-09-23.md)
@@ -96,7 +97,6 @@ _No papers fetched today._
 - [2026-07-16](archive/2026-07-16.md)
 - [2026-07-14](archive/2026-07-14.md)
 - [2026-07-13](archive/2026-07-13.md)
-- [2026-07-12](archive/2026-07-12.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
