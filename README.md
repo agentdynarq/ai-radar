@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-26
+## 2026-09-27
 
 ### New AI research · arXiv
 
@@ -23,20 +23,21 @@ _No papers fetched today._
 
 ### New model releases · Hugging Face
 
-- **[MariaLover/pplx-computer-qwen-3-8-27b-dflash2-20260824](https://huggingface.co/MariaLover/pplx-computer-qwen-3-8-27b-dflash2-20260824)**
-- **[toolathlonmsft2/MyAwesomeModel-TestRepo](https://huggingface.co/toolathlonmsft2/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[parmanu-lcs2/Phi-4-7B](https://huggingface.co/parmanu-lcs2/Phi-4-7B)**
-- **[AnishRacherla/anlp-a2-part1-mlp](https://huggingface.co/AnishRacherla/anlp-a2-part1-mlp)**
-- **[ApollonLabs/Heliactis-1-4B-GGUF](https://huggingface.co/ApollonLabs/Heliactis-1-4B-GGUF)** — text-generation
-- **[TagoreC/doom-health-gathering-supreme](https://huggingface.co/TagoreC/doom-health-gathering-supreme)** — reinforcement-learning
-- **[vanshthadani/FlashCardsLLM](https://huggingface.co/vanshthadani/FlashCardsLLM)**
-- **[TagoreC/Reinforce-LunarLander-v2](https://huggingface.co/TagoreC/Reinforce-LunarLander-v2)** — reinforcement-learning
+- **[ivantran/prompt-engineering-notes](https://huggingface.co/ivantran/prompt-engineering-notes)**
+- **[vithurshan2002/skillsync-work-category](https://huggingface.co/vithurshan2002/skillsync-work-category)**
+- **[krishnah27/smolvla-aegis-ft-step899](https://huggingface.co/krishnah27/smolvla-aegis-ft-step899)**
+- **[Duc1212/DucGPT-v0.1](https://huggingface.co/Duc1212/DucGPT-v0.1)**
+- **[Saputrafiona/coca-finetuned](https://huggingface.co/Saputrafiona/coca-finetuned)**
+- **[materialyze/CHGNet-PES-MatPES-r2SCAN-1M-2026.9](https://huggingface.co/materialyze/CHGNet-PES-MatPES-r2SCAN-1M-2026.9)**
+- **[materialyze/CHGNet-PES-MatPES-PBE-1M-2026.9](https://huggingface.co/materialyze/CHGNet-PES-MatPES-PBE-1M-2026.9)**
+- **[ASDSA12DSA213/MyAwesomeModel-TestRepo](https://huggingface.co/ASDSA12DSA213/MyAwesomeModel-TestRepo)** — feature-extraction
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-27](archive/2026-09-27.md)
 - [2026-09-26](archive/2026-09-26.md)
 - [2026-09-25](archive/2026-09-25.md)
 - [2026-09-24](archive/2026-09-24.md)
@@ -96,7 +97,6 @@ _No papers fetched today._
 - [2026-07-17](archive/2026-07-17.md)
 - [2026-07-16](archive/2026-07-16.md)
 - [2026-07-14](archive/2026-07-14.md)
-- [2026-07-13](archive/2026-07-13.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
