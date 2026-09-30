@@ -15,28 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-27
+## 2026-09-30
 
 ### New AI research · arXiv
 
-_No papers fetched today._
+- **[Skill-Space Shooting for Autonomous Robot Policy Improvement](http://arxiv.org/abs/2609.38178v1)** — Zihang Rui et al. · 2026-09-29
+  <br/>Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make eff…
+- **[Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](http://arxiv.org/abs/2609.38177v1)** — Jaewoo Jung et al. · 2026-09-29
+  <br/>Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they strug…
+- **[Breakdown of Local Denoising as Semantic Speciation](http://arxiv.org/abs/2609.38176v1)** — Guangkuo Liu et al. · 2026-09-29
+  <br/>The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local contex…
+- **[STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](http://arxiv.org/abs/2609.38169v1)** — Bingchen Yao et al. · 2026-09-29
+  <br/>Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recu…
+- **[LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization](http://arxiv.org/abs/2609.38166v1)** — Yi Pan et al. · 2026-09-29
+  <br/>Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context in…
+- **[Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data](http://arxiv.org/abs/2609.38165v1)** — Joseph Metcalfe et al. · 2026-09-29
+  <br/>The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being miss…
+- **[A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization](http://arxiv.org/abs/2609.38161v1)** — Jianru Shen · 2026-09-29
+  <br/>Evaluations of graph reconstruction by language models typically report a single aggregate distance between the original and the reconstructed graph. We prove that for the Wasserstein distance betwee…
+- **[EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](http://arxiv.org/abs/2609.38157v1)** — Kuan-Po Huang et al. · 2026-09-29
+  <br/>Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and emotion-labe…
 
 ### New model releases · Hugging Face
 
-- **[ivantran/prompt-engineering-notes](https://huggingface.co/ivantran/prompt-engineering-notes)**
-- **[vithurshan2002/skillsync-work-category](https://huggingface.co/vithurshan2002/skillsync-work-category)**
-- **[krishnah27/smolvla-aegis-ft-step899](https://huggingface.co/krishnah27/smolvla-aegis-ft-step899)**
-- **[Duc1212/DucGPT-v0.1](https://huggingface.co/Duc1212/DucGPT-v0.1)**
-- **[Saputrafiona/coca-finetuned](https://huggingface.co/Saputrafiona/coca-finetuned)**
-- **[materialyze/CHGNet-PES-MatPES-r2SCAN-1M-2026.9](https://huggingface.co/materialyze/CHGNet-PES-MatPES-r2SCAN-1M-2026.9)**
-- **[materialyze/CHGNet-PES-MatPES-PBE-1M-2026.9](https://huggingface.co/materialyze/CHGNet-PES-MatPES-PBE-1M-2026.9)**
-- **[ASDSA12DSA213/MyAwesomeModel-TestRepo](https://huggingface.co/ASDSA12DSA213/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[26B-Suite/Priest-24B-v1](https://huggingface.co/26B-Suite/Priest-24B-v1)**
+- **[ZenithLLM/zen-alta-draft-gguf](https://huggingface.co/ZenithLLM/zen-alta-draft-gguf)**
+- **[shreyarao2205/naina](https://huggingface.co/shreyarao2205/naina)** — text-to-image
+- **[tylerthompson/study-cross-modal-fusion](https://huggingface.co/tylerthompson/study-cross-modal-fusion)**
+- **[zhoukx/MyAwesomeModel-TestRepo](https://huggingface.co/zhoukx/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[francesca9805/nld-latn-10mb-after-ppt-Dp-10mb-packed-bfdiso-ckpt500_seed10](https://huggingface.co/francesca9805/nld-latn-10mb-after-ppt-Dp-10mb-packed-bfdiso-ckpt500_seed10)**
+- **[Lindarixon/Linda-Pro](https://huggingface.co/Lindarixon/Linda-Pro)** — text-classification
+- **[Lindarixon/Linda-Stylo-Clean](https://huggingface.co/Lindarixon/Linda-Stylo-Clean)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-09-30](archive/2026-09-30.md)
 - [2026-09-27](archive/2026-09-27.md)
 - [2026-09-26](archive/2026-09-26.md)
 - [2026-09-25](archive/2026-09-25.md)
@@ -96,7 +112,6 @@ _No papers fetched today._
 - [2026-07-18](archive/2026-07-18.md)
 - [2026-07-17](archive/2026-07-17.md)
 - [2026-07-16](archive/2026-07-16.md)
-- [2026-07-14](archive/2026-07-14.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
