@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-09-30
+## 2026-10-01
 
 ### New AI research · arXiv
 
-- **[Skill-Space Shooting for Autonomous Robot Policy Improvement](http://arxiv.org/abs/2609.38178v1)** — Zihang Rui et al. · 2026-09-29
-  <br/>Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make eff…
-- **[Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](http://arxiv.org/abs/2609.38177v1)** — Jaewoo Jung et al. · 2026-09-29
-  <br/>Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they strug…
-- **[Breakdown of Local Denoising as Semantic Speciation](http://arxiv.org/abs/2609.38176v1)** — Guangkuo Liu et al. · 2026-09-29
-  <br/>The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local contex…
-- **[STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](http://arxiv.org/abs/2609.38169v1)** — Bingchen Yao et al. · 2026-09-29
-  <br/>Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recu…
-- **[LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization](http://arxiv.org/abs/2609.38166v1)** — Yi Pan et al. · 2026-09-29
-  <br/>Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context in…
-- **[Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data](http://arxiv.org/abs/2609.38165v1)** — Joseph Metcalfe et al. · 2026-09-29
-  <br/>The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being miss…
-- **[A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization](http://arxiv.org/abs/2609.38161v1)** — Jianru Shen · 2026-09-29
-  <br/>Evaluations of graph reconstruction by language models typically report a single aggregate distance between the original and the reconstructed graph. We prove that for the Wasserstein distance betwee…
-- **[EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation](http://arxiv.org/abs/2609.38157v1)** — Kuan-Po Huang et al. · 2026-09-29
-  <br/>Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and emotion-labe…
+- **[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](http://arxiv.org/abs/2609.40361v1)** — Tian Xia et al. · 2026-09-30
+  <br/>Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalan…
+- **[Semifactual Credit-Augmented Policy Optimization](http://arxiv.org/abs/2609.40360v1)** — Junshu Pan et al. · 2026-09-30
+  <br/>Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt feature…
+- **[Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text](http://arxiv.org/abs/2609.40359v1)** — Dulhan Jayalath et al. · 2026-09-30
+  <br/>We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time…
+- **[ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing](http://arxiv.org/abs/2609.40356v1)** — Xinghao Chen et al. · 2026-09-30
+  <br/>Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Vide…
+- **[Image Classifiers are Efficient Self-Supervised Video Representation Learners](http://arxiv.org/abs/2609.40347v1)** — Owais Iqbal et al. · 2026-09-30
+  <br/>We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstructi…
+- **[EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](http://arxiv.org/abs/2609.40340v1)** — Young-Jun Lee et al. · 2026-09-30
+  <br/>Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can ke…
+- **[Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?](http://arxiv.org/abs/2609.40335v1)** — Razan El Mais et al. · 2026-09-30
+  <br/>Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying betwee…
+- **[Turbo Harness: Instance-Adaptive Harness Optimization](http://arxiv.org/abs/2609.40330v1)** — Tunyu Zhang et al. · 2026-09-30
+  <br/>Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is…
 
 ### New model releases · Hugging Face
 
-- **[26B-Suite/Priest-24B-v1](https://huggingface.co/26B-Suite/Priest-24B-v1)**
-- **[ZenithLLM/zen-alta-draft-gguf](https://huggingface.co/ZenithLLM/zen-alta-draft-gguf)**
-- **[shreyarao2205/naina](https://huggingface.co/shreyarao2205/naina)** — text-to-image
-- **[tylerthompson/study-cross-modal-fusion](https://huggingface.co/tylerthompson/study-cross-modal-fusion)**
-- **[zhoukx/MyAwesomeModel-TestRepo](https://huggingface.co/zhoukx/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[francesca9805/nld-latn-10mb-after-ppt-Dp-10mb-packed-bfdiso-ckpt500_seed10](https://huggingface.co/francesca9805/nld-latn-10mb-after-ppt-Dp-10mb-packed-bfdiso-ckpt500_seed10)**
-- **[Lindarixon/Linda-Pro](https://huggingface.co/Lindarixon/Linda-Pro)** — text-classification
-- **[Lindarixon/Linda-Stylo-Clean](https://huggingface.co/Lindarixon/Linda-Stylo-Clean)**
+- **[SII-FurryGreen/Stellar-TS-sc-goal](https://huggingface.co/SII-FurryGreen/Stellar-TS-sc-goal)**
+- **[MechaCritter/pyvisim-demo-models](https://huggingface.co/MechaCritter/pyvisim-demo-models)**
+- **[Zd21EDSA123/MyAwesomeModel-TestRepo](https://huggingface.co/Zd21EDSA123/MyAwesomeModel-TestRepo)**
+- **[openrobotop/pi0.5-invkxKDien](https://huggingface.co/openrobotop/pi0.5-invkxKDien)**
+- **[ellisonlab2159/critopub859a3](https://huggingface.co/ellisonlab2159/critopub859a3)**
+- **[wutt6678/Qwen3-VL-2B-Instruct-IDUnlearn-Bench-forget1-MMUN_vision](https://huggingface.co/wutt6678/Qwen3-VL-2B-Instruct-IDUnlearn-Bench-forget1-MMUN_vision)**
+- **[vadimyakob/chrono-2023-live-26](https://huggingface.co/vadimyakob/chrono-2023-live-26)**
+- **[nuthan-444/Movie_Recommendation_System](https://huggingface.co/nuthan-444/Movie_Recommendation_System)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-01](archive/2026-10-01.md)
 - [2026-09-30](archive/2026-09-30.md)
 - [2026-09-27](archive/2026-09-27.md)
 - [2026-09-26](archive/2026-09-26.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-07-19](archive/2026-07-19.md)
 - [2026-07-18](archive/2026-07-18.md)
 - [2026-07-17](archive/2026-07-17.md)
-- [2026-07-16](archive/2026-07-16.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
