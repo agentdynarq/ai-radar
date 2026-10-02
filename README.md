@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-01
+## 2026-10-02
 
 ### New AI research · arXiv
 
-- **[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](http://arxiv.org/abs/2609.40361v1)** — Tian Xia et al. · 2026-09-30
-  <br/>Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalan…
-- **[Semifactual Credit-Augmented Policy Optimization](http://arxiv.org/abs/2609.40360v1)** — Junshu Pan et al. · 2026-09-30
-  <br/>Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt feature…
-- **[Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text](http://arxiv.org/abs/2609.40359v1)** — Dulhan Jayalath et al. · 2026-09-30
-  <br/>We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time…
-- **[ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing](http://arxiv.org/abs/2609.40356v1)** — Xinghao Chen et al. · 2026-09-30
-  <br/>Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Vide…
-- **[Image Classifiers are Efficient Self-Supervised Video Representation Learners](http://arxiv.org/abs/2609.40347v1)** — Owais Iqbal et al. · 2026-09-30
-  <br/>We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstructi…
-- **[EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](http://arxiv.org/abs/2609.40340v1)** — Young-Jun Lee et al. · 2026-09-30
-  <br/>Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can ke…
-- **[Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?](http://arxiv.org/abs/2609.40335v1)** — Razan El Mais et al. · 2026-09-30
-  <br/>Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying betwee…
-- **[Turbo Harness: Instance-Adaptive Harness Optimization](http://arxiv.org/abs/2609.40330v1)** — Tunyu Zhang et al. · 2026-09-30
-  <br/>Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is…
+- **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)** — Ramazan Fazylov et al. · 2026-10-01
+  <br/>3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained…
+- **[KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](http://arxiv.org/abs/2610.02206v1)** — Pengfei Li et al. · 2026-10-01
+  <br/>LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessmen…
+- **[Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents](http://arxiv.org/abs/2610.02204v1)** — Yen-Jen Wang et al. · 2026-10-01
+  <br/>Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstru…
+- **[Embedding Prediction Helps Image Generation](http://arxiv.org/abs/2610.02203v1)** — Sihan Xu et al. · 2026-10-01
+  <br/>In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition i…
+- **[ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research](http://arxiv.org/abs/2610.02202v1)** — Sohyeon Kim et al. · 2026-10-01
+  <br/>What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of re…
+- **[SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation](http://arxiv.org/abs/2610.02201v1)** — Tianjiao Yu et al. · 2026-10-01
+  <br/>High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragm…
+- **[VISTA: A Visual Harness for Reasoning in an Interactive World](http://arxiv.org/abs/2610.02200v1)** — Qiushi Han et al. · 2026-10-01
+  <br/>We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA…
+- **[TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning](http://arxiv.org/abs/2610.02199v1)** — Jichao Jiang et al. · 2026-10-01
+  <br/>Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress op…
 
 ### New model releases · Hugging Face
 
-- **[SII-FurryGreen/Stellar-TS-sc-goal](https://huggingface.co/SII-FurryGreen/Stellar-TS-sc-goal)**
-- **[MechaCritter/pyvisim-demo-models](https://huggingface.co/MechaCritter/pyvisim-demo-models)**
-- **[Zd21EDSA123/MyAwesomeModel-TestRepo](https://huggingface.co/Zd21EDSA123/MyAwesomeModel-TestRepo)**
-- **[openrobotop/pi0.5-invkxKDien](https://huggingface.co/openrobotop/pi0.5-invkxKDien)**
-- **[ellisonlab2159/critopub859a3](https://huggingface.co/ellisonlab2159/critopub859a3)**
-- **[wutt6678/Qwen3-VL-2B-Instruct-IDUnlearn-Bench-forget1-MMUN_vision](https://huggingface.co/wutt6678/Qwen3-VL-2B-Instruct-IDUnlearn-Bench-forget1-MMUN_vision)**
-- **[vadimyakob/chrono-2023-live-26](https://huggingface.co/vadimyakob/chrono-2023-live-26)**
-- **[nuthan-444/Movie_Recommendation_System](https://huggingface.co/nuthan-444/Movie_Recommendation_System)**
+- **[yyuan244/asyncrl-m4b_sync_ppo_mb8_nokl_fp8-gs63](https://huggingface.co/yyuan244/asyncrl-m4b_sync_ppo_mb8_nokl_fp8-gs63)**
+- **[hi-todayis-jh/l1-exact-qwen3-1.7b-compression-bs32-n8-32k-t1-146103-step_100](https://huggingface.co/hi-todayis-jh/l1-exact-qwen3-1.7b-compression-bs32-n8-32k-t1-146103-step_100)**
+- **[matCercola18/so101_gpl_v0_s1c](https://huggingface.co/matCercola18/so101_gpl_v0_s1c)** — robotics
+- **[14A5/UBqtcDPIkbayeWj0](https://huggingface.co/14A5/UBqtcDPIkbayeWj0)**
+- **[SADSDGZX/MyAwesomeModel-TestRepo](https://huggingface.co/SADSDGZX/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[KchSum/PZ](https://huggingface.co/KchSum/PZ)**
+- **[jjjlimaus/chrono2-2023-mix-sft-qa200](https://huggingface.co/jjjlimaus/chrono2-2023-mix-sft-qa200)**
+- **[RyanYr/asyncrl-async_s10_mb8_nokl_sc_permb-gs70](https://huggingface.co/RyanYr/asyncrl-async_s10_mb8_nokl_sc_permb-gs70)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-02](archive/2026-10-02.md)
 - [2026-10-01](archive/2026-10-01.md)
 - [2026-09-30](archive/2026-09-30.md)
 - [2026-09-27](archive/2026-09-27.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-07-20](archive/2026-07-20.md)
 - [2026-07-19](archive/2026-07-19.md)
 - [2026-07-18](archive/2026-07-18.md)
-- [2026-07-17](archive/2026-07-17.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
