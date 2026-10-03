@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-02
+## 2026-10-03
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[yyuan244/asyncrl-m4b_sync_ppo_mb8_nokl_fp8-gs63](https://huggingface.co/yyuan244/asyncrl-m4b_sync_ppo_mb8_nokl_fp8-gs63)**
-- **[hi-todayis-jh/l1-exact-qwen3-1.7b-compression-bs32-n8-32k-t1-146103-step_100](https://huggingface.co/hi-todayis-jh/l1-exact-qwen3-1.7b-compression-bs32-n8-32k-t1-146103-step_100)**
-- **[matCercola18/so101_gpl_v0_s1c](https://huggingface.co/matCercola18/so101_gpl_v0_s1c)** — robotics
-- **[14A5/UBqtcDPIkbayeWj0](https://huggingface.co/14A5/UBqtcDPIkbayeWj0)**
-- **[SADSDGZX/MyAwesomeModel-TestRepo](https://huggingface.co/SADSDGZX/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[KchSum/PZ](https://huggingface.co/KchSum/PZ)**
-- **[jjjlimaus/chrono2-2023-mix-sft-qa200](https://huggingface.co/jjjlimaus/chrono2-2023-mix-sft-qa200)**
-- **[RyanYr/asyncrl-async_s10_mb8_nokl_sc_permb-gs70](https://huggingface.co/RyanYr/asyncrl-async_s10_mb8_nokl_sc_permb-gs70)**
+- **[rushikeshwalode/vit-base-oxford-iiit-pets](https://huggingface.co/rushikeshwalode/vit-base-oxford-iiit-pets)**
+- **[tihon-nth/vivit-vit-8-10-epochs-5_class_1_p3_splited-1791027383.2595515](https://huggingface.co/tihon-nth/vivit-vit-8-10-epochs-5_class_1_p3_splited-1791027383.2595515)**
+- **[lavieestlongueetpleindecharme25394568/lyday-lora](https://huggingface.co/lavieestlongueetpleindecharme25394568/lyday-lora)**
+- **[aarajbhattarai/minicpm5-2b-nepali-v2-phase1](https://huggingface.co/aarajbhattarai/minicpm5-2b-nepali-v2-phase1)**
+- **[aarajbhattarai/minicpm5-2b-nepali-v2-phase2-agri-legal](https://huggingface.co/aarajbhattarai/minicpm5-2b-nepali-v2-phase2-agri-legal)**
+- **[asadqwr/MyAwesomeModel-TestRepo](https://huggingface.co/asadqwr/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[ElBalor/Vampire-Lumie-Architecture](https://huggingface.co/ElBalor/Vampire-Lumie-Architecture)**
+- **[calabar77/gpt2-reuters-tokenizer](https://huggingface.co/calabar77/gpt2-reuters-tokenizer)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-03](archive/2026-10-03.md)
 - [2026-10-02](archive/2026-10-02.md)
 - [2026-10-01](archive/2026-10-01.md)
 - [2026-09-30](archive/2026-09-30.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-07-21](archive/2026-07-21.md)
 - [2026-07-20](archive/2026-07-20.md)
 - [2026-07-19](archive/2026-07-19.md)
-- [2026-07-18](archive/2026-07-18.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
