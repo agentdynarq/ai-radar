@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-03
+## 2026-10-04
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[rushikeshwalode/vit-base-oxford-iiit-pets](https://huggingface.co/rushikeshwalode/vit-base-oxford-iiit-pets)**
-- **[tihon-nth/vivit-vit-8-10-epochs-5_class_1_p3_splited-1791027383.2595515](https://huggingface.co/tihon-nth/vivit-vit-8-10-epochs-5_class_1_p3_splited-1791027383.2595515)**
-- **[lavieestlongueetpleindecharme25394568/lyday-lora](https://huggingface.co/lavieestlongueetpleindecharme25394568/lyday-lora)**
-- **[aarajbhattarai/minicpm5-2b-nepali-v2-phase1](https://huggingface.co/aarajbhattarai/minicpm5-2b-nepali-v2-phase1)**
-- **[aarajbhattarai/minicpm5-2b-nepali-v2-phase2-agri-legal](https://huggingface.co/aarajbhattarai/minicpm5-2b-nepali-v2-phase2-agri-legal)**
-- **[asadqwr/MyAwesomeModel-TestRepo](https://huggingface.co/asadqwr/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[ElBalor/Vampire-Lumie-Architecture](https://huggingface.co/ElBalor/Vampire-Lumie-Architecture)**
-- **[calabar77/gpt2-reuters-tokenizer](https://huggingface.co/calabar77/gpt2-reuters-tokenizer)**
+- **[artemivanovlu/contrastive-best](https://huggingface.co/artemivanovlu/contrastive-best)**
+- **[Faani-Earth01/my-llama3-custom-ai](https://huggingface.co/Faani-Earth01/my-llama3-custom-ai)**
+- **[HelloSun/sddqwen35a3b_bak](https://huggingface.co/HelloSun/sddqwen35a3b_bak)**
+- **[joshyalphonse/bionerd-re](https://huggingface.co/joshyalphonse/bionerd-re)**
+- **[Valnivo-labs/valnivo-copilot-1-gguf](https://huggingface.co/Valnivo-labs/valnivo-copilot-1-gguf)**
+- **[myx160/rl-post-train-checkpoints](https://huggingface.co/myx160/rl-post-train-checkpoints)**
+- **[bimabk/god-6bffc021-final6bf-586a61c-10041149](https://huggingface.co/bimabk/god-6bffc021-final6bf-586a61c-10041149)**
+- **[ajrayman/Achievement_Striving_fusion_longtext](https://huggingface.co/ajrayman/Achievement_Striving_fusion_longtext)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-04](archive/2026-10-04.md)
 - [2026-10-03](archive/2026-10-03.md)
 - [2026-10-02](archive/2026-10-02.md)
 - [2026-10-01](archive/2026-10-01.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-07-23](archive/2026-07-23.md)
 - [2026-07-21](archive/2026-07-21.md)
 - [2026-07-20](archive/2026-07-20.md)
-- [2026-07-19](archive/2026-07-19.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
