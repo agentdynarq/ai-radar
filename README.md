@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-04
+## 2026-10-05
 
 ### New AI research · arXiv
 
-- **[One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars](http://arxiv.org/abs/2610.02207v1)** — Ramazan Fazylov et al. · 2026-10-01
-  <br/>3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained…
-- **[KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards](http://arxiv.org/abs/2610.02206v1)** — Pengfei Li et al. · 2026-10-01
-  <br/>LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessmen…
-- **[Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents](http://arxiv.org/abs/2610.02204v1)** — Yen-Jen Wang et al. · 2026-10-01
-  <br/>Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstru…
-- **[Embedding Prediction Helps Image Generation](http://arxiv.org/abs/2610.02203v1)** — Sihan Xu et al. · 2026-10-01
-  <br/>In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition i…
-- **[ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research](http://arxiv.org/abs/2610.02202v1)** — Sohyeon Kim et al. · 2026-10-01
-  <br/>What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of re…
-- **[SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation](http://arxiv.org/abs/2610.02201v1)** — Tianjiao Yu et al. · 2026-10-01
-  <br/>High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragm…
-- **[VISTA: A Visual Harness for Reasoning in an Interactive World](http://arxiv.org/abs/2610.02200v1)** — Qiushi Han et al. · 2026-10-01
-  <br/>We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA…
-- **[TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning](http://arxiv.org/abs/2610.02199v1)** — Jichao Jiang et al. · 2026-10-01
-  <br/>Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress op…
+- **[Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis](http://arxiv.org/abs/2610.03717v1)** — Keerthi Kaashyap et al. · 2026-10-02
+  <br/>This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geo…
+- **[4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes](http://arxiv.org/abs/2610.03715v1)** — Ruihong Shen et al. · 2026-10-02
+  <br/>We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agent…
+- **[What Should World Models Forget? Stratified Retention for Continual Adaptation](http://arxiv.org/abs/2610.03713v1)** — Nishit Anand et al. · 2026-10-02
+  <br/>Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct i…
+- **[RNADyn: A Benchmark for Generating and Understanding RNA Dynamics](http://arxiv.org/abs/2610.03712v1)** — Yiming Huang et al. · 2026-10-02
+  <br/>Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing appr…
+- **[EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras](http://arxiv.org/abs/2610.03710v1)** — Kush Hari et al. · 2026-10-02
+  <br/>Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation po…
+- **[From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing](http://arxiv.org/abs/2610.03709v1)** — Kuangyu Ding et al. · 2026-10-02
+  <br/>We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing dec…
+- **[LESSER: Post-Training Data Selection with Output-Layer Gradients](http://arxiv.org/abs/2610.03702v1)** — Lyuxin David Zhang et al. · 2026-10-02
+  <br/>The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their…
+- **[Language Models that Play Chess and Explain Their Moves](http://arxiv.org/abs/2610.03695v1)** — Adithya Bhaskar et al. · 2026-10-02
+  <br/>Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explan…
 
 ### New model releases · Hugging Face
 
-- **[artemivanovlu/contrastive-best](https://huggingface.co/artemivanovlu/contrastive-best)**
-- **[Faani-Earth01/my-llama3-custom-ai](https://huggingface.co/Faani-Earth01/my-llama3-custom-ai)**
-- **[HelloSun/sddqwen35a3b_bak](https://huggingface.co/HelloSun/sddqwen35a3b_bak)**
-- **[joshyalphonse/bionerd-re](https://huggingface.co/joshyalphonse/bionerd-re)**
-- **[Valnivo-labs/valnivo-copilot-1-gguf](https://huggingface.co/Valnivo-labs/valnivo-copilot-1-gguf)**
-- **[myx160/rl-post-train-checkpoints](https://huggingface.co/myx160/rl-post-train-checkpoints)**
-- **[bimabk/god-6bffc021-final6bf-586a61c-10041149](https://huggingface.co/bimabk/god-6bffc021-final6bf-586a61c-10041149)**
-- **[ajrayman/Achievement_Striving_fusion_longtext](https://huggingface.co/ajrayman/Achievement_Striving_fusion_longtext)**
+- **[AlinaGonch/granite41-8b-squad-ratio-0.90-seed-42-r64](https://huggingface.co/AlinaGonch/granite41-8b-squad-ratio-0.90-seed-42-r64)**
+- **[davidheineman/rlve-archive-mopd-sweep-n16-teachers-20261002-14411-03-sorting-c0f2a6a5bd28](https://huggingface.co/davidheineman/rlve-archive-mopd-sweep-n16-teachers-20261002-14411-03-sorting-c0f2a6a5bd28)**
+- **[Shiva325454/fraud-detector](https://huggingface.co/Shiva325454/fraud-detector)**
+- **[Kavya1112/Claptwer](https://huggingface.co/Kavya1112/Claptwer)**
+- **[senanurcetin/transfermarkt-value-change-lgbm](https://huggingface.co/senanurcetin/transfermarkt-value-change-lgbm)** — tabular-regression
+- **[virajsh4h/receptionist-merged](https://huggingface.co/virajsh4h/receptionist-merged)** — text-generation
+- **[Sada-e-hussain/skin-cancer-detection](https://huggingface.co/Sada-e-hussain/skin-cancer-detection)**
+- **[gomeeth04/coca-multitask-prototype](https://huggingface.co/gomeeth04/coca-multitask-prototype)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-05](archive/2026-10-05.md)
 - [2026-10-04](archive/2026-10-04.md)
 - [2026-10-03](archive/2026-10-03.md)
 - [2026-10-02](archive/2026-10-02.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-07-27](archive/2026-07-27.md)
 - [2026-07-23](archive/2026-07-23.md)
 - [2026-07-21](archive/2026-07-21.md)
-- [2026-07-20](archive/2026-07-20.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
