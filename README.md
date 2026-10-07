@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-06
+## 2026-10-07
 
 ### New AI research · arXiv
 
-- **[One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline](http://arxiv.org/abs/2610.06852v1)** — Shih-Chen Tseng et al. · 2026-10-05
-  <br/>Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different…
-- **[Base Models Can Reason By Taking a Cue From Training Data](http://arxiv.org/abs/2610.06851v1)** — Sophie L. Wang et al. · 2026-10-05
-  <br/>In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing pa…
-- **[BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance](http://arxiv.org/abs/2610.06846v1)** — Haojin Deng et al. · 2026-10-05
-  <br/>Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitori…
-- **[Learning to Read the Contextual Tokens in Diffusion Transformers](http://arxiv.org/abs/2610.06844v1)** — Omer Dahary et al. · 2026-10-05
-  <br/>Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, form…
-- **[Recursive Video In-Context Learning for Agentic Robot](http://arxiv.org/abs/2610.06843v1)** — Wenrui Bao et al. · 2026-10-05
-  <br/>LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration vi…
-- **[Direct Intermediate Initialization for Tilted Diffusion Samplers](http://arxiv.org/abs/2610.06834v1)** — Gregory D. Bellchambers · 2026-10-05
-  <br/>Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weake…
-- **[Towards Looped Models Done Right, Part II: Rethinking at Fixed Points](http://arxiv.org/abs/2610.06833v1)** — Benhao Huang et al. · 2026-10-05
-  <br/>Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matte…
-- **[UniSlider: Perceptually Uniform Sliders for Continuous Image Editing](http://arxiv.org/abs/2610.06831v1)** — David Serrano-Lozano et al. · 2026-10-05
-  <br/>Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter…
+- **[QF3: Fast Flow RL with Filtered Q-Gradients](http://arxiv.org/abs/2610.08789v1)** — Chung Min Kim et al. · 2026-10-06
+  <br/>Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning th…
+- **[Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective](http://arxiv.org/abs/2610.08785v1)** — Kevin Zhang et al. · 2026-10-06
+  <br/>Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic me…
+- **[4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](http://arxiv.org/abs/2610.08782v1)** — Shiqi Li et al. · 2026-10-06
+  <br/>Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to u…
+- **[IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas](http://arxiv.org/abs/2610.08781v1)** — Ziyu Chen et al. · 2026-10-06
+  <br/>Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature…
+- **[DepthWorld: 3D World Model for Robot Manipulation](http://arxiv.org/abs/2610.08780v1)** — Jai Bardhan et al. · 2026-10-06
+  <br/>World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D g…
+- **[Sherpa: Teaching LLMs to Teach Adaptively](http://arxiv.org/abs/2610.08778v1)** — Weixian Xu et al. · 2026-10-06
+  <br/>Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as tea…
+- **[Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?](http://arxiv.org/abs/2610.08775v1)** — Ankit Sonthalia et al. · 2026-10-06
+  <br/>Large language models (LLMs) can solve many narrow tasks, but querying them separately for millions of related instances can be prohibitively expensive. Can LLM agents autonomously create cheaper sol…
+- **[AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model](http://arxiv.org/abs/2610.08773v1)** — Sarim Hashmi et al. · 2026-10-06
+  <br/>Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on a page can redirect the agent away from the user's goal. The agent cannot simpl…
 
 ### New model releases · Hugging Face
 
-- **[mariasmirnov/vit-contrastive-tiny](https://huggingface.co/mariasmirnov/vit-contrastive-tiny)**
-- **[sadad1szc12cxzq/MyAwesomeModel-TestRepo](https://huggingface.co/sadad1szc12cxzq/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[Nam-toon-studio/sevak-hybrid](https://huggingface.co/Nam-toon-studio/sevak-hybrid)**
-- **[arefehRajabian/qwen3_4b_SFT_16bit](https://huggingface.co/arefehRajabian/qwen3_4b_SFT_16bit)** — text-generation
-- **[davidwdw/fa-eval-all-pre-m01-c-s0-500-ac76fb9df35a](https://huggingface.co/davidwdw/fa-eval-all-pre-m01-c-s0-500-ac76fb9df35a)**
-- **[ECE-Software/tribunal-agent-v3](https://huggingface.co/ECE-Software/tribunal-agent-v3)** — text-generation
-- **[tishasetia13/inside-out-emotion-classifier](https://huggingface.co/tishasetia13/inside-out-emotion-classifier)** — ♥ 1
-- **[AMFORGE/ananke-v0](https://huggingface.co/AMFORGE/ananke-v0)** — question-answering
+- **[sami5645678/Jaynepal1.1-nepali-v3](https://huggingface.co/sami5645678/Jaynepal1.1-nepali-v3)**
+- **[mlx-community/Step-Audio-EditX-bf16](https://huggingface.co/mlx-community/Step-Audio-EditX-bf16)**
+- **[kalle07/PreciseCoder-27B-GRPO-0.5F1-Q3_K_S-GGUF](https://huggingface.co/kalle07/PreciseCoder-27B-GRPO-0.5F1-Q3_K_S-GGUF)**
+- **[canho/qwen3-emb-0.6b-ar-step2-interim-ckpt160](https://huggingface.co/canho/qwen3-emb-0.6b-ar-step2-interim-ckpt160)** — sentence-similarity
+- **[canho/qwen3-emb-0.6b-ar-step2-interim-nohn-ckpt120](https://huggingface.co/canho/qwen3-emb-0.6b-ar-step2-interim-nohn-ckpt120)** — sentence-similarity
+- **[defrostedd/jared-chat](https://huggingface.co/defrostedd/jared-chat)**
+- **[canho/qwen3-emb-0.6b-reasonir-n2506-nohn-ckpt80](https://huggingface.co/canho/qwen3-emb-0.6b-reasonir-n2506-nohn-ckpt80)** — sentence-similarity
+- **[canho/qwen3-emb-0.6b-specter-n2506-nohn-ckpt100](https://huggingface.co/canho/qwen3-emb-0.6b-specter-n2506-nohn-ckpt100)** — sentence-similarity
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-07](archive/2026-10-07.md)
 - [2026-10-06](archive/2026-10-06.md)
 - [2026-10-05](archive/2026-10-05.md)
 - [2026-10-04](archive/2026-10-04.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-07-29](archive/2026-07-29.md)
 - [2026-07-28](archive/2026-07-28.md)
 - [2026-07-27](archive/2026-07-27.md)
-- [2026-07-23](archive/2026-07-23.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
