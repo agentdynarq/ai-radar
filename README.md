@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-07
+## 2026-10-08
 
 ### New AI research · arXiv
 
-- **[QF3: Fast Flow RL with Filtered Q-Gradients](http://arxiv.org/abs/2610.08789v1)** — Chung Min Kim et al. · 2026-10-06
-  <br/>Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning th…
-- **[Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective](http://arxiv.org/abs/2610.08785v1)** — Kevin Zhang et al. · 2026-10-06
-  <br/>Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic me…
-- **[4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction](http://arxiv.org/abs/2610.08782v1)** — Shiqi Li et al. · 2026-10-06
-  <br/>Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to u…
-- **[IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas](http://arxiv.org/abs/2610.08781v1)** — Ziyu Chen et al. · 2026-10-06
-  <br/>Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature…
-- **[DepthWorld: 3D World Model for Robot Manipulation](http://arxiv.org/abs/2610.08780v1)** — Jai Bardhan et al. · 2026-10-06
-  <br/>World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D g…
-- **[Sherpa: Teaching LLMs to Teach Adaptively](http://arxiv.org/abs/2610.08778v1)** — Weixian Xu et al. · 2026-10-06
-  <br/>Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as tea…
-- **[Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?](http://arxiv.org/abs/2610.08775v1)** — Ankit Sonthalia et al. · 2026-10-06
-  <br/>Large language models (LLMs) can solve many narrow tasks, but querying them separately for millions of related instances can be prohibitively expensive. Can LLM agents autonomously create cheaper sol…
-- **[AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model](http://arxiv.org/abs/2610.08773v1)** — Sarim Hashmi et al. · 2026-10-06
-  <br/>Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on a page can redirect the agent away from the user's goal. The agent cannot simpl…
+- **[Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos](http://arxiv.org/abs/2610.10538v1)** — Shravan Chaudhari et al. · 2026-10-07
+  <br/>As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container…
+- **[Decoupling Exploration from Optimization in RLVR](http://arxiv.org/abs/2610.10536v1)** — Saif Punjwani et al. · 2026-10-07
+  <br/>Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In prin…
+- **[EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](http://arxiv.org/abs/2610.10533v1)** — Hongru Cai et al. · 2026-10-07
+  <br/>Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. B…
+- **[Long-WAM: Scaling the Context of World-Action Models](http://arxiv.org/abs/2610.10528v1)** — Wei Huang et al. · 2026-10-07
+  <br/>Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the co…
+- **[Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping](http://arxiv.org/abs/2610.10527v1)** — Aleksandar Armacki et al. · 2026-10-07
+  <br/>Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized…
+- **[Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models](http://arxiv.org/abs/2610.10526v1)** — Mikey Watts et al. · 2026-10-07
+  <br/>Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can m…
+- **[Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs](http://arxiv.org/abs/2610.10520v1)** — Zhewei Chen et al. · 2026-10-07
+  <br/>GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or us…
+- **[Why Forget-Only Unlearning Needs Memorization](http://arxiv.org/abs/2610.10519v1)** — Luka Radić et al. · 2026-10-07
+  <br/>Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deleti…
 
 ### New model releases · Hugging Face
 
-- **[sami5645678/Jaynepal1.1-nepali-v3](https://huggingface.co/sami5645678/Jaynepal1.1-nepali-v3)**
-- **[mlx-community/Step-Audio-EditX-bf16](https://huggingface.co/mlx-community/Step-Audio-EditX-bf16)**
-- **[kalle07/PreciseCoder-27B-GRPO-0.5F1-Q3_K_S-GGUF](https://huggingface.co/kalle07/PreciseCoder-27B-GRPO-0.5F1-Q3_K_S-GGUF)**
-- **[canho/qwen3-emb-0.6b-ar-step2-interim-ckpt160](https://huggingface.co/canho/qwen3-emb-0.6b-ar-step2-interim-ckpt160)** — sentence-similarity
-- **[canho/qwen3-emb-0.6b-ar-step2-interim-nohn-ckpt120](https://huggingface.co/canho/qwen3-emb-0.6b-ar-step2-interim-nohn-ckpt120)** — sentence-similarity
-- **[defrostedd/jared-chat](https://huggingface.co/defrostedd/jared-chat)**
-- **[canho/qwen3-emb-0.6b-reasonir-n2506-nohn-ckpt80](https://huggingface.co/canho/qwen3-emb-0.6b-reasonir-n2506-nohn-ckpt80)** — sentence-similarity
-- **[canho/qwen3-emb-0.6b-specter-n2506-nohn-ckpt100](https://huggingface.co/canho/qwen3-emb-0.6b-specter-n2506-nohn-ckpt100)** — sentence-similarity
+- **[RunningHubAI/rh-pretzel-lora](https://huggingface.co/RunningHubAI/rh-pretzel-lora)**
+- **[eschmidbauer/phonon-2-c](https://huggingface.co/eschmidbauer/phonon-2-c)**
+- **[jiho-clee/perceiver-classification](https://huggingface.co/jiho-clee/perceiver-classification)**
+- **[Ashapu/pulsar-customer-support-merged](https://huggingface.co/Ashapu/pulsar-customer-support-merged)**
+- **[upshift/translategemma-4b-it-W4A16-awq](https://huggingface.co/upshift/translategemma-4b-it-W4A16-awq)**
+- **[toolathlon-verified/MyAwesomeModel-TestRepo](https://huggingface.co/toolathlon-verified/MyAwesomeModel-TestRepo)**
+- **[Arczisan/invertedoral](https://huggingface.co/Arczisan/invertedoral)**
+- **[SAD1DXZDCQ/MyAwesomeModel-TestRepo](https://huggingface.co/SAD1DXZDCQ/MyAwesomeModel-TestRepo)** — feature-extraction
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-08](archive/2026-10-08.md)
 - [2026-10-07](archive/2026-10-07.md)
 - [2026-10-06](archive/2026-10-06.md)
 - [2026-10-05](archive/2026-10-05.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-07-30](archive/2026-07-30.md)
 - [2026-07-29](archive/2026-07-29.md)
 - [2026-07-28](archive/2026-07-28.md)
-- [2026-07-27](archive/2026-07-27.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
