@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-08
+## 2026-10-09
 
 ### New AI research · arXiv
 
-- **[Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos](http://arxiv.org/abs/2610.10538v1)** — Shravan Chaudhari et al. · 2026-10-07
-  <br/>As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container…
-- **[Decoupling Exploration from Optimization in RLVR](http://arxiv.org/abs/2610.10536v1)** — Saif Punjwani et al. · 2026-10-07
-  <br/>Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In prin…
-- **[EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](http://arxiv.org/abs/2610.10533v1)** — Hongru Cai et al. · 2026-10-07
-  <br/>Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. B…
-- **[Long-WAM: Scaling the Context of World-Action Models](http://arxiv.org/abs/2610.10528v1)** — Wei Huang et al. · 2026-10-07
-  <br/>Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the co…
-- **[Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping](http://arxiv.org/abs/2610.10527v1)** — Aleksandar Armacki et al. · 2026-10-07
-  <br/>Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized…
-- **[Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models](http://arxiv.org/abs/2610.10526v1)** — Mikey Watts et al. · 2026-10-07
-  <br/>Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can m…
-- **[Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs](http://arxiv.org/abs/2610.10520v1)** — Zhewei Chen et al. · 2026-10-07
-  <br/>GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or us…
-- **[Why Forget-Only Unlearning Needs Memorization](http://arxiv.org/abs/2610.10519v1)** — Luka Radić et al. · 2026-10-07
-  <br/>Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deleti…
+- **[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)** — Lizhi Yang et al. · 2026-10-08
+  <br/>Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either…
+- **[On the estimation and validity of AI time horizons---a statistical look at the METR plot](http://arxiv.org/abs/2610.12466v1)** — Drew T. Nguyen et al. · 2026-10-08
+  <br/>METR's 50\% time horizon measures the human completion time of software tasks that an AI solves with 50\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks an…
+- **[A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](http://arxiv.org/abs/2610.12465v1)** — Octi Zhang et al. · 2026-10-08
+  <br/>General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal,…
+- **[From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents](http://arxiv.org/abs/2610.12463v1)** — Abbas Raftari · 2026-10-08
+  <br/>In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research…
+- **[BrickBench: Evaluating Agentic Brick Design](http://arxiv.org/abs/2610.12452v1)** — Peter Kulits et al. · 2026-10-08
+  <br/>We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, bu…
+- **[One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts](http://arxiv.org/abs/2610.12448v1)** — Adrian Bulat et al. · 2026-10-08
+  <br/>In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillati…
+- **[Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems](http://arxiv.org/abs/2610.12449v1)** — Anna Zimmel et al. · 2026-10-08
+  <br/>Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sin…
+- **[Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception](http://arxiv.org/abs/2610.12445v1)** — Oskar J. Hollinsworth et al. · 2026-10-08
+  <br/>Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier…
 
 ### New model releases · Hugging Face
 
-- **[RunningHubAI/rh-pretzel-lora](https://huggingface.co/RunningHubAI/rh-pretzel-lora)**
-- **[eschmidbauer/phonon-2-c](https://huggingface.co/eschmidbauer/phonon-2-c)**
-- **[jiho-clee/perceiver-classification](https://huggingface.co/jiho-clee/perceiver-classification)**
-- **[Ashapu/pulsar-customer-support-merged](https://huggingface.co/Ashapu/pulsar-customer-support-merged)**
-- **[upshift/translategemma-4b-it-W4A16-awq](https://huggingface.co/upshift/translategemma-4b-it-W4A16-awq)**
-- **[toolathlon-verified/MyAwesomeModel-TestRepo](https://huggingface.co/toolathlon-verified/MyAwesomeModel-TestRepo)**
-- **[Arczisan/invertedoral](https://huggingface.co/Arczisan/invertedoral)**
-- **[SAD1DXZDCQ/MyAwesomeModel-TestRepo](https://huggingface.co/SAD1DXZDCQ/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[joshuaswarren/MiniMax-H3-int8-omarchy](https://huggingface.co/joshuaswarren/MiniMax-H3-int8-omarchy)**
+- **[Cisco1963/llmplasticity-en_zh_instant_8-d0.01-c0.999-r0.5-s42](https://huggingface.co/Cisco1963/llmplasticity-en_zh_instant_8-d0.01-c0.999-r0.5-s42)**
+- **[ynov/dipl0-mon-modele](https://huggingface.co/ynov/dipl0-mon-modele)**
+- **[AyoubChLin/companydocs-v2-doc-cls-distilbert](https://huggingface.co/AyoubChLin/companydocs-v2-doc-cls-distilbert)**
+- **[LeeAeron/wespeaker_voxceleb](https://huggingface.co/LeeAeron/wespeaker_voxceleb)**
+- **[cw-105/clef](https://huggingface.co/cw-105/clef)** — image-text-to-text
+- **[MohammadGholizadeh/deepseek-llm-7b-chat-owl-gen8-s42](https://huggingface.co/MohammadGholizadeh/deepseek-llm-7b-chat-owl-gen8-s42)**
+- **[cwaud/tournament-exp-s1-28c9f3bb-81f7-47b6-9468-4918b98904ed-5Exp409d24a1ef2521ab](https://huggingface.co/cwaud/tournament-exp-s1-28c9f3bb-81f7-47b6-9468-4918b98904ed-5Exp409d24a1ef2521ab)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-09](archive/2026-10-09.md)
 - [2026-10-08](archive/2026-10-08.md)
 - [2026-10-07](archive/2026-10-07.md)
 - [2026-10-06](archive/2026-10-06.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-07-31](archive/2026-07-31.md)
 - [2026-07-30](archive/2026-07-30.md)
 - [2026-07-29](archive/2026-07-29.md)
-- [2026-07-28](archive/2026-07-28.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
