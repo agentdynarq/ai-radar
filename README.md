@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-09
+## 2026-10-10
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[joshuaswarren/MiniMax-H3-int8-omarchy](https://huggingface.co/joshuaswarren/MiniMax-H3-int8-omarchy)**
-- **[Cisco1963/llmplasticity-en_zh_instant_8-d0.01-c0.999-r0.5-s42](https://huggingface.co/Cisco1963/llmplasticity-en_zh_instant_8-d0.01-c0.999-r0.5-s42)**
-- **[ynov/dipl0-mon-modele](https://huggingface.co/ynov/dipl0-mon-modele)**
-- **[AyoubChLin/companydocs-v2-doc-cls-distilbert](https://huggingface.co/AyoubChLin/companydocs-v2-doc-cls-distilbert)**
-- **[LeeAeron/wespeaker_voxceleb](https://huggingface.co/LeeAeron/wespeaker_voxceleb)**
-- **[cw-105/clef](https://huggingface.co/cw-105/clef)** — image-text-to-text
-- **[MohammadGholizadeh/deepseek-llm-7b-chat-owl-gen8-s42](https://huggingface.co/MohammadGholizadeh/deepseek-llm-7b-chat-owl-gen8-s42)**
-- **[cwaud/tournament-exp-s1-28c9f3bb-81f7-47b6-9468-4918b98904ed-5Exp409d24a1ef2521ab](https://huggingface.co/cwaud/tournament-exp-s1-28c9f3bb-81f7-47b6-9468-4918b98904ed-5Exp409d24a1ef2521ab)**
+- **[alexander-andreevich/SmolLM-360M-DroPE-66M](https://huggingface.co/alexander-andreevich/SmolLM-360M-DroPE-66M)**
+- **[reaperdoesntknow/Qwen3_Redux-0.6B](https://huggingface.co/reaperdoesntknow/Qwen3_Redux-0.6B)** — text-generation
+- **[Sha703/coach-petit-smolm2-360m](https://huggingface.co/Sha703/coach-petit-smolm2-360m)** — text-generation
+- **[zbeeb/Qwen2.5-3B-Instruct-OpenR1-SFT-GRPO](https://huggingface.co/zbeeb/Qwen2.5-3B-Instruct-OpenR1-SFT-GRPO)** — text-generation
+- **[KemissBot/Kmss](https://huggingface.co/KemissBot/Kmss)**
+- **[zbeeb/Qwen2.5-3B-Base-GRPO](https://huggingface.co/zbeeb/Qwen2.5-3B-Base-GRPO)** — text-generation
+- **[francesca9805/ppt-wc-loglinear-newlex-ind-before-100mb-packed-bfdiso_seed455](https://huggingface.co/francesca9805/ppt-wc-loglinear-newlex-ind-before-100mb-packed-bfdiso_seed455)**
+- **[jjjlimaus/r15-Q-cssft-e4](https://huggingface.co/jjjlimaus/r15-Q-cssft-e4)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-10](archive/2026-10-10.md)
 - [2026-10-09](archive/2026-10-09.md)
 - [2026-10-08](archive/2026-10-08.md)
 - [2026-10-07](archive/2026-10-07.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-01](archive/2026-08-01.md)
 - [2026-07-31](archive/2026-07-31.md)
 - [2026-07-30](archive/2026-07-30.md)
-- [2026-07-29](archive/2026-07-29.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
