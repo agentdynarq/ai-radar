@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-10
+## 2026-10-11
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[alexander-andreevich/SmolLM-360M-DroPE-66M](https://huggingface.co/alexander-andreevich/SmolLM-360M-DroPE-66M)**
-- **[reaperdoesntknow/Qwen3_Redux-0.6B](https://huggingface.co/reaperdoesntknow/Qwen3_Redux-0.6B)** — text-generation
-- **[Sha703/coach-petit-smolm2-360m](https://huggingface.co/Sha703/coach-petit-smolm2-360m)** — text-generation
-- **[zbeeb/Qwen2.5-3B-Instruct-OpenR1-SFT-GRPO](https://huggingface.co/zbeeb/Qwen2.5-3B-Instruct-OpenR1-SFT-GRPO)** — text-generation
-- **[KemissBot/Kmss](https://huggingface.co/KemissBot/Kmss)**
-- **[zbeeb/Qwen2.5-3B-Base-GRPO](https://huggingface.co/zbeeb/Qwen2.5-3B-Base-GRPO)** — text-generation
-- **[francesca9805/ppt-wc-loglinear-newlex-ind-before-100mb-packed-bfdiso_seed455](https://huggingface.co/francesca9805/ppt-wc-loglinear-newlex-ind-before-100mb-packed-bfdiso_seed455)**
-- **[jjjlimaus/r15-Q-cssft-e4](https://huggingface.co/jjjlimaus/r15-Q-cssft-e4)**
+- **[zaydens/ev-71f60d9b-m567lj](https://huggingface.co/zaydens/ev-71f60d9b-m567lj)**
+- **[davidwdw/t73-eval-c32b-train297-ddf8008b29c2](https://huggingface.co/davidwdw/t73-eval-c32b-train297-ddf8008b29c2)**
+- **[siddarthathota/PEFT_Partb](https://huggingface.co/siddarthathota/PEFT_Partb)**
+- **[GurpreetSingh21/house-price-model](https://huggingface.co/GurpreetSingh21/house-price-model)**
+- **[vadimyakob/chrono-2024-d-11](https://huggingface.co/vadimyakob/chrono-2024-d-11)**
+- **[misapapa71/model-misato-krea2](https://huggingface.co/misapapa71/model-misato-krea2)**
+- **[Gaulksks/Ii](https://huggingface.co/Gaulksks/Ii)**
+- **[dangerousmanleebyeonggeon/qwen3-emb-4b-domabl-nolife-hardneg-n5896-e1-ckpt46-ml1024](https://huggingface.co/dangerousmanleebyeonggeon/qwen3-emb-4b-domabl-nolife-hardneg-n5896-e1-ckpt46-ml1024)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-11](archive/2026-10-11.md)
 - [2026-10-10](archive/2026-10-10.md)
 - [2026-10-09](archive/2026-10-09.md)
 - [2026-10-08](archive/2026-10-08.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-02](archive/2026-08-02.md)
 - [2026-08-01](archive/2026-08-01.md)
 - [2026-07-31](archive/2026-07-31.md)
-- [2026-07-30](archive/2026-07-30.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
