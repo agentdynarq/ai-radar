@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-11
+## 2026-10-12
 
 ### New AI research · arXiv
 
-- **[CSF: Contextual Safety Filtering for Motion Generators](http://arxiv.org/abs/2610.12467v1)** — Lizhi Yang et al. · 2026-10-08
-  <br/>Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either…
-- **[On the estimation and validity of AI time horizons---a statistical look at the METR plot](http://arxiv.org/abs/2610.12466v1)** — Drew T. Nguyen et al. · 2026-10-08
-  <br/>METR's 50\% time horizon measures the human completion time of software tasks that an AI solves with 50\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks an…
-- **[A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](http://arxiv.org/abs/2610.12465v1)** — Octi Zhang et al. · 2026-10-08
-  <br/>General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal,…
-- **[From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents](http://arxiv.org/abs/2610.12463v1)** — Abbas Raftari · 2026-10-08
-  <br/>In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research…
-- **[BrickBench: Evaluating Agentic Brick Design](http://arxiv.org/abs/2610.12452v1)** — Peter Kulits et al. · 2026-10-08
-  <br/>We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, bu…
-- **[One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts](http://arxiv.org/abs/2610.12448v1)** — Adrian Bulat et al. · 2026-10-08
-  <br/>In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillati…
-- **[Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems](http://arxiv.org/abs/2610.12449v1)** — Anna Zimmel et al. · 2026-10-08
-  <br/>Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sin…
-- **[Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception](http://arxiv.org/abs/2610.12445v1)** — Oskar J. Hollinsworth et al. · 2026-10-08
-  <br/>Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier…
+- **[Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1)** — Alexander Hickey et al. · 2026-10-09
+  <br/>Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowle…
+- **[Hide and Seek: HIDE Concepts to SEEK explanations for black box models](http://arxiv.org/abs/2610.13935v1)** — Bhanu Tokas et al. · 2026-10-09
+  <br/>Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concept…
+- **[Constructive Bounds for the Topological Expressivity of Neural Networks](http://arxiv.org/abs/2610.13931v1)** — Kosio Beshkov · 2026-10-09
+  <br/>The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understan…
+- **[AI Models Can Provably Hide Arbitrary Capabilities](http://arxiv.org/abs/2610.13928v1)** — Andis Draguns et al. · 2026-10-09
+  <br/>Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption do…
+- **[KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling](http://arxiv.org/abs/2610.13924v1)** — Tianyi Wu · 2026-10-09
+  <br/>A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-avera…
+- **[Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning](http://arxiv.org/abs/2610.13923v1)** — Sajjad Baghaeea et al. · 2026-10-09
+  <br/>Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communicat…
+- **[DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness](http://arxiv.org/abs/2610.13918v1)** — Daniel Szelogowski · 2026-10-09
+  <br/>Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical i…
+- **[Designing Protein Structures from Natural Language](http://arxiv.org/abs/2610.13917v1)** — Joseph Lee et al. · 2026-10-09
+  <br/>A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for e…
 
 ### New model releases · Hugging Face
 
-- **[zaydens/ev-71f60d9b-m567lj](https://huggingface.co/zaydens/ev-71f60d9b-m567lj)**
-- **[davidwdw/t73-eval-c32b-train297-ddf8008b29c2](https://huggingface.co/davidwdw/t73-eval-c32b-train297-ddf8008b29c2)**
-- **[siddarthathota/PEFT_Partb](https://huggingface.co/siddarthathota/PEFT_Partb)**
-- **[GurpreetSingh21/house-price-model](https://huggingface.co/GurpreetSingh21/house-price-model)**
-- **[vadimyakob/chrono-2024-d-11](https://huggingface.co/vadimyakob/chrono-2024-d-11)**
-- **[misapapa71/model-misato-krea2](https://huggingface.co/misapapa71/model-misato-krea2)**
-- **[Gaulksks/Ii](https://huggingface.co/Gaulksks/Ii)**
-- **[dangerousmanleebyeonggeon/qwen3-emb-4b-domabl-nolife-hardneg-n5896-e1-ckpt46-ml1024](https://huggingface.co/dangerousmanleebyeonggeon/qwen3-emb-4b-domabl-nolife-hardneg-n5896-e1-ckpt46-ml1024)**
+- **[yyuan244/asyncrl-m4b_sync_mb8_grpo_tn0_tis2_fp8_ev128-gs100](https://huggingface.co/yyuan244/asyncrl-m4b_sync_mb8_grpo_tn0_tis2_fp8_ev128-gs100)**
+- **[HugAdam/Lab6-translator](https://huggingface.co/HugAdam/Lab6-translator)**
+- **[gradients-io-tournaments/tournament-tourn_5bf35647da58489e_20261012-14e9feed-cb99-4e90-a534-2cefefd5b839-5FNLSgh8](https://huggingface.co/gradients-io-tournaments/tournament-tourn_5bf35647da58489e_20261012-14e9feed-cb99-4e90-a534-2cefefd5b839-5FNLSgh8)**
+- **[frankmorales2020/llama-3.1-70b-topo-governed-cbp-rh](https://huggingface.co/frankmorales2020/llama-3.1-70b-topo-governed-cbp-rh)**
+- **[attacker4234/xssa-b7a7](https://huggingface.co/attacker4234/xssa-b7a7)**
+- **[hwihwalab/connectailab-choco-brain-v1](https://huggingface.co/hwihwalab/connectailab-choco-brain-v1)** — text-generation
+- **[bakhil-aissa/flux.2-klein-4b](https://huggingface.co/bakhil-aissa/flux.2-klein-4b)**
+- **[EphAsad/Satella-RAG-0.8B](https://huggingface.co/EphAsad/Satella-RAG-0.8B)** — text-generation
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-12](archive/2026-10-12.md)
 - [2026-10-11](archive/2026-10-11.md)
 - [2026-10-10](archive/2026-10-10.md)
 - [2026-10-09](archive/2026-10-09.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-04](archive/2026-08-04.md)
 - [2026-08-02](archive/2026-08-02.md)
 - [2026-08-01](archive/2026-08-01.md)
-- [2026-07-31](archive/2026-07-31.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
