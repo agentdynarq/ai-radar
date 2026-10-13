@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-12
+## 2026-10-13
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[yyuan244/asyncrl-m4b_sync_mb8_grpo_tn0_tis2_fp8_ev128-gs100](https://huggingface.co/yyuan244/asyncrl-m4b_sync_mb8_grpo_tn0_tis2_fp8_ev128-gs100)**
-- **[HugAdam/Lab6-translator](https://huggingface.co/HugAdam/Lab6-translator)**
-- **[gradients-io-tournaments/tournament-tourn_5bf35647da58489e_20261012-14e9feed-cb99-4e90-a534-2cefefd5b839-5FNLSgh8](https://huggingface.co/gradients-io-tournaments/tournament-tourn_5bf35647da58489e_20261012-14e9feed-cb99-4e90-a534-2cefefd5b839-5FNLSgh8)**
-- **[frankmorales2020/llama-3.1-70b-topo-governed-cbp-rh](https://huggingface.co/frankmorales2020/llama-3.1-70b-topo-governed-cbp-rh)**
-- **[attacker4234/xssa-b7a7](https://huggingface.co/attacker4234/xssa-b7a7)**
-- **[hwihwalab/connectailab-choco-brain-v1](https://huggingface.co/hwihwalab/connectailab-choco-brain-v1)** — text-generation
-- **[bakhil-aissa/flux.2-klein-4b](https://huggingface.co/bakhil-aissa/flux.2-klein-4b)**
-- **[EphAsad/Satella-RAG-0.8B](https://huggingface.co/EphAsad/Satella-RAG-0.8B)** — text-generation
+- **[Bigchilli1978/reggie-v6-32b-GGUF](https://huggingface.co/Bigchilli1978/reggie-v6-32b-GGUF)**
+- **[akbargherbal/quran-pronunciation-yue2-lora](https://huggingface.co/akbargherbal/quran-pronunciation-yue2-lora)**
+- **[RyanYr/asyncrl-m4b_sync_mb8_sc_truncneg1_fp8_ev128-gs60](https://huggingface.co/RyanYr/asyncrl-m4b_sync_mb8_sc_truncneg1_fp8_ev128-gs60)**
+- **[akbargherbal/arabmaqamrock-yue2-lora](https://huggingface.co/akbargherbal/arabmaqamrock-yue2-lora)**
+- **[OmniJev/OneJev1.5-4B](https://huggingface.co/OmniJev/OneJev1.5-4B)**
+- **[AlinaGonch/llama32-3b-squad-ratio-0.00-seed-43](https://huggingface.co/AlinaGonch/llama32-3b-squad-ratio-0.00-seed-43)**
+- **[MelorAngelina/MyAwesomeModel-TestRepo](https://huggingface.co/MelorAngelina/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[GrizzillaAI/Qwen3.5-4B-Q4_K_M-GGUF](https://huggingface.co/GrizzillaAI/Qwen3.5-4B-Q4_K_M-GGUF)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-13](archive/2026-10-13.md)
 - [2026-10-12](archive/2026-10-12.md)
 - [2026-10-11](archive/2026-10-11.md)
 - [2026-10-10](archive/2026-10-10.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-05](archive/2026-08-05.md)
 - [2026-08-04](archive/2026-08-04.md)
 - [2026-08-02](archive/2026-08-02.md)
-- [2026-08-01](archive/2026-08-01.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
