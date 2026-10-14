@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-13
+## 2026-10-14
 
 ### New AI research · arXiv
 
-- **[Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1)** — Alexander Hickey et al. · 2026-10-09
-  <br/>Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowle…
-- **[Hide and Seek: HIDE Concepts to SEEK explanations for black box models](http://arxiv.org/abs/2610.13935v1)** — Bhanu Tokas et al. · 2026-10-09
-  <br/>Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concept…
-- **[Constructive Bounds for the Topological Expressivity of Neural Networks](http://arxiv.org/abs/2610.13931v1)** — Kosio Beshkov · 2026-10-09
-  <br/>The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understan…
-- **[AI Models Can Provably Hide Arbitrary Capabilities](http://arxiv.org/abs/2610.13928v1)** — Andis Draguns et al. · 2026-10-09
-  <br/>Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption do…
-- **[KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling](http://arxiv.org/abs/2610.13924v1)** — Tianyi Wu · 2026-10-09
-  <br/>A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-avera…
-- **[Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning](http://arxiv.org/abs/2610.13923v1)** — Sajjad Baghaeea et al. · 2026-10-09
-  <br/>Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communicat…
-- **[DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness](http://arxiv.org/abs/2610.13918v1)** — Daniel Szelogowski · 2026-10-09
-  <br/>Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical i…
-- **[Designing Protein Structures from Natural Language](http://arxiv.org/abs/2610.13917v1)** — Joseph Lee et al. · 2026-10-09
-  <br/>A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for e…
+- **[ChunkAct: Action Chunking for Agentic Robotics](http://arxiv.org/abs/2610.18874v1)** — Bingxin Xu et al. · 2026-10-13
+  <br/>Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and t…
+- **[Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion](http://arxiv.org/abs/2610.18871v1)** — Chih-Hai Su et al. · 2026-10-13
+  <br/>Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension…
+- **[What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study](http://arxiv.org/abs/2610.18869v1)** — Mingxuan Yan et al. · 2026-10-13
+  <br/>How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across…
+- **[Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](http://arxiv.org/abs/2610.18868v1)** — Wenbo Hu et al. · 2026-10-13
+  <br/>Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recu…
+- **[Data Free Training of Diffusion Models for Lattice Field Theories](http://arxiv.org/abs/2610.18863v1)** — Dennis Grinwald et al. · 2026-10-13
+  <br/>Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configuratio…
+- **[DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](http://arxiv.org/abs/2610.18862v1)** — Minghao Luo et al. · 2026-10-13
+  <br/>Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional train…
+- **[AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards](http://arxiv.org/abs/2610.18860v1)** — Xin Gao et al. · 2026-10-13
+  <br/>Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how…
+- **[Hybrid Reasoning Agents](http://arxiv.org/abs/2610.18861v1)** — Jiaru Zou et al. · 2026-10-13
+  <br/>How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning of…
 
 ### New model releases · Hugging Face
 
-- **[Bigchilli1978/reggie-v6-32b-GGUF](https://huggingface.co/Bigchilli1978/reggie-v6-32b-GGUF)**
-- **[akbargherbal/quran-pronunciation-yue2-lora](https://huggingface.co/akbargherbal/quran-pronunciation-yue2-lora)**
-- **[RyanYr/asyncrl-m4b_sync_mb8_sc_truncneg1_fp8_ev128-gs60](https://huggingface.co/RyanYr/asyncrl-m4b_sync_mb8_sc_truncneg1_fp8_ev128-gs60)**
-- **[akbargherbal/arabmaqamrock-yue2-lora](https://huggingface.co/akbargherbal/arabmaqamrock-yue2-lora)**
-- **[OmniJev/OneJev1.5-4B](https://huggingface.co/OmniJev/OneJev1.5-4B)**
-- **[AlinaGonch/llama32-3b-squad-ratio-0.00-seed-43](https://huggingface.co/AlinaGonch/llama32-3b-squad-ratio-0.00-seed-43)**
-- **[MelorAngelina/MyAwesomeModel-TestRepo](https://huggingface.co/MelorAngelina/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[GrizzillaAI/Qwen3.5-4B-Q4_K_M-GGUF](https://huggingface.co/GrizzillaAI/Qwen3.5-4B-Q4_K_M-GGUF)**
+- **[WaveCut/Drama-3-OrbitQuant-W4A4](https://huggingface.co/WaveCut/Drama-3-OrbitQuant-W4A4)**
+- **[rpgarcia/perceiver-generation-warmup-2023](https://huggingface.co/rpgarcia/perceiver-generation-warmup-2023)**
+- **[kiroaiseoul/NAJY_act_all11_c100_gist30_sdrop50_27D_60k_s1000](https://huggingface.co/kiroaiseoul/NAJY_act_all11_c100_gist30_sdrop50_27D_60k_s1000)** — robotics
+- **[nikitos-not-bot/qwen3.8-27b-q8-mesh-llm](https://huggingface.co/nikitos-not-bot/qwen3.8-27b-q8-mesh-llm)**
+- **[awde213xazc213ed/MyAwesomeModel-TestRepo](https://huggingface.co/awde213xazc213ed/MyAwesomeModel-TestRepo)**
+- **[model-organisms-for-real/automo-kd-unmixed-gemma-to-gemma-italianfood-dpo-mixed](https://huggingface.co/model-organisms-for-real/automo-kd-unmixed-gemma-to-gemma-italianfood-dpo-mixed)**
+- **[alfred8995/r16-H-U-s3-final](https://huggingface.co/alfred8995/r16-H-U-s3-final)**
+- **[alfred8995/r16-H-U-c2-final](https://huggingface.co/alfred8995/r16-H-U-c2-final)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-14](archive/2026-10-14.md)
 - [2026-10-13](archive/2026-10-13.md)
 - [2026-10-12](archive/2026-10-12.md)
 - [2026-10-11](archive/2026-10-11.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-06](archive/2026-08-06.md)
 - [2026-08-05](archive/2026-08-05.md)
 - [2026-08-04](archive/2026-08-04.md)
-- [2026-08-02](archive/2026-08-02.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
