@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-14
+## 2026-10-15
 
 ### New AI research · arXiv
 
-- **[ChunkAct: Action Chunking for Agentic Robotics](http://arxiv.org/abs/2610.18874v1)** — Bingxin Xu et al. · 2026-10-13
-  <br/>Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and t…
-- **[Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion](http://arxiv.org/abs/2610.18871v1)** — Chih-Hai Su et al. · 2026-10-13
-  <br/>Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension…
-- **[What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study](http://arxiv.org/abs/2610.18869v1)** — Mingxuan Yan et al. · 2026-10-13
-  <br/>How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across…
-- **[Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](http://arxiv.org/abs/2610.18868v1)** — Wenbo Hu et al. · 2026-10-13
-  <br/>Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recu…
-- **[Data Free Training of Diffusion Models for Lattice Field Theories](http://arxiv.org/abs/2610.18863v1)** — Dennis Grinwald et al. · 2026-10-13
-  <br/>Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configuratio…
-- **[DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](http://arxiv.org/abs/2610.18862v1)** — Minghao Luo et al. · 2026-10-13
-  <br/>Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional train…
-- **[AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards](http://arxiv.org/abs/2610.18860v1)** — Xin Gao et al. · 2026-10-13
-  <br/>Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how…
-- **[Hybrid Reasoning Agents](http://arxiv.org/abs/2610.18861v1)** — Jiaru Zou et al. · 2026-10-13
-  <br/>How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning of…
+- **[Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](http://arxiv.org/abs/2610.20606v1)** — Huixuan Cheng et al. · 2026-10-14
+  <br/>Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained th…
+- **[Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance](http://arxiv.org/abs/2610.20607v1)** — Zhefei Gong et al. · 2026-10-14
+  <br/>Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling b…
+- **[Co-Evolving Acting and Forecasting for Language Agents](http://arxiv.org/abs/2610.20597v1)** — Haofei Yu et al. · 2026-10-14
+  <br/>Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision…
+- **[Your Transformer Is Secretly Elastic](http://arxiv.org/abs/2610.20588v1)** — Walter Simoncini et al. · 2026-10-14
+  <br/>Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L)…
+- **[Price of Anarchy of First-Price Auctions in Agentic Markets](http://arxiv.org/abs/2610.20587v1)** — Shubhendu Trivedi et al. · 2026-10-14
+  <br/>An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the r…
+- **[Continuum Attention](http://arxiv.org/abs/2610.20586v1)** — Afshin Khadangi · 2026-10-14
+  <br/>We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each quer…
+- **[Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes](http://arxiv.org/abs/2610.20585v1)** — Stavros Nousias et al. · 2026-10-14
+  <br/>Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that pa…
+- **[Player-1: Learning to Play from Synthetic Experience](http://arxiv.org/abs/2610.20584v1)** — Mingyu Ouyang et al. · 2026-10-14
+  <br/>Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, rema…
 
 ### New model releases · Hugging Face
 
-- **[WaveCut/Drama-3-OrbitQuant-W4A4](https://huggingface.co/WaveCut/Drama-3-OrbitQuant-W4A4)**
-- **[rpgarcia/perceiver-generation-warmup-2023](https://huggingface.co/rpgarcia/perceiver-generation-warmup-2023)**
-- **[kiroaiseoul/NAJY_act_all11_c100_gist30_sdrop50_27D_60k_s1000](https://huggingface.co/kiroaiseoul/NAJY_act_all11_c100_gist30_sdrop50_27D_60k_s1000)** — robotics
-- **[nikitos-not-bot/qwen3.8-27b-q8-mesh-llm](https://huggingface.co/nikitos-not-bot/qwen3.8-27b-q8-mesh-llm)**
-- **[awde213xazc213ed/MyAwesomeModel-TestRepo](https://huggingface.co/awde213xazc213ed/MyAwesomeModel-TestRepo)**
-- **[model-organisms-for-real/automo-kd-unmixed-gemma-to-gemma-italianfood-dpo-mixed](https://huggingface.co/model-organisms-for-real/automo-kd-unmixed-gemma-to-gemma-italianfood-dpo-mixed)**
-- **[alfred8995/r16-H-U-s3-final](https://huggingface.co/alfred8995/r16-H-U-s3-final)**
-- **[alfred8995/r16-H-U-c2-final](https://huggingface.co/alfred8995/r16-H-U-c2-final)**
+- **[david123TJP/MyAwesomeModel-TestRepo](https://huggingface.co/david123TJP/MyAwesomeModel-TestRepo)**
+- **[muscgab/manga-ocr-base-CPT-flex](https://huggingface.co/muscgab/manga-ocr-base-CPT-flex)**
+- **[Cisco1963/llmplasticity-nl_en_linear_8-rand-d0.5-c0.9-r0.5-s42](https://huggingface.co/Cisco1963/llmplasticity-nl_en_linear_8-rand-d0.5-c0.9-r0.5-s42)**
+- **[zengzic/dental-panoramic-detector](https://huggingface.co/zengzic/dental-panoramic-detector)** — object-detection
+- **[topogoogles/topogoogles-flow](https://huggingface.co/topogoogles/topogoogles-flow)**
+- **[quincyqiang/chinese-decision-0.8b-gguf](https://huggingface.co/quincyqiang/chinese-decision-0.8b-gguf)**
+- **[Sanghyang00/ELARSpeech-Whisper-Large-v3-ote](https://huggingface.co/Sanghyang00/ELARSpeech-Whisper-Large-v3-ote)**
+- **[Aftian2429/god-replica-l-k1-x14-ideo-b9ac031e-x4a6be11](https://huggingface.co/Aftian2429/god-replica-l-k1-x14-ideo-b9ac031e-x4a6be11)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-15](archive/2026-10-15.md)
 - [2026-10-14](archive/2026-10-14.md)
 - [2026-10-13](archive/2026-10-13.md)
 - [2026-10-12](archive/2026-10-12.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-10](archive/2026-08-10.md)
 - [2026-08-06](archive/2026-08-06.md)
 - [2026-08-05](archive/2026-08-05.md)
-- [2026-08-04](archive/2026-08-04.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
