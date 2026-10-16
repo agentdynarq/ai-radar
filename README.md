@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-15
+## 2026-10-16
 
 ### New AI research · arXiv
 
-- **[Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](http://arxiv.org/abs/2610.20606v1)** — Huixuan Cheng et al. · 2026-10-14
-  <br/>Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained th…
-- **[Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance](http://arxiv.org/abs/2610.20607v1)** — Zhefei Gong et al. · 2026-10-14
-  <br/>Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling b…
-- **[Co-Evolving Acting and Forecasting for Language Agents](http://arxiv.org/abs/2610.20597v1)** — Haofei Yu et al. · 2026-10-14
-  <br/>Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision…
-- **[Your Transformer Is Secretly Elastic](http://arxiv.org/abs/2610.20588v1)** — Walter Simoncini et al. · 2026-10-14
-  <br/>Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L)…
-- **[Price of Anarchy of First-Price Auctions in Agentic Markets](http://arxiv.org/abs/2610.20587v1)** — Shubhendu Trivedi et al. · 2026-10-14
-  <br/>An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the r…
-- **[Continuum Attention](http://arxiv.org/abs/2610.20586v1)** — Afshin Khadangi · 2026-10-14
-  <br/>We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each quer…
-- **[Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes](http://arxiv.org/abs/2610.20585v1)** — Stavros Nousias et al. · 2026-10-14
-  <br/>Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that pa…
-- **[Player-1: Learning to Play from Synthetic Experience](http://arxiv.org/abs/2610.20584v1)** — Mingyu Ouyang et al. · 2026-10-14
-  <br/>Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, rema…
+- **[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)** — Zhixu Li et al. · 2026-10-15
+  <br/>Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, perso…
+- **[Discovering state-of-the-art quantum circuits with large language models](http://arxiv.org/abs/2610.22367v1)** — Andi Gu et al. · 2026-10-15
+  <br/>Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effic…
+- **[T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](http://arxiv.org/abs/2610.22364v1)** — Chenyuan Zhou et al. · 2026-10-15
+  <br/>Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from p…
+- **[CoDA: Co-Evolution of Data Engines and Action Policies](http://arxiv.org/abs/2610.22362v1)** — Tianjiao Yu et al. · 2026-10-15
+  <br/>Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a…
+- **[PathFM: Fast Generative Forecasting of Multivariate Trajectories](http://arxiv.org/abs/2610.22358v1)** — Jiachen Yao et al. · 2026-10-15
+  <br/>Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tr…
+- **[OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling](http://arxiv.org/abs/2610.22355v1)** — Bowei Liu et al. · 2026-10-15
+  <br/>Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirement…
+- **[Rethinking Routing Exploration in Modern Mixture-of-Experts](http://arxiv.org/abs/2610.22353v1)** — Bingcong Li et al. · 2026-10-15
+  <br/>Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and…
+- **[FDE-Gym: The Last Mile of AI Delivery](http://arxiv.org/abs/2610.22350v1)** — Dongxu Yang et al. · 2026-10-15
+  <br/>Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engi…
 
 ### New model releases · Hugging Face
 
-- **[david123TJP/MyAwesomeModel-TestRepo](https://huggingface.co/david123TJP/MyAwesomeModel-TestRepo)**
-- **[muscgab/manga-ocr-base-CPT-flex](https://huggingface.co/muscgab/manga-ocr-base-CPT-flex)**
-- **[Cisco1963/llmplasticity-nl_en_linear_8-rand-d0.5-c0.9-r0.5-s42](https://huggingface.co/Cisco1963/llmplasticity-nl_en_linear_8-rand-d0.5-c0.9-r0.5-s42)**
-- **[zengzic/dental-panoramic-detector](https://huggingface.co/zengzic/dental-panoramic-detector)** — object-detection
-- **[topogoogles/topogoogles-flow](https://huggingface.co/topogoogles/topogoogles-flow)**
-- **[quincyqiang/chinese-decision-0.8b-gguf](https://huggingface.co/quincyqiang/chinese-decision-0.8b-gguf)**
-- **[Sanghyang00/ELARSpeech-Whisper-Large-v3-ote](https://huggingface.co/Sanghyang00/ELARSpeech-Whisper-Large-v3-ote)**
-- **[Aftian2429/god-replica-l-k1-x14-ideo-b9ac031e-x4a6be11](https://huggingface.co/Aftian2429/god-replica-l-k1-x14-ideo-b9ac031e-x4a6be11)**
+- **[kamacops/llm-course-hw1](https://huggingface.co/kamacops/llm-course-hw1)**
+- **[tigopt/amalia-dpo-fala-onnx-nbits8](https://huggingface.co/tigopt/amalia-dpo-fala-onnx-nbits8)**
+- **[toxicdog/MOSS-Image-SFT-INT4-ConvRot-ComfyUI](https://huggingface.co/toxicdog/MOSS-Image-SFT-INT4-ConvRot-ComfyUI)**
+- **[ASD12ZXCQE/MyAwesomeModel-TestRepo](https://huggingface.co/ASD12ZXCQE/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Kaderhezer/etkinokuma-birlestirilmis-model](https://huggingface.co/Kaderhezer/etkinokuma-birlestirilmis-model)**
+- **[zaydens/ev-a727a89b-ojctt2](https://huggingface.co/zaydens/ev-a727a89b-ojctt2)**
+- **[LatentLobster/rife418-vfi-trt](https://huggingface.co/LatentLobster/rife418-vfi-trt)**
+- **[yyhtbs/pixelart-alpha2rfm](https://huggingface.co/yyhtbs/pixelart-alpha2rfm)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-16](archive/2026-10-16.md)
 - [2026-10-15](archive/2026-10-15.md)
 - [2026-10-14](archive/2026-10-14.md)
 - [2026-10-13](archive/2026-10-13.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-12](archive/2026-08-12.md)
 - [2026-08-10](archive/2026-08-10.md)
 - [2026-08-06](archive/2026-08-06.md)
-- [2026-08-05](archive/2026-08-05.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
