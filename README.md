@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-16
+## 2026-10-17
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[kamacops/llm-course-hw1](https://huggingface.co/kamacops/llm-course-hw1)**
-- **[tigopt/amalia-dpo-fala-onnx-nbits8](https://huggingface.co/tigopt/amalia-dpo-fala-onnx-nbits8)**
-- **[toxicdog/MOSS-Image-SFT-INT4-ConvRot-ComfyUI](https://huggingface.co/toxicdog/MOSS-Image-SFT-INT4-ConvRot-ComfyUI)**
-- **[ASD12ZXCQE/MyAwesomeModel-TestRepo](https://huggingface.co/ASD12ZXCQE/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[Kaderhezer/etkinokuma-birlestirilmis-model](https://huggingface.co/Kaderhezer/etkinokuma-birlestirilmis-model)**
-- **[zaydens/ev-a727a89b-ojctt2](https://huggingface.co/zaydens/ev-a727a89b-ojctt2)**
-- **[LatentLobster/rife418-vfi-trt](https://huggingface.co/LatentLobster/rife418-vfi-trt)**
-- **[yyhtbs/pixelart-alpha2rfm](https://huggingface.co/yyhtbs/pixelart-alpha2rfm)**
+- **[Ilham69/itr-r2i4f-0921-b3d4e834-ship](https://huggingface.co/Ilham69/itr-r2i4f-0921-b3d4e834-ship)**
+- **[kris072008/q-Taxi-v3](https://huggingface.co/kris072008/q-Taxi-v3)** — reinforcement-learning
+- **[kris072008/q-FrozenLake-v1-4x4-noSlippery](https://huggingface.co/kris072008/q-FrozenLake-v1-4x4-noSlippery)** — reinforcement-learning
+- **[wckwan/Alfworld-Olmo3-7B-SEED-s2000-fsdp-transfer](https://huggingface.co/wckwan/Alfworld-Olmo3-7B-SEED-s2000-fsdp-transfer)**
+- **[mhseo2/opd_sftb8dm15e_s1500_qwen3moe30b_ot3math_rklrest64-step10](https://huggingface.co/mhseo2/opd_sftb8dm15e_s1500_qwen3moe30b_ot3math_rklrest64-step10)**
+- **[donggcao18/temp](https://huggingface.co/donggcao18/temp)**
+- **[vadimyakob/chrono-2025-d-5000](https://huggingface.co/vadimyakob/chrono-2025-d-5000)**
+- **[cyttic/exp39-ctc-diffpenaug20k-hhdgeom-llmgen](https://huggingface.co/cyttic/exp39-ctc-diffpenaug20k-hhdgeom-llmgen)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-17](archive/2026-10-17.md)
 - [2026-10-16](archive/2026-10-16.md)
 - [2026-10-15](archive/2026-10-15.md)
 - [2026-10-14](archive/2026-10-14.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-13](archive/2026-08-13.md)
 - [2026-08-12](archive/2026-08-12.md)
 - [2026-08-10](archive/2026-08-10.md)
-- [2026-08-06](archive/2026-08-06.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
