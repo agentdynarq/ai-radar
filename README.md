@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-19
+## 2026-10-20
 
 ### New AI research · arXiv
 
-- **[Rethinking the design space of Vanilla Pixel Diffusion Transformers](http://arxiv.org/abs/2610.23854v1)** — Soumik Mukhopadhyay et al. · 2026-10-16
-  <br/>Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanill…
-- **[Behavioral Couplings: From Formation to Behavioral Emergence in Language Models](http://arxiv.org/abs/2610.23847v1)** — Dongyoon Hahm et al. · 2026-10-16
-  <br/>Fine-tuning large language models (LLMs) can induce behaviors beyond those explicitly targeted. For example, training a model to respond more warmly can make it more sycophantic, and training it to w…
-- **[AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery](http://arxiv.org/abs/2610.23845v1)** — Shicheng Liu et al. · 2026-10-16
-  <br/>Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents…
-- **[DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses](http://arxiv.org/abs/2610.23839v1)** — Jianyuan Zhong et al. · 2026-10-16
-  <br/>Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definit…
-- **[Task-aligned spectral inductive biases in parameterized quantum circuits](http://arxiv.org/abs/2610.23834v1)** — Felix Frohnert et al. · 2026-10-16
-  <br/>Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reupl…
-- **[Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation](http://arxiv.org/abs/2610.23831v1)** — Shaoang Li et al. · 2026-10-16
-  <br/>A reasoning trace can accompany a correct answer without providing effective supervision for a particular student. We study how to construct traces that improve learning beyond answer-only supervisio…
-- **[Waiting Buys Exactly Two Moments: Endogenous Identification in Prediction-Driven Allocation](http://arxiv.org/abs/2610.23830v1)** — Rama AlHamidi et al. · 2026-10-16
-  <br/>A planner with a fixed budget of preventive help must decide whom to help and when. Waiting reveals risk but removes intervention opportunities as higher-risk individuals leave first. We characterize…
-- **[Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?](http://arxiv.org/abs/2610.23827v1)** — Anis Bekri et al. · 2026-10-16
-  <br/>Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliabl…
+- **[Text-to-Image Generative Modeling Without Language Pretraining](http://arxiv.org/abs/2610.26863v1)** — Keshigeyan Chandrasegaran et al. · 2026-10-19
+  <br/>Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introd…
+- **[OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](http://arxiv.org/abs/2610.26860v1)** — Yu Zhou et al. · 2026-10-19
+  <br/>Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stu…
+- **[Can It Actually Work? Synthesizing Functional CAD Mechanisms](http://arxiv.org/abs/2610.26861v1)** — Wenqian Zhang et al. · 2026-10-19
+  <br/>While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpre…
+- **[Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](http://arxiv.org/abs/2610.26856v1)** — Shiao Xie et al. · 2026-10-19
+  <br/>Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distil…
+- **[CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting](http://arxiv.org/abs/2610.26852v1)** — Zehao Wang et al. · 2026-10-19
+  <br/>Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robo…
+- **[Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy](http://arxiv.org/abs/2610.26848v1)** — Zekai Li et al. · 2026-10-19
+  <br/>In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a…
+- **[WeAct: Dynamic Weight Switching as Agent Actions](http://arxiv.org/abs/2610.26847v1)** — Rui Shi et al. · 2026-10-19
+  <br/>Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catast…
+- **[Train An Imaginative Agent](http://arxiv.org/abs/2610.26845v1)** — Jiaxin Ge et al. · 2026-10-19
+  <br/>A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback fr…
 
 ### New model releases · Hugging Face
 
-- **[gradients-io-tournaments/tournament-tourn_21d7f15f1e6bf934_20261019-1b9d1cd7-a1e8-4f97-8dfb-d26d657681c7-5DXVNvDm](https://huggingface.co/gradients-io-tournaments/tournament-tourn_21d7f15f1e6bf934_20261019-1b9d1cd7-a1e8-4f97-8dfb-d26d657681c7-5DXVNvDm)**
-- **[sad21cxzc123szx/MyAwesomeModel-TestRepo](https://huggingface.co/sad21cxzc123szx/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[Anadilorg/Anadil_Azerbaijani_TTS](https://huggingface.co/Anadilorg/Anadil_Azerbaijani_TTS)**
-- **[seintartop/god-1149652a-aitk-96af6cd-10191206](https://huggingface.co/seintartop/god-1149652a-aitk-96af6cd-10191206)**
-- **[ShadowKnight2851/Qwen3.5-0.8B-Q4_K_M-GGUF](https://huggingface.co/ShadowKnight2851/Qwen3.5-0.8B-Q4_K_M-GGUF)** — image-text-to-text
-- **[mhseo2/semiopd_sftb8dm15e_s1000_qwen3moe30b_ot3math-step80](https://huggingface.co/mhseo2/semiopd_sftb8dm15e_s1000_qwen3moe30b_ot3math-step80)**
-- **[florianvoss/Llama-3.1-Swallow-8B-Instruct-v0.5-GPTQ-a16w4](https://huggingface.co/florianvoss/Llama-3.1-Swallow-8B-Instruct-v0.5-GPTQ-a16w4)** — text-generation
-- **[gugabobo/neuroadapter-subject02-e109](https://huggingface.co/gugabobo/neuroadapter-subject02-e109)**
+- **[ChaoticEconomist/Qwen3-8B-Socratic-RepE](https://huggingface.co/ChaoticEconomist/Qwen3-8B-Socratic-RepE)** — text-generation
+- **[Lindarixon/Linda-Trace](https://huggingface.co/Lindarixon/Linda-Trace)**
+- **[EduBotics-Solutions/e2e-act-omx_f_18.10-0vl511rwgl](https://huggingface.co/EduBotics-Solutions/e2e-act-omx_f_18.10-0vl511rwgl)**
+- **[TB22427/MyAwesomeModel-TestRepo](https://huggingface.co/TB22427/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Yamini6375/jda-iteration1-1e4](https://huggingface.co/Yamini6375/jda-iteration1-1e4)**
+- **[abhishek2prince/brain-tumor-convnext](https://huggingface.co/abhishek2prince/brain-tumor-convnext)**
+- **[alexkrz/segformer-b0-finetuned-segments-sidewalk-2](https://huggingface.co/alexkrz/segformer-b0-finetuned-segments-sidewalk-2)**
+- **[xx1541zz/act_pick_cube](https://huggingface.co/xx1541zz/act_pick_cube)** — robotics
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-20](archive/2026-10-20.md)
 - [2026-10-19](archive/2026-10-19.md)
 - [2026-10-18](archive/2026-10-18.md)
 - [2026-10-17](archive/2026-10-17.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-16](archive/2026-08-16.md)
 - [2026-08-15](archive/2026-08-15.md)
 - [2026-08-14](archive/2026-08-14.md)
-- [2026-08-13](archive/2026-08-13.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
