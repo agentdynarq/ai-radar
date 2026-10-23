@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-21
+## 2026-10-23
 
 ### New AI research · arXiv
 
-- **[Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs](http://arxiv.org/abs/2610.28632v1)** — Noam Rotstein et al. · 2026-10-20
-  <br/>Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. Fo…
-- **[GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery](http://arxiv.org/abs/2610.28629v1)** — Yazhuo Liu et al. · 2026-10-20
-  <br/>Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigatio…
-- **[Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](http://arxiv.org/abs/2610.28628v1)** — Yuxuan Kuang et al. · 2026-10-20
-  <br/>Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning rec…
-- **[UniWALM: Unified World Action Language Model for Embodied Robot Control](http://arxiv.org/abs/2610.28626v1)** — Rahul Sajnani et al. · 2026-10-20
-  <br/>Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in…
-- **[Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets](http://arxiv.org/abs/2610.28624v1)** — Jad Yammine et al. · 2026-10-20
-  <br/>Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For…
-- **[Planning under Noise with Neural Operators](http://arxiv.org/abs/2610.28623v1)** — Michael Chen et al. · 2026-10-20
-  <br/>Planning under uncertain control execution noise requires reliable feedback policies across diverse environments. We introduce Planning Under Noise (PUN), a neural operator that learns noise-aware va…
-- **[MindView: Benchmarking Generative Multi-View Spatial Intelligence](http://arxiv.org/abs/2610.28622v1)** — Yanbo Wang et al. · 2026-10-20
-  <br/>Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view…
-- **[Adaptive Multi-Token Prediction: How far should we go?](http://arxiv.org/abs/2610.28619v1)** — Emile Anand et al. · 2026-10-20
-  <br/>Multi-token prediction (MTP) can accelerate language-model decoding by drafting several tokens and verifying them in a single target-model pass. However, the best speculation horizon changes with con…
+- **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)** — Yunfei Xie et al. · 2026-10-22
+  <br/>Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggest…
+- **[Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1)** — Mahdi Salmani et al. · 2026-10-22
+  <br/>Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Run…
+- **[Phase Transition from Random Features to Fully Trainable Networks](http://arxiv.org/abs/2610.31663v1)** — Xin He et al. · 2026-10-22
+  <br/>Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adap…
+- **[Reliable AI-Assisted Decisions via Selective Auditing](http://arxiv.org/abs/2610.31662v1)** — Isaac Gibbs et al. · 2026-10-22
+  <br/>We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthin…
+- **[SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing](http://arxiv.org/abs/2610.31659v1)** — Sy-Tuyen Ho et al. · 2026-10-22
+  <br/>Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training imag…
+- **[Cost-Aware Abstention for LLM-Based IT Ticket Classification](http://arxiv.org/abs/2610.31657v1)** — Sachin Gupta · 2026-10-22
+  <br/>Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cal…
+- **[METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](http://arxiv.org/abs/2610.31656v1)** — Ali Najar et al. · 2026-10-22
+  <br/>Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical r…
+- **[EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence](http://arxiv.org/abs/2610.31650v1)** — Qijin Zhang et al. · 2026-10-22
+  <br/>Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action ev…
 
 ### New model releases · Hugging Face
 
-- **[Aftian2429/g56lab-1019-flux-r128-s1](https://huggingface.co/Aftian2429/g56lab-1019-flux-r128-s1)**
-- **[gianmaTest/generatedDigitalExps_1xJUZr_hier_by_room_rnn_meanPoolProc_video_1](https://huggingface.co/gianmaTest/generatedDigitalExps_1xJUZr_hier_by_room_rnn_meanPoolProc_video_1)**
-- **[pavannanjunda333/act_so101_v2](https://huggingface.co/pavannanjunda333/act_so101_v2)** — robotics
-- **[Donghyun1228/pi05-libero-autorgn-notime-lr3e5-yaw30-n5000-10000-20261020](https://huggingface.co/Donghyun1228/pi05-libero-autorgn-notime-lr3e5-yaw30-n5000-10000-20261020)**
-- **[Donghyun1228/pi05-libero-autorgn-notime-lr3e5-view-large-n5000-10000-20261020](https://huggingface.co/Donghyun1228/pi05-libero-autorgn-notime-lr3e5-view-large-n5000-10000-20261020)**
-- **[yurunyyr/asyncrl-m8b_async_s5_mb8_sc_klold_rtgc_b0p05_truncneg1_lenpen3072_ev128-gs320](https://huggingface.co/yurunyyr/asyncrl-m8b_async_s5_mb8_sc_klold_rtgc_b0p05_truncneg1_lenpen3072_ev128-gs320)**
-- **[Masnuy/itr-s30-68-68a2d8b0-ship](https://huggingface.co/Masnuy/itr-s30-68-68a2d8b0-ship)**
-- **[AnirbanSaha/llama3.1-8b-tlink-sentence-only-classification-head-seed123](https://huggingface.co/AnirbanSaha/llama3.1-8b-tlink-sentence-only-classification-head-seed123)**
+- **[A-layerIDE/OPES-images-1.0](https://huggingface.co/A-layerIDE/OPES-images-1.0)**
+- **[helcig/tmp-oct26-2](https://huggingface.co/helcig/tmp-oct26-2)**
+- **[yyuanuw/hop2-off_web_v2r_geoanc_mbis_gdapo-gs120-model](https://huggingface.co/yyuanuw/hop2-off_web_v2r_geoanc_mbis_gdapo-gs120-model)**
+- **[yyuanuw/hop2-off_web_v2r_tokanc_mbis_gdapo_s4-gs120-model](https://huggingface.co/yyuanuw/hop2-off_web_v2r_tokanc_mbis_gdapo_s4-gs120-model)**
+- **[huggingfoam/Foundation-Sec-8B-Instruct-Q5_K_M-GGUF](https://huggingface.co/huggingfoam/Foundation-Sec-8B-Instruct-Q5_K_M-GGUF)** — text-generation
+- **[Ilham69/itr-r61qc-1019-6173a45f-ship](https://huggingface.co/Ilham69/itr-r61qc-1019-6173a45f-ship)**
+- **[earth-compress/georvq-s2-v1](https://huggingface.co/earth-compress/georvq-s2-v1)**
+- **[webmp3/Qwen2.5-0.5B-Instruct-GGUF](https://huggingface.co/webmp3/Qwen2.5-0.5B-Instruct-GGUF)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-23](archive/2026-10-23.md)
 - [2026-10-21](archive/2026-10-21.md)
 - [2026-10-20](archive/2026-10-20.md)
 - [2026-10-19](archive/2026-10-19.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-19](archive/2026-08-19.md)
 - [2026-08-17](archive/2026-08-17.md)
 - [2026-08-16](archive/2026-08-16.md)
-- [2026-08-15](archive/2026-08-15.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
