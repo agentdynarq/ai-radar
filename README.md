@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-23
+## 2026-10-24
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[A-layerIDE/OPES-images-1.0](https://huggingface.co/A-layerIDE/OPES-images-1.0)**
-- **[helcig/tmp-oct26-2](https://huggingface.co/helcig/tmp-oct26-2)**
-- **[yyuanuw/hop2-off_web_v2r_geoanc_mbis_gdapo-gs120-model](https://huggingface.co/yyuanuw/hop2-off_web_v2r_geoanc_mbis_gdapo-gs120-model)**
-- **[yyuanuw/hop2-off_web_v2r_tokanc_mbis_gdapo_s4-gs120-model](https://huggingface.co/yyuanuw/hop2-off_web_v2r_tokanc_mbis_gdapo_s4-gs120-model)**
-- **[huggingfoam/Foundation-Sec-8B-Instruct-Q5_K_M-GGUF](https://huggingface.co/huggingfoam/Foundation-Sec-8B-Instruct-Q5_K_M-GGUF)** — text-generation
-- **[Ilham69/itr-r61qc-1019-6173a45f-ship](https://huggingface.co/Ilham69/itr-r61qc-1019-6173a45f-ship)**
-- **[earth-compress/georvq-s2-v1](https://huggingface.co/earth-compress/georvq-s2-v1)**
-- **[webmp3/Qwen2.5-0.5B-Instruct-GGUF](https://huggingface.co/webmp3/Qwen2.5-0.5B-Instruct-GGUF)**
+- **[amylynn/Hemmingway-1-Unlocked-GGUF](https://huggingface.co/amylynn/Hemmingway-1-Unlocked-GGUF)**
+- **[mradermacher/Gemma-4-E2B-Vietnamese-CoT-GGUF](https://huggingface.co/mradermacher/Gemma-4-E2B-Vietnamese-CoT-GGUF)**
+- **[SazenLabs/vocab-dictpacks](https://huggingface.co/SazenLabs/vocab-dictpacks)**
+- **[yyuan244/asyncrl-async_s5_mb8_grpg_klold_oldref_l0p5_b0p01_truncneg1_lenpen3072_ev128-gs160](https://huggingface.co/yyuan244/asyncrl-async_s5_mb8_grpg_klold_oldref_l0p5_b0p01_truncneg1_lenpen3072_ev128-gs160)**
+- **[ToolathlonBot/MyAwesomeModel-TestRepo](https://huggingface.co/ToolathlonBot/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Masnuy/itr-zi-c2-1019-88e91b4b-ship](https://huggingface.co/Masnuy/itr-zi-c2-1019-88e91b4b-ship)**
+- **[Ydudjsb/LTX-2.5-CQ-Freeform-Motion-Transfer-LoRAs](https://huggingface.co/Ydudjsb/LTX-2.5-CQ-Freeform-Motion-Transfer-LoRAs)**
+- **[attacker8324/tbQ293](https://huggingface.co/attacker8324/tbQ293)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-24](archive/2026-10-24.md)
 - [2026-10-23](archive/2026-10-23.md)
 - [2026-10-21](archive/2026-10-21.md)
 - [2026-10-20](archive/2026-10-20.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-20](archive/2026-08-20.md)
 - [2026-08-19](archive/2026-08-19.md)
 - [2026-08-17](archive/2026-08-17.md)
-- [2026-08-16](archive/2026-08-16.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
