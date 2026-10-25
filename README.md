@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-24
+## 2026-10-25
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[amylynn/Hemmingway-1-Unlocked-GGUF](https://huggingface.co/amylynn/Hemmingway-1-Unlocked-GGUF)**
-- **[mradermacher/Gemma-4-E2B-Vietnamese-CoT-GGUF](https://huggingface.co/mradermacher/Gemma-4-E2B-Vietnamese-CoT-GGUF)**
-- **[SazenLabs/vocab-dictpacks](https://huggingface.co/SazenLabs/vocab-dictpacks)**
-- **[yyuan244/asyncrl-async_s5_mb8_grpg_klold_oldref_l0p5_b0p01_truncneg1_lenpen3072_ev128-gs160](https://huggingface.co/yyuan244/asyncrl-async_s5_mb8_grpg_klold_oldref_l0p5_b0p01_truncneg1_lenpen3072_ev128-gs160)**
-- **[ToolathlonBot/MyAwesomeModel-TestRepo](https://huggingface.co/ToolathlonBot/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[Masnuy/itr-zi-c2-1019-88e91b4b-ship](https://huggingface.co/Masnuy/itr-zi-c2-1019-88e91b4b-ship)**
-- **[Ydudjsb/LTX-2.5-CQ-Freeform-Motion-Transfer-LoRAs](https://huggingface.co/Ydudjsb/LTX-2.5-CQ-Freeform-Motion-Transfer-LoRAs)**
-- **[attacker8324/tbQ293](https://huggingface.co/attacker8324/tbQ293)**
+- **[hakunokina/Qwen3.8-27B-Fable-5-Coding-Distilled-oQ8e-mtp](https://huggingface.co/hakunokina/Qwen3.8-27B-Fable-5-Coding-Distilled-oQ8e-mtp)**
+- **[sahilfarib/aimscribe-whisper-small-bn](https://huggingface.co/sahilfarib/aimscribe-whisper-small-bn)**
+- **[aaa2015/DeepSeek-V4.1-Flash-1017-Q2-dense-q4-imx-cliecy-GGUF](https://huggingface.co/aaa2015/DeepSeek-V4.1-Flash-1017-Q2-dense-q4-imx-cliecy-GGUF)** — text-generation
+- **[longxing7/vrmr](https://huggingface.co/longxing7/vrmr)**
+- **[bebra7134/Mira](https://huggingface.co/bebra7134/Mira)**
+- **[smile-forge/moss-image-onnx](https://huggingface.co/smile-forge/moss-image-onnx)** — text-to-image
+- **[abhisheksonkar/myTestAIML](https://huggingface.co/abhisheksonkar/myTestAIML)**
+- **[zackfairsldrfrst/ckpt-q3](https://huggingface.co/zackfairsldrfrst/ckpt-q3)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-25](archive/2026-10-25.md)
 - [2026-10-24](archive/2026-10-24.md)
 - [2026-10-23](archive/2026-10-23.md)
 - [2026-10-21](archive/2026-10-21.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-21](archive/2026-08-21.md)
 - [2026-08-20](archive/2026-08-20.md)
 - [2026-08-19](archive/2026-08-19.md)
-- [2026-08-17](archive/2026-08-17.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
