@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-25
+## 2026-10-26
 
 ### New AI research · arXiv
 
-- **[Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success](http://arxiv.org/abs/2610.31670v1)** — Yunfei Xie et al. · 2026-10-22
-  <br/>Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggest…
-- **[Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1)** — Mahdi Salmani et al. · 2026-10-22
-  <br/>Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Run…
-- **[Phase Transition from Random Features to Fully Trainable Networks](http://arxiv.org/abs/2610.31663v1)** — Xin He et al. · 2026-10-22
-  <br/>Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adap…
-- **[Reliable AI-Assisted Decisions via Selective Auditing](http://arxiv.org/abs/2610.31662v1)** — Isaac Gibbs et al. · 2026-10-22
-  <br/>We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthin…
-- **[SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing](http://arxiv.org/abs/2610.31659v1)** — Sy-Tuyen Ho et al. · 2026-10-22
-  <br/>Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training imag…
-- **[Cost-Aware Abstention for LLM-Based IT Ticket Classification](http://arxiv.org/abs/2610.31657v1)** — Sachin Gupta · 2026-10-22
-  <br/>Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cal…
-- **[METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](http://arxiv.org/abs/2610.31656v1)** — Ali Najar et al. · 2026-10-22
-  <br/>Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical r…
-- **[EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence](http://arxiv.org/abs/2610.31650v1)** — Qijin Zhang et al. · 2026-10-22
-  <br/>Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action ev…
+- **[The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)** — James E. Dobson · 2026-10-23
+  <br/>This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation…
+- **[SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)** — Yuhan Liu et al. · 2026-10-23
+  <br/>Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise…
+- **[RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms](http://arxiv.org/abs/2610.32971v1)** — Xi Chen et al. · 2026-10-23
+  <br/>Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mech…
+- **[DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection](http://arxiv.org/abs/2610.32969v1)** — Amber Xie et al. · 2026-10-23
+  <br/>Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and pla…
+- **[Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection](http://arxiv.org/abs/2610.32964v1)** — Bernardo Perrone Ribeiro et al. · 2026-10-23
+  <br/>Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear…
+- **[Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox](http://arxiv.org/abs/2610.32955v1)** — Federico Lucca · 2026-10-23
+  <br/>Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were w…
+- **[Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning](http://arxiv.org/abs/2610.32951v1)** — Yijing Ke et al. · 2026-10-23
+  <br/>Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended…
+- **[Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models](http://arxiv.org/abs/2610.32948v1)** — Dianye Huang et al. · 2026-10-23
+  <br/>Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-…
 
 ### New model releases · Hugging Face
 
-- **[hakunokina/Qwen3.8-27B-Fable-5-Coding-Distilled-oQ8e-mtp](https://huggingface.co/hakunokina/Qwen3.8-27B-Fable-5-Coding-Distilled-oQ8e-mtp)**
-- **[sahilfarib/aimscribe-whisper-small-bn](https://huggingface.co/sahilfarib/aimscribe-whisper-small-bn)**
-- **[aaa2015/DeepSeek-V4.1-Flash-1017-Q2-dense-q4-imx-cliecy-GGUF](https://huggingface.co/aaa2015/DeepSeek-V4.1-Flash-1017-Q2-dense-q4-imx-cliecy-GGUF)** — text-generation
-- **[longxing7/vrmr](https://huggingface.co/longxing7/vrmr)**
-- **[bebra7134/Mira](https://huggingface.co/bebra7134/Mira)**
-- **[smile-forge/moss-image-onnx](https://huggingface.co/smile-forge/moss-image-onnx)** — text-to-image
-- **[abhisheksonkar/myTestAIML](https://huggingface.co/abhisheksonkar/myTestAIML)**
-- **[zackfairsldrfrst/ckpt-q3](https://huggingface.co/zackfairsldrfrst/ckpt-q3)**
+- **[tinyopsec/svd-safety-l3_swift_jbbsft10_remove30-GGUF](https://huggingface.co/tinyopsec/svd-safety-l3_swift_jbbsft10_remove30-GGUF)**
+- **[ugaoo/mica-spring-24](https://huggingface.co/ugaoo/mica-spring-24)**
+- **[Reduanul1997/LCBTS_Net_Reproduction_Audit_Updated](https://huggingface.co/Reduanul1997/LCBTS_Net_Reproduction_Audit_Updated)**
+- **[willinki/20261026-135542-kk_tokenskip_prune40_qwen3_8b_base](https://huggingface.co/willinki/20261026-135542-kk_tokenskip_prune40_qwen3_8b_base)**
+- **[OsaurusAI/DeepSeek-V4.1-Flash-1017-JANGHT1.4](https://huggingface.co/OsaurusAI/DeepSeek-V4.1-Flash-1017-JANGHT1.4)**
+- **[arcpoly/arcpoly-ai-engine](https://huggingface.co/arcpoly/arcpoly-ai-engine)**
+- **[ugaoo/ivory-orbit-16](https://huggingface.co/ugaoo/ivory-orbit-16)**
+- **[thanhdath/3b-core-writer-ict](https://huggingface.co/thanhdath/3b-core-writer-ict)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-26](archive/2026-10-26.md)
 - [2026-10-25](archive/2026-10-25.md)
 - [2026-10-24](archive/2026-10-24.md)
 - [2026-10-23](archive/2026-10-23.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-22](archive/2026-08-22.md)
 - [2026-08-21](archive/2026-08-21.md)
 - [2026-08-20](archive/2026-08-20.md)
-- [2026-08-19](archive/2026-08-19.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
