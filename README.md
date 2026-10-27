@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-26
+## 2026-10-27
 
 ### New AI research · arXiv
 
-- **[The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)** — James E. Dobson · 2026-10-23
-  <br/>This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation…
-- **[SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)** — Yuhan Liu et al. · 2026-10-23
-  <br/>Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise…
-- **[RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms](http://arxiv.org/abs/2610.32971v1)** — Xi Chen et al. · 2026-10-23
-  <br/>Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mech…
-- **[DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection](http://arxiv.org/abs/2610.32969v1)** — Amber Xie et al. · 2026-10-23
-  <br/>Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and pla…
-- **[Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection](http://arxiv.org/abs/2610.32964v1)** — Bernardo Perrone Ribeiro et al. · 2026-10-23
-  <br/>Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear…
-- **[Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox](http://arxiv.org/abs/2610.32955v1)** — Federico Lucca · 2026-10-23
-  <br/>Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were w…
-- **[Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinforcement Learning](http://arxiv.org/abs/2610.32951v1)** — Yijing Ke et al. · 2026-10-23
-  <br/>Reinforcement learning for large language models often uses separate systems for inference and training. Even with identical weights and BF16 tensors, implementation differences can make an intended…
-- **[Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models](http://arxiv.org/abs/2610.32948v1)** — Dianye Huang et al. · 2026-10-23
-  <br/>Objective: To develop a unified vision-language model for prompt-conditioned quantitative ultrasound measurement that addresses the mismatch between continuous measurement targets and discrete token-…
+- **[Retriever-Free Retrieval: Navigating Documents with Decision Models](http://arxiv.org/abs/2610.35868v1)** — Chao Wan et al. · 2026-10-26
+  <br/>While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the…
+- **[Center-of-Mass Interpretation of Evolution Strategies](http://arxiv.org/abs/2610.35865v1)** — Akshat Gupta · 2026-10-26
+  <br/>Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually prese…
+- **[Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling](http://arxiv.org/abs/2610.35866v1)** — Xi Chen et al. · 2026-10-26
+  <br/>As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmar…
+- **[Learning Force-Reactive Humanoid Loco-Manipulation](http://arxiv.org/abs/2610.35862v1)** — Sihang Li et al. · 2026-10-26
+  <br/>Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic…
+- **[On the stability of learning](http://arxiv.org/abs/2610.35856v1)** — John J. Vastola · 2026-10-26
+  <br/>Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for…
+- **[Patient-specific rubric-based evaluation of large language models across longitudinal cancer care](http://arxiv.org/abs/2610.35847v1)** — Wei-Wei Zhang et al. · 2026-10-26
+  <br/>Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve acros…
+- **[Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR](http://arxiv.org/abs/2610.35846v1)** — Yuchen Zhang et al. · 2026-10-26
+  <br/>Expanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem…
+- **[Work Agents: Systems, Capabilities, and Optimization](http://arxiv.org/abs/2610.35845v1)** — Zishan Xu et al. · 2026-10-26
+  <br/>As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, exis…
 
 ### New model releases · Hugging Face
 
-- **[tinyopsec/svd-safety-l3_swift_jbbsft10_remove30-GGUF](https://huggingface.co/tinyopsec/svd-safety-l3_swift_jbbsft10_remove30-GGUF)**
-- **[ugaoo/mica-spring-24](https://huggingface.co/ugaoo/mica-spring-24)**
-- **[Reduanul1997/LCBTS_Net_Reproduction_Audit_Updated](https://huggingface.co/Reduanul1997/LCBTS_Net_Reproduction_Audit_Updated)**
-- **[willinki/20261026-135542-kk_tokenskip_prune40_qwen3_8b_base](https://huggingface.co/willinki/20261026-135542-kk_tokenskip_prune40_qwen3_8b_base)**
-- **[OsaurusAI/DeepSeek-V4.1-Flash-1017-JANGHT1.4](https://huggingface.co/OsaurusAI/DeepSeek-V4.1-Flash-1017-JANGHT1.4)**
-- **[arcpoly/arcpoly-ai-engine](https://huggingface.co/arcpoly/arcpoly-ai-engine)**
-- **[ugaoo/ivory-orbit-16](https://huggingface.co/ugaoo/ivory-orbit-16)**
-- **[thanhdath/3b-core-writer-ict](https://huggingface.co/thanhdath/3b-core-writer-ict)**
+- **[RoccoIver/MyAwesomeModel-TestRepo](https://huggingface.co/RoccoIver/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Robinsinfun/Qwen2.5-Coder-32B-Instruct](https://huggingface.co/Robinsinfun/Qwen2.5-Coder-32B-Instruct)** — text-generation
+- **[frontterrain/HARP-1B](https://huggingface.co/frontterrain/HARP-1B)** — text-generation
+- **[noctunalz/DSV4.1-Flash-1017-DERISKED-EXL3-2.50bpw-Radiance](https://huggingface.co/noctunalz/DSV4.1-Flash-1017-DERISKED-EXL3-2.50bpw-Radiance)**
+- **[HungryDino/qwen_2.5_7b-political_left_numbers-collapse_p10_e10_r8_ct128-gen5](https://huggingface.co/HungryDino/qwen_2.5_7b-political_left_numbers-collapse_p10_e10_r8_ct128-gen5)**
+- **[ASD1232132/MyAwesomeModel-TestRepo](https://huggingface.co/ASD1232132/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[divyamjainx/Pixelcopter-PLE-v0](https://huggingface.co/divyamjainx/Pixelcopter-PLE-v0)** — reinforcement-learning
+- **[TB22427/MyAwesomeModel-TestRepo](https://huggingface.co/TB22427/MyAwesomeModel-TestRepo)** — feature-extraction
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-27](archive/2026-10-27.md)
 - [2026-10-26](archive/2026-10-26.md)
 - [2026-10-25](archive/2026-10-25.md)
 - [2026-10-24](archive/2026-10-24.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-23](archive/2026-08-23.md)
 - [2026-08-22](archive/2026-08-22.md)
 - [2026-08-21](archive/2026-08-21.md)
-- [2026-08-20](archive/2026-08-20.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
