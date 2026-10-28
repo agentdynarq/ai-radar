@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-27
+## 2026-10-28
 
 ### New AI research · arXiv
 
-- **[Retriever-Free Retrieval: Navigating Documents with Decision Models](http://arxiv.org/abs/2610.35868v1)** — Chao Wan et al. · 2026-10-26
-  <br/>While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the…
-- **[Center-of-Mass Interpretation of Evolution Strategies](http://arxiv.org/abs/2610.35865v1)** — Akshat Gupta · 2026-10-26
-  <br/>Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually prese…
-- **[Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling](http://arxiv.org/abs/2610.35866v1)** — Xi Chen et al. · 2026-10-26
-  <br/>As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmar…
-- **[Learning Force-Reactive Humanoid Loco-Manipulation](http://arxiv.org/abs/2610.35862v1)** — Sihang Li et al. · 2026-10-26
-  <br/>Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic…
-- **[On the stability of learning](http://arxiv.org/abs/2610.35856v1)** — John J. Vastola · 2026-10-26
-  <br/>Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for…
-- **[Patient-specific rubric-based evaluation of large language models across longitudinal cancer care](http://arxiv.org/abs/2610.35847v1)** — Wei-Wei Zhang et al. · 2026-10-26
-  <br/>Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve acros…
-- **[Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR](http://arxiv.org/abs/2610.35846v1)** — Yuchen Zhang et al. · 2026-10-26
-  <br/>Expanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem…
-- **[Work Agents: Systems, Capabilities, and Optimization](http://arxiv.org/abs/2610.35845v1)** — Zishan Xu et al. · 2026-10-26
-  <br/>As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, exis…
+- **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](http://arxiv.org/abs/2610.37668v1)** — Prakhar Kaushik et al. · 2026-10-27
+  <br/>Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We in…
+- **[ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](http://arxiv.org/abs/2610.37666v1)** — Chaehyun Kim et al. · 2026-10-27
+  <br/>Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstr…
+- **[When Should We Intervene at Test Time?](http://arxiv.org/abs/2610.37658v1)** — Jiahao Zhang et al. · 2026-10-27
+  <br/>Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve…
+- **[Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1)** — Igor Shilov et al. · 2026-10-27
+  <br/>We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistr…
+- **[Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops](http://arxiv.org/abs/2610.37656v1)** — Aakash Sarkar et al. · 2026-10-27
+  <br/>Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's f…
+- **[KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry](http://arxiv.org/abs/2610.37655v1)** — Wenqing Peng et al. · 2026-10-27
+  <br/>Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable progra…
+- **[Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well](http://arxiv.org/abs/2610.37652v1)** — Ian Chuang et al. · 2026-10-27
+  <br/>Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As ro…
+- **[GEPA-Curator: Curated Learning for Self Improving Agents](http://arxiv.org/abs/2610.37651v1)** — Zack Yu et al. · 2026-10-27
+  <br/>Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA lea…
 
 ### New model releases · Hugging Face
 
-- **[RoccoIver/MyAwesomeModel-TestRepo](https://huggingface.co/RoccoIver/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[Robinsinfun/Qwen2.5-Coder-32B-Instruct](https://huggingface.co/Robinsinfun/Qwen2.5-Coder-32B-Instruct)** — text-generation
-- **[frontterrain/HARP-1B](https://huggingface.co/frontterrain/HARP-1B)** — text-generation
-- **[noctunalz/DSV4.1-Flash-1017-DERISKED-EXL3-2.50bpw-Radiance](https://huggingface.co/noctunalz/DSV4.1-Flash-1017-DERISKED-EXL3-2.50bpw-Radiance)**
-- **[HungryDino/qwen_2.5_7b-political_left_numbers-collapse_p10_e10_r8_ct128-gen5](https://huggingface.co/HungryDino/qwen_2.5_7b-political_left_numbers-collapse_p10_e10_r8_ct128-gen5)**
-- **[ASD1232132/MyAwesomeModel-TestRepo](https://huggingface.co/ASD1232132/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[divyamjainx/Pixelcopter-PLE-v0](https://huggingface.co/divyamjainx/Pixelcopter-PLE-v0)** — reinforcement-learning
-- **[TB22427/MyAwesomeModel-TestRepo](https://huggingface.co/TB22427/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[cwaud/tournament-exp-s1-744203bc-8f14-4b28-8089-08300bbfc762-5Exp5475fa27bfa1ab87](https://huggingface.co/cwaud/tournament-exp-s1-744203bc-8f14-4b28-8089-08300bbfc762-5Exp5475fa27bfa1ab87)**
+- **[Aftian2429/g56lab-1019-p1fl-2a80-s0](https://huggingface.co/Aftian2429/g56lab-1019-p1fl-2a80-s0)**
+- **[ASD1212321/MyAwesomeModel-TestRepo](https://huggingface.co/ASD1212321/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[Denisijcu/vertex-core-math-gguf](https://huggingface.co/Denisijcu/vertex-core-math-gguf)**
+- **[SloganSudo/Piper_sardor_voice_training](https://huggingface.co/SloganSudo/Piper_sardor_voice_training)**
+- **[coreytoolathon/MyAwesomeModel-TestRepo](https://huggingface.co/coreytoolathon/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[cwaud/tournament-exp-s1-65b1e6cc-2f89-437c-a972-530bf66341dc-5Exp8517bd15390fc75c](https://huggingface.co/cwaud/tournament-exp-s1-65b1e6cc-2f89-437c-a972-530bf66341dc-5Exp8517bd15390fc75c)**
+- **[tinyopsec/Orbit-3-Nano-GGUF](https://huggingface.co/tinyopsec/Orbit-3-Nano-GGUF)** — text-generation
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-28](archive/2026-10-28.md)
 - [2026-10-27](archive/2026-10-27.md)
 - [2026-10-26](archive/2026-10-26.md)
 - [2026-10-25](archive/2026-10-25.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-24](archive/2026-08-24.md)
 - [2026-08-23](archive/2026-08-23.md)
 - [2026-08-22](archive/2026-08-22.md)
-- [2026-08-21](archive/2026-08-21.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
