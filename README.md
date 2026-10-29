@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-28
+## 2026-10-29
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[cwaud/tournament-exp-s1-744203bc-8f14-4b28-8089-08300bbfc762-5Exp5475fa27bfa1ab87](https://huggingface.co/cwaud/tournament-exp-s1-744203bc-8f14-4b28-8089-08300bbfc762-5Exp5475fa27bfa1ab87)**
-- **[Aftian2429/g56lab-1019-p1fl-2a80-s0](https://huggingface.co/Aftian2429/g56lab-1019-p1fl-2a80-s0)**
-- **[ASD1212321/MyAwesomeModel-TestRepo](https://huggingface.co/ASD1212321/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[Denisijcu/vertex-core-math-gguf](https://huggingface.co/Denisijcu/vertex-core-math-gguf)**
-- **[SloganSudo/Piper_sardor_voice_training](https://huggingface.co/SloganSudo/Piper_sardor_voice_training)**
-- **[coreytoolathon/MyAwesomeModel-TestRepo](https://huggingface.co/coreytoolathon/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[cwaud/tournament-exp-s1-65b1e6cc-2f89-437c-a972-530bf66341dc-5Exp8517bd15390fc75c](https://huggingface.co/cwaud/tournament-exp-s1-65b1e6cc-2f89-437c-a972-530bf66341dc-5Exp8517bd15390fc75c)**
-- **[tinyopsec/Orbit-3-Nano-GGUF](https://huggingface.co/tinyopsec/Orbit-3-Nano-GGUF)** — text-generation
+- **[hiupjump/connectailab-rl-hiupjump-v1-roadster-ppo](https://huggingface.co/hiupjump/connectailab-rl-hiupjump-v1-roadster-ppo)** — reinforcement-learning
+- **[Cisco1963/llmplasticity-en_nl_linear_8-d0.5-c0.9-r0.5-s42](https://huggingface.co/Cisco1963/llmplasticity-en_nl_linear_8-d0.5-c0.9-r0.5-s42)**
+- **[omnistreamstudio/rugops-preptest-mvtjrcy6](https://huggingface.co/omnistreamstudio/rugops-preptest-mvtjrcy6)**
+- **[togru/markerslab-icp-tc4-recommendation](https://huggingface.co/togru/markerslab-icp-tc4-recommendation)**
+- **[mphd1/gpt2-large_dollyext_student](https://huggingface.co/mphd1/gpt2-large_dollyext_student)**
+- **[alfred8995/r18-a2-n-k3-s100](https://huggingface.co/alfred8995/r18-a2-n-k3-s100)**
+- **[kiroaiseoul/pi0full_bs32_all11_14D_ft1029_s10k](https://huggingface.co/kiroaiseoul/pi0full_bs32_all11_14D_ft1029_s10k)** — robotics
+- **[pillanosl/prueba1](https://huggingface.co/pillanosl/prueba1)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-29](archive/2026-10-29.md)
 - [2026-10-28](archive/2026-10-28.md)
 - [2026-10-27](archive/2026-10-27.md)
 - [2026-10-26](archive/2026-10-26.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-25](archive/2026-08-25.md)
 - [2026-08-24](archive/2026-08-24.md)
 - [2026-08-23](archive/2026-08-23.md)
-- [2026-08-22](archive/2026-08-22.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
