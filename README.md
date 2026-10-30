@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-29
+## 2026-10-30
 
 ### New AI research · arXiv
 
-- **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](http://arxiv.org/abs/2610.37668v1)** — Prakhar Kaushik et al. · 2026-10-27
-  <br/>Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We in…
-- **[ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](http://arxiv.org/abs/2610.37666v1)** — Chaehyun Kim et al. · 2026-10-27
-  <br/>Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstr…
-- **[When Should We Intervene at Test Time?](http://arxiv.org/abs/2610.37658v1)** — Jiahao Zhang et al. · 2026-10-27
-  <br/>Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve…
-- **[Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1)** — Igor Shilov et al. · 2026-10-27
-  <br/>We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistr…
-- **[Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops](http://arxiv.org/abs/2610.37656v1)** — Aakash Sarkar et al. · 2026-10-27
-  <br/>Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's f…
-- **[KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry](http://arxiv.org/abs/2610.37655v1)** — Wenqing Peng et al. · 2026-10-27
-  <br/>Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable progra…
-- **[Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well](http://arxiv.org/abs/2610.37652v1)** — Ian Chuang et al. · 2026-10-27
-  <br/>Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As ro…
-- **[GEPA-Curator: Curated Learning for Self Improving Agents](http://arxiv.org/abs/2610.37651v1)** — Zack Yu et al. · 2026-10-27
-  <br/>Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA lea…
+- **[Elucidating the Design Space of LM Data Attribution](http://arxiv.org/abs/2610.40655v1)** — Steven Yu et al. · 2026-10-29
+  <br/>Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, m…
+- **[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)** — Moshe Shenfeld et al. · 2026-10-29
+  <br/>An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single…
+- **[Rethinking Neural Thickets Without Weight Perturbations](http://arxiv.org/abs/2610.40649v1)** — Nicolas Dufour et al. · 2026-10-29
+  <br/>The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduc…
+- **[Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](http://arxiv.org/abs/2610.40647v1)** — Jiongfan Yang et al. · 2026-10-29
+  <br/>Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer de…
+- **[Adaptive Scenario Generation for KL-DRO Around a Learned Density Model](http://arxiv.org/abs/2610.40644v1)** — Aron Brenner et al. · 2026-10-29
+  <br/>Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how…
+- **[Luggage re-identification: A study of strategies towards a real-world application](http://arxiv.org/abs/2610.40643v1)** — Quentin Dhôte et al. · 2026-10-29
+  <br/>Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lo…
+- **[From extreme weather to agricultural consequences with agentic AI](http://arxiv.org/abs/2610.40641v1)** — Minghan Yu et al. · 2026-10-29
+  <br/>Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and…
+- **[world2vec: Mechanistic world models through latent dynamics learning](http://arxiv.org/abs/2610.40637v1)** — Tobias Schmidt et al. · 2026-10-29
+  <br/>World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery.…
 
 ### New model releases · Hugging Face
 
-- **[hiupjump/connectailab-rl-hiupjump-v1-roadster-ppo](https://huggingface.co/hiupjump/connectailab-rl-hiupjump-v1-roadster-ppo)** — reinforcement-learning
-- **[Cisco1963/llmplasticity-en_nl_linear_8-d0.5-c0.9-r0.5-s42](https://huggingface.co/Cisco1963/llmplasticity-en_nl_linear_8-d0.5-c0.9-r0.5-s42)**
-- **[omnistreamstudio/rugops-preptest-mvtjrcy6](https://huggingface.co/omnistreamstudio/rugops-preptest-mvtjrcy6)**
-- **[togru/markerslab-icp-tc4-recommendation](https://huggingface.co/togru/markerslab-icp-tc4-recommendation)**
-- **[mphd1/gpt2-large_dollyext_student](https://huggingface.co/mphd1/gpt2-large_dollyext_student)**
-- **[alfred8995/r18-a2-n-k3-s100](https://huggingface.co/alfred8995/r18-a2-n-k3-s100)**
-- **[kiroaiseoul/pi0full_bs32_all11_14D_ft1029_s10k](https://huggingface.co/kiroaiseoul/pi0full_bs32_all11_14D_ft1029_s10k)** — robotics
-- **[pillanosl/prueba1](https://huggingface.co/pillanosl/prueba1)**
+- **[fengsky/Fun-CosyVoice3-0.5B-2512](https://huggingface.co/fengsky/Fun-CosyVoice3-0.5B-2512)** — text-to-speech
+- **[claessonlab/taxonova-models](https://huggingface.co/claessonlab/taxonova-models)** — other
+- **[safaf4455/MyAwesomeModel-TestRepo](https://huggingface.co/safaf4455/MyAwesomeModel-TestRepo)**
+- **[SAD21EDSA/MyAwesomeModel-TestRepo](https://huggingface.co/SAD21EDSA/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[itsrishi07/formix-qlora-adapter](https://huggingface.co/itsrishi07/formix-qlora-adapter)**
+- **[JustMon1kAa/bert-tiny-sst2-homework](https://huggingface.co/JustMon1kAa/bert-tiny-sst2-homework)**
+- **[mama-to/mot09](https://huggingface.co/mama-to/mot09)**
+- **[M0hamed111/my-awesome-model](https://huggingface.co/M0hamed111/my-awesome-model)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-30](archive/2026-10-30.md)
 - [2026-10-29](archive/2026-10-29.md)
 - [2026-10-28](archive/2026-10-28.md)
 - [2026-10-27](archive/2026-10-27.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-26](archive/2026-08-26.md)
 - [2026-08-25](archive/2026-08-25.md)
 - [2026-08-24](archive/2026-08-24.md)
-- [2026-08-23](archive/2026-08-23.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
