@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-30
+## 2026-10-31
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[fengsky/Fun-CosyVoice3-0.5B-2512](https://huggingface.co/fengsky/Fun-CosyVoice3-0.5B-2512)** — text-to-speech
-- **[claessonlab/taxonova-models](https://huggingface.co/claessonlab/taxonova-models)** — other
-- **[safaf4455/MyAwesomeModel-TestRepo](https://huggingface.co/safaf4455/MyAwesomeModel-TestRepo)**
-- **[SAD21EDSA/MyAwesomeModel-TestRepo](https://huggingface.co/SAD21EDSA/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[itsrishi07/formix-qlora-adapter](https://huggingface.co/itsrishi07/formix-qlora-adapter)**
-- **[JustMon1kAa/bert-tiny-sst2-homework](https://huggingface.co/JustMon1kAa/bert-tiny-sst2-homework)**
-- **[mama-to/mot09](https://huggingface.co/mama-to/mot09)**
-- **[M0hamed111/my-awesome-model](https://huggingface.co/M0hamed111/my-awesome-model)**
+- **[mjablonska/TPayne-spice-harps-interp](https://huggingface.co/mjablonska/TPayne-spice-harps-interp)**
+- **[loverretread/myawesomemodel-snapshot-vault](https://huggingface.co/loverretread/myawesomemodel-snapshot-vault)**
+- **[nicolasjjj/groot_n16_so101-desk-cleanup-parallel-gripper_360p_140ep_b64](https://huggingface.co/nicolasjjj/groot_n16_so101-desk-cleanup-parallel-gripper_360p_140ep_b64)**
+- **[AST-1320/flux-Duplicate-004](https://huggingface.co/AST-1320/flux-Duplicate-004)** — text-to-image
+- **[kigimues/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8](https://huggingface.co/kigimues/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8)** — image-text-to-text
+- **[mhseo2/sft_olmo3base7b_nemotronmathv2_high_notool_n204800-step4000](https://huggingface.co/mhseo2/sft_olmo3base7b_nemotronmathv2_high_notool_n204800-step4000)**
+- **[bimabk/tirex-b36ede07-77ad-4c77-bb7b-20a5af8ebeb8](https://huggingface.co/bimabk/tirex-b36ede07-77ad-4c77-bb7b-20a5af8ebeb8)**
+- **[mradermacher/spatial-simulation-slm-GGUF](https://huggingface.co/mradermacher/spatial-simulation-slm-GGUF)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-10-31](archive/2026-10-31.md)
 - [2026-10-30](archive/2026-10-30.md)
 - [2026-10-29](archive/2026-10-29.md)
 - [2026-10-28](archive/2026-10-28.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-08-27](archive/2026-08-27.md)
 - [2026-08-26](archive/2026-08-26.md)
 - [2026-08-25](archive/2026-08-25.md)
-- [2026-08-24](archive/2026-08-24.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
