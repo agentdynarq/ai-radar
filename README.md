@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-10-31
+## 2026-11-01
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[mjablonska/TPayne-spice-harps-interp](https://huggingface.co/mjablonska/TPayne-spice-harps-interp)**
-- **[loverretread/myawesomemodel-snapshot-vault](https://huggingface.co/loverretread/myawesomemodel-snapshot-vault)**
-- **[nicolasjjj/groot_n16_so101-desk-cleanup-parallel-gripper_360p_140ep_b64](https://huggingface.co/nicolasjjj/groot_n16_so101-desk-cleanup-parallel-gripper_360p_140ep_b64)**
-- **[AST-1320/flux-Duplicate-004](https://huggingface.co/AST-1320/flux-Duplicate-004)** — text-to-image
-- **[kigimues/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8](https://huggingface.co/kigimues/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8)** — image-text-to-text
-- **[mhseo2/sft_olmo3base7b_nemotronmathv2_high_notool_n204800-step4000](https://huggingface.co/mhseo2/sft_olmo3base7b_nemotronmathv2_high_notool_n204800-step4000)**
-- **[bimabk/tirex-b36ede07-77ad-4c77-bb7b-20a5af8ebeb8](https://huggingface.co/bimabk/tirex-b36ede07-77ad-4c77-bb7b-20a5af8ebeb8)**
-- **[mradermacher/spatial-simulation-slm-GGUF](https://huggingface.co/mradermacher/spatial-simulation-slm-GGUF)**
+- **[yuruny/hop2-abl_alf_verl-W_plan_check_geo-full](https://huggingface.co/yuruny/hop2-abl_alf_verl-W_plan_check_geo-full)**
+- **[seoan1024/Hanok-LLM](https://huggingface.co/seoan1024/Hanok-LLM)** — ♥ 1
+- **[yuruny/hop2-abl_alf_verl-W_plan_check_geo-gs100-model](https://huggingface.co/yuruny/hop2-abl_alf_verl-W_plan_check_geo-gs100-model)**
+- **[yuruny/hop2-abl_web_verl-A_react_oracle-full](https://huggingface.co/yuruny/hop2-abl_web_verl-A_react_oracle-full)**
+- **[xhsioi/MyAwesomeModel-TestRepo](https://huggingface.co/xhsioi/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[yuruny/hop2-abl_web_react-P_verl_oracle-full](https://huggingface.co/yuruny/hop2-abl_web_react-P_verl_oracle-full)**
+- **[ymyy307/ltx](https://huggingface.co/ymyy307/ltx)**
+- **[yuruny/hop2-abl_alf_verl-A_react_oracle-full](https://huggingface.co/yuruny/hop2-abl_alf_verl-A_react_oracle-full)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-01](archive/2026-11-01.md)
 - [2026-10-31](archive/2026-10-31.md)
 - [2026-10-30](archive/2026-10-30.md)
 - [2026-10-29](archive/2026-10-29.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-01](archive/2026-09-01.md)
 - [2026-08-27](archive/2026-08-27.md)
 - [2026-08-26](archive/2026-08-26.md)
-- [2026-08-25](archive/2026-08-25.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
