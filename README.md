@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-01
+## 2026-11-02
 
 ### New AI research · arXiv
 
-- **[Elucidating the Design Space of LM Data Attribution](http://arxiv.org/abs/2610.40655v1)** — Steven Yu et al. · 2026-10-29
-  <br/>Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, m…
-- **[Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](http://arxiv.org/abs/2610.40654v1)** — Moshe Shenfeld et al. · 2026-10-29
-  <br/>An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single…
-- **[Rethinking Neural Thickets Without Weight Perturbations](http://arxiv.org/abs/2610.40649v1)** — Nicolas Dufour et al. · 2026-10-29
-  <br/>The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduc…
-- **[Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](http://arxiv.org/abs/2610.40647v1)** — Jiongfan Yang et al. · 2026-10-29
-  <br/>Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer de…
-- **[Adaptive Scenario Generation for KL-DRO Around a Learned Density Model](http://arxiv.org/abs/2610.40644v1)** — Aron Brenner et al. · 2026-10-29
-  <br/>Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how…
-- **[Luggage re-identification: A study of strategies towards a real-world application](http://arxiv.org/abs/2610.40643v1)** — Quentin Dhôte et al. · 2026-10-29
-  <br/>Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lo…
-- **[From extreme weather to agricultural consequences with agentic AI](http://arxiv.org/abs/2610.40641v1)** — Minghan Yu et al. · 2026-10-29
-  <br/>Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and…
-- **[world2vec: Mechanistic world models through latent dynamics learning](http://arxiv.org/abs/2610.40637v1)** — Tobias Schmidt et al. · 2026-10-29
-  <br/>World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery.…
+- **[Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1)** — Byungwoo Jeon et al. · 2026-10-30
+  <br/>Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought r…
+- **[Flide: Accelerating Decision Inference with Exact State Forking](http://arxiv.org/abs/2610.42148v1)** — Bobo Li et al. · 2026-10-30
+  <br/>Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existi…
+- **[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](http://arxiv.org/abs/2610.42147v1)** — Ales Kubicek et al. · 2026-10-30
+  <br/>Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M to…
+- **[Hierarchical World Models with Implicit Dynamics](http://arxiv.org/abs/2610.42146v1)** — Gaoyue Zhou et al. · 2026-10-30
+  <br/>Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative er…
+- **[RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory](http://arxiv.org/abs/2610.42141v1)** — Shengguang Wu et al. · 2026-10-30
+  <br/>Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet t…
+- **[Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches](http://arxiv.org/abs/2610.42139v1)** — Vitaly Feldman et al. · 2026-10-30
+  <br/>In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds vi…
+- **[A Better Critic Matters for Distribution Matching Distillation](http://arxiv.org/abs/2610.42135v1)** — Zongze Wu et al. · 2026-10-30
+  <br/>Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate w…
+- **[Instance-dependent sequential limits as an exact information ledger](http://arxiv.org/abs/2610.42133v1)** — Akshay Balsubramani · 2026-10-30
+  <br/>Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data proc…
 
 ### New model releases · Hugging Face
 
-- **[yuruny/hop2-abl_alf_verl-W_plan_check_geo-full](https://huggingface.co/yuruny/hop2-abl_alf_verl-W_plan_check_geo-full)**
-- **[seoan1024/Hanok-LLM](https://huggingface.co/seoan1024/Hanok-LLM)** — ♥ 1
-- **[yuruny/hop2-abl_alf_verl-W_plan_check_geo-gs100-model](https://huggingface.co/yuruny/hop2-abl_alf_verl-W_plan_check_geo-gs100-model)**
-- **[yuruny/hop2-abl_web_verl-A_react_oracle-full](https://huggingface.co/yuruny/hop2-abl_web_verl-A_react_oracle-full)**
-- **[xhsioi/MyAwesomeModel-TestRepo](https://huggingface.co/xhsioi/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[yuruny/hop2-abl_web_react-P_verl_oracle-full](https://huggingface.co/yuruny/hop2-abl_web_react-P_verl_oracle-full)**
-- **[ymyy307/ltx](https://huggingface.co/ymyy307/ltx)**
-- **[yuruny/hop2-abl_alf_verl-A_react_oracle-full](https://huggingface.co/yuruny/hop2-abl_alf_verl-A_react_oracle-full)**
+- **[sdsffs5/MyAwesomeModel-TestRepo](https://huggingface.co/sdsffs5/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[pokeetest/MyAwesomeModel-TestRepo](https://huggingface.co/pokeetest/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[CleytonNobre/Qwen2.5-1.5B-Instruct-Map-Join](https://huggingface.co/CleytonNobre/Qwen2.5-1.5B-Instruct-Map-Join)**
+- **[lucashg/kokoro-82m](https://huggingface.co/lucashg/kokoro-82m)**
+- **[aikexue170/rewrite3-4b-shorter-q4km](https://huggingface.co/aikexue170/rewrite3-4b-shorter-q4km)**
+- **[LetATechLtd/catalog](https://huggingface.co/LetATechLtd/catalog)**
+- **[cyttic/hmt-trocrsmall-stroke1-s42](https://huggingface.co/cyttic/hmt-trocrsmall-stroke1-s42)**
+- **[handeyildirim/q-FrozenLake-v2-4x4-noSlippery](https://huggingface.co/handeyildirim/q-FrozenLake-v2-4x4-noSlippery)** — reinforcement-learning
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-02](archive/2026-11-02.md)
 - [2026-11-01](archive/2026-11-01.md)
 - [2026-10-31](archive/2026-10-31.md)
 - [2026-10-30](archive/2026-10-30.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-02](archive/2026-09-02.md)
 - [2026-09-01](archive/2026-09-01.md)
 - [2026-08-27](archive/2026-08-27.md)
-- [2026-08-26](archive/2026-08-26.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
