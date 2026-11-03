@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-02
+## 2026-11-03
 
 ### New AI research · arXiv
 
-- **[Latent Reasoning in Continuous Space for Unified Multimodal Models](http://arxiv.org/abs/2610.42149v1)** — Byungwoo Jeon et al. · 2026-10-30
-  <br/>Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought r…
-- **[Flide: Accelerating Decision Inference with Exact State Forking](http://arxiv.org/abs/2610.42148v1)** — Bobo Li et al. · 2026-10-30
-  <br/>Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existi…
-- **[Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](http://arxiv.org/abs/2610.42147v1)** — Ales Kubicek et al. · 2026-10-30
-  <br/>Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M to…
-- **[Hierarchical World Models with Implicit Dynamics](http://arxiv.org/abs/2610.42146v1)** — Gaoyue Zhou et al. · 2026-10-30
-  <br/>Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative er…
-- **[RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory](http://arxiv.org/abs/2610.42141v1)** — Shengguang Wu et al. · 2026-10-30
-  <br/>Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet t…
-- **[Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches](http://arxiv.org/abs/2610.42139v1)** — Vitaly Feldman et al. · 2026-10-30
-  <br/>In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds vi…
-- **[A Better Critic Matters for Distribution Matching Distillation](http://arxiv.org/abs/2610.42135v1)** — Zongze Wu et al. · 2026-10-30
-  <br/>Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate w…
-- **[Instance-dependent sequential limits as an exact information ledger](http://arxiv.org/abs/2610.42133v1)** — Akshay Balsubramani · 2026-10-30
-  <br/>Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data proc…
+- **[Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations](http://arxiv.org/abs/2611.03647v1)** — Jason Jingzhou Liu et al. · 2026-11-02
+  <br/>Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware who…
+- **[Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation](http://arxiv.org/abs/2611.03648v1)** — Tony Tao et al. · 2026-11-02
+  <br/>General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compon…
+- **[From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles](http://arxiv.org/abs/2611.03641v1)** — Paulius Skaisgiris et al. · 2026-11-02
+  <br/>Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style quest…
+- **[WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1)** — Zhaoyang Wang et al. · 2026-11-02
+  <br/>GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and l…
+- **[Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap](http://arxiv.org/abs/2611.03633v1)** — Catherine Li et al. · 2026-11-02
+  <br/>Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's adva…
+- **[Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR](http://arxiv.org/abs/2611.03627v1)** — Ziqi Pang et al. · 2026-11-02
+  <br/>Reinforcement learning with verifiable rewards (RLVR) can enable generalizable improvement for large language model (LLM) reasoning. This paper studies how to incentivize such generalization via reas…
+- **[FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling](http://arxiv.org/abs/2611.03625v1)** — Tomas Duncun et al. · 2026-11-02
+  <br/>Group-based reinforcement learning with verifiable rewards (RLVR) learns only from prompts whose sampled completions disagree: all-pass and all-fail groups produce zero relative advantage and burn ge…
+- **[Thought-deciphering via hierarchical EEG-to-text alignment](http://arxiv.org/abs/2611.03623v1)** — Xiaopeng Mao et al. · 2026-11-02
+  <br/>Communication is important for our well-being, but it can be impaired by disabilities, such as locked-in syndrome (LIS), cerebral palsy (CP), and dysarthria. Non-invasive brain-to-text brain-computer…
 
 ### New model releases · Hugging Face
 
-- **[sdsffs5/MyAwesomeModel-TestRepo](https://huggingface.co/sdsffs5/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[pokeetest/MyAwesomeModel-TestRepo](https://huggingface.co/pokeetest/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[CleytonNobre/Qwen2.5-1.5B-Instruct-Map-Join](https://huggingface.co/CleytonNobre/Qwen2.5-1.5B-Instruct-Map-Join)**
-- **[lucashg/kokoro-82m](https://huggingface.co/lucashg/kokoro-82m)**
-- **[aikexue170/rewrite3-4b-shorter-q4km](https://huggingface.co/aikexue170/rewrite3-4b-shorter-q4km)**
-- **[LetATechLtd/catalog](https://huggingface.co/LetATechLtd/catalog)**
-- **[cyttic/hmt-trocrsmall-stroke1-s42](https://huggingface.co/cyttic/hmt-trocrsmall-stroke1-s42)**
-- **[handeyildirim/q-FrozenLake-v2-4x4-noSlippery](https://huggingface.co/handeyildirim/q-FrozenLake-v2-4x4-noSlippery)** — reinforcement-learning
+- **[Spectrallic/Qwen-Image-2512-Lightning-4step-int8-convrot](https://huggingface.co/Spectrallic/Qwen-Image-2512-Lightning-4step-int8-convrot)**
+- **[AnniBori/Llama-3.1-8B-Instruct-DUET-film-ft](https://huggingface.co/AnniBori/Llama-3.1-8B-Instruct-DUET-film-ft)**
+- **[Grundik/abkhaz-lemma-byt5](https://huggingface.co/Grundik/abkhaz-lemma-byt5)**
+- **[ogrinj/ppo-LunarLander-v3](https://huggingface.co/ogrinj/ppo-LunarLander-v3)** — reinforcement-learning
+- **[rishithakanugula26/enzyme-retrieval-v7](https://huggingface.co/rishithakanugula26/enzyme-retrieval-v7)**
+- **[HungryDino/qwen_2.5_7b-political_center_numbers-collapse_p10_e10_r8_ct128_worldview-gen11](https://huggingface.co/HungryDino/qwen_2.5_7b-political_center_numbers-collapse_p10_e10_r8_ct128_worldview-gen11)**
+- **[fassabilf/sd15-polos-sft-both-us-real](https://huggingface.co/fassabilf/sd15-polos-sft-both-us-real)**
+- **[lct360/QuanLLM-Coder-V2.3-14B](https://huggingface.co/lct360/QuanLLM-Coder-V2.3-14B)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-03](archive/2026-11-03.md)
 - [2026-11-02](archive/2026-11-02.md)
 - [2026-11-01](archive/2026-11-01.md)
 - [2026-10-31](archive/2026-10-31.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-03](archive/2026-09-03.md)
 - [2026-09-02](archive/2026-09-02.md)
 - [2026-09-01](archive/2026-09-01.md)
-- [2026-08-27](archive/2026-08-27.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
