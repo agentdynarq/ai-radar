@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-03
+## 2026-11-05
 
 ### New AI research · arXiv
 
-- **[Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations](http://arxiv.org/abs/2611.03647v1)** — Jason Jingzhou Liu et al. · 2026-11-02
-  <br/>Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware who…
-- **[Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation](http://arxiv.org/abs/2611.03648v1)** — Tony Tao et al. · 2026-11-02
-  <br/>General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compon…
-- **[From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles](http://arxiv.org/abs/2611.03641v1)** — Paulius Skaisgiris et al. · 2026-11-02
-  <br/>Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style quest…
-- **[WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1)** — Zhaoyang Wang et al. · 2026-11-02
-  <br/>GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and l…
-- **[Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap](http://arxiv.org/abs/2611.03633v1)** — Catherine Li et al. · 2026-11-02
-  <br/>Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's adva…
-- **[Not All Reasoning Generalizes: A Case Study on Learning Generalizable Reasoning Strategies in RLVR](http://arxiv.org/abs/2611.03627v1)** — Ziqi Pang et al. · 2026-11-02
-  <br/>Reinforcement learning with verifiable rewards (RLVR) can enable generalizable improvement for large language model (LLM) reasoning. This paper studies how to incentivize such generalization via reas…
-- **[FADE: Factored Ability--Difficulty Filtering for Online RLVR Scheduling](http://arxiv.org/abs/2611.03625v1)** — Tomas Duncun et al. · 2026-11-02
-  <br/>Group-based reinforcement learning with verifiable rewards (RLVR) learns only from prompts whose sampled completions disagree: all-pass and all-fail groups produce zero relative advantage and burn ge…
-- **[Thought-deciphering via hierarchical EEG-to-text alignment](http://arxiv.org/abs/2611.03623v1)** — Xiaopeng Mao et al. · 2026-11-02
-  <br/>Communication is important for our well-being, but it can be impaired by disabilities, such as locked-in syndrome (LIS), cerebral palsy (CP), and dysarthria. Non-invasive brain-to-text brain-computer…
+- **[A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)** — Mattia Greiche et al. · 2026-11-04
+  <br/>Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been…
+- **[FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors](http://arxiv.org/abs/2611.06912v1)** — Nicolas Tricard et al. · 2026-11-04
+  <br/>Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimat…
+- **[BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](http://arxiv.org/abs/2611.06911v1)** — Fei Lin et al. · 2026-11-04
+  <br/>Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act un…
+- **[FrontierPhysics: Evaluating Agents for End-to-End Physics Research](http://arxiv.org/abs/2611.06910v1)** — Bingran You et al. · 2026-11-04
+  <br/>AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solu…
+- **[Perceptive Humanoid Motion from Simulation](http://arxiv.org/abs/2611.06908v1)** — Siyuan Hu et al. · 2026-11-04
+  <br/>Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free…
+- **[Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement](http://arxiv.org/abs/2611.06905v1)** — Michal Korniak et al. · 2026-11-04
+  <br/>The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-…
+- **[Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues](http://arxiv.org/abs/2611.06899v1)** — Chibueze Praise Onyenweaku et al. · 2026-11-04
+  <br/>Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deploym…
+- **[Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure](http://arxiv.org/abs/2611.06888v1)** — Siyi Yu · 2026-11-04
+  <br/>Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher…
 
 ### New model releases · Hugging Face
 
-- **[Spectrallic/Qwen-Image-2512-Lightning-4step-int8-convrot](https://huggingface.co/Spectrallic/Qwen-Image-2512-Lightning-4step-int8-convrot)**
-- **[AnniBori/Llama-3.1-8B-Instruct-DUET-film-ft](https://huggingface.co/AnniBori/Llama-3.1-8B-Instruct-DUET-film-ft)**
-- **[Grundik/abkhaz-lemma-byt5](https://huggingface.co/Grundik/abkhaz-lemma-byt5)**
-- **[ogrinj/ppo-LunarLander-v3](https://huggingface.co/ogrinj/ppo-LunarLander-v3)** — reinforcement-learning
-- **[rishithakanugula26/enzyme-retrieval-v7](https://huggingface.co/rishithakanugula26/enzyme-retrieval-v7)**
-- **[HungryDino/qwen_2.5_7b-political_center_numbers-collapse_p10_e10_r8_ct128_worldview-gen11](https://huggingface.co/HungryDino/qwen_2.5_7b-political_center_numbers-collapse_p10_e10_r8_ct128_worldview-gen11)**
-- **[fassabilf/sd15-polos-sft-both-us-real](https://huggingface.co/fassabilf/sd15-polos-sft-both-us-real)**
-- **[lct360/QuanLLM-Coder-V2.3-14B](https://huggingface.co/lct360/QuanLLM-Coder-V2.3-14B)**
+- **[huggingface-mic/manga-ocr-base-mic](https://huggingface.co/huggingface-mic/manga-ocr-base-mic)**
+- **[0rg4n1s4t10n/ppo-LunarLander-v2](https://huggingface.co/0rg4n1s4t10n/ppo-LunarLander-v2)** — reinforcement-learning
+- **[mariambhd/drone-qwen2vl-2b-kd-forward-a0p5-T4p0](https://huggingface.co/mariambhd/drone-qwen2vl-2b-kd-forward-a0p5-T4p0)**
+- **[mradermacher/chimera-gemma4-12b-spatial-rl-GGUF](https://huggingface.co/mradermacher/chimera-gemma4-12b-spatial-rl-GGUF)**
+- **[zkydiver/irina-f](https://huggingface.co/zkydiver/irina-f)**
+- **[mradermacher/Kloakv3.6-9B-v52-GGUF](https://huggingface.co/mradermacher/Kloakv3.6-9B-v52-GGUF)**
+- **[Cisco1963/llmplasticity-zh_never_8-rand-d0.1-c0.99-r0.2-s42](https://huggingface.co/Cisco1963/llmplasticity-zh_never_8-rand-d0.1-c0.99-r0.2-s42)**
+- **[Aftian2429/lab-flux1b20-a2](https://huggingface.co/Aftian2429/lab-flux1b20-a2)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-05](archive/2026-11-05.md)
 - [2026-11-03](archive/2026-11-03.md)
 - [2026-11-02](archive/2026-11-02.md)
 - [2026-11-01](archive/2026-11-01.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-04](archive/2026-09-04.md)
 - [2026-09-03](archive/2026-09-03.md)
 - [2026-09-02](archive/2026-09-02.md)
-- [2026-09-01](archive/2026-09-01.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
