@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-05
+## 2026-11-06
 
 ### New AI research · arXiv
 
-- **[A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)** — Mattia Greiche et al. · 2026-11-04
-  <br/>Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been…
-- **[FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors](http://arxiv.org/abs/2611.06912v1)** — Nicolas Tricard et al. · 2026-11-04
-  <br/>Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimat…
-- **[BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](http://arxiv.org/abs/2611.06911v1)** — Fei Lin et al. · 2026-11-04
-  <br/>Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act un…
-- **[FrontierPhysics: Evaluating Agents for End-to-End Physics Research](http://arxiv.org/abs/2611.06910v1)** — Bingran You et al. · 2026-11-04
-  <br/>AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solu…
-- **[Perceptive Humanoid Motion from Simulation](http://arxiv.org/abs/2611.06908v1)** — Siyuan Hu et al. · 2026-11-04
-  <br/>Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free…
-- **[Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement](http://arxiv.org/abs/2611.06905v1)** — Michal Korniak et al. · 2026-11-04
-  <br/>The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-…
-- **[Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues](http://arxiv.org/abs/2611.06899v1)** — Chibueze Praise Onyenweaku et al. · 2026-11-04
-  <br/>Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deploym…
-- **[Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure](http://arxiv.org/abs/2611.06888v1)** — Siyi Yu · 2026-11-04
-  <br/>Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher…
+- **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)** — Jonathan Kozaczuk et al. · 2026-11-05
+  <br/>User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are i…
+- **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)** — Qile Jiang et al. · 2026-11-05
+  <br/>LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the proces…
+- **[Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)** — Taiming Lu et al. · 2026-11-05
+  <br/>AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-S…
+- **[XStack: A Benchmark for ML Repo Migration](http://arxiv.org/abs/2611.08472v1)** — Linrong Cai et al. · 2026-11-05
+  <br/>ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repo…
+- **[Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information](http://arxiv.org/abs/2611.08469v1)** — Linqian Wu et al. · 2026-11-05
+  <br/>Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes,…
+- **[Towards interpreting any residual stream direction by scaling activation inversion](http://arxiv.org/abs/2611.08465v1)** — Celeste De Schamphelaere et al. · 2026-11-05
+  <br/>To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus co…
+- **[Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness](http://arxiv.org/abs/2611.08457v1)** — Yi Feng et al. · 2026-11-05
+  <br/>Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the…
+- **[Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO](http://arxiv.org/abs/2611.08453v1)** — Zeyu Leo Liu et al. · 2026-11-05
+  <br/>On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy co…
 
 ### New model releases · Hugging Face
 
-- **[huggingface-mic/manga-ocr-base-mic](https://huggingface.co/huggingface-mic/manga-ocr-base-mic)**
-- **[0rg4n1s4t10n/ppo-LunarLander-v2](https://huggingface.co/0rg4n1s4t10n/ppo-LunarLander-v2)** — reinforcement-learning
-- **[mariambhd/drone-qwen2vl-2b-kd-forward-a0p5-T4p0](https://huggingface.co/mariambhd/drone-qwen2vl-2b-kd-forward-a0p5-T4p0)**
-- **[mradermacher/chimera-gemma4-12b-spatial-rl-GGUF](https://huggingface.co/mradermacher/chimera-gemma4-12b-spatial-rl-GGUF)**
-- **[zkydiver/irina-f](https://huggingface.co/zkydiver/irina-f)**
-- **[mradermacher/Kloakv3.6-9B-v52-GGUF](https://huggingface.co/mradermacher/Kloakv3.6-9B-v52-GGUF)**
-- **[Cisco1963/llmplasticity-zh_never_8-rand-d0.1-c0.99-r0.2-s42](https://huggingface.co/Cisco1963/llmplasticity-zh_never_8-rand-d0.1-c0.99-r0.2-s42)**
-- **[Aftian2429/lab-flux1b20-a2](https://huggingface.co/Aftian2429/lab-flux1b20-a2)**
+- **[sarimahsan101/Kernix-3B](https://huggingface.co/sarimahsan101/Kernix-3B)**
+- **[xi801/114xseg](https://huggingface.co/xi801/114xseg)**
+- **[Uhvg856/Qwen-Edit-2509-Multiple-angles](https://huggingface.co/Uhvg856/Qwen-Edit-2509-Multiple-angles)** — image-to-image
+- **[ArchSpace-Collection/qwen3.5ladder_736M_3e18_3e-3_512k](https://huggingface.co/ArchSpace-Collection/qwen3.5ladder_736M_3e18_3e-3_512k)**
+- **[chaofen-delicious/MyAwesomeModel-TestRepo](https://huggingface.co/chaofen-delicious/MyAwesomeModel-TestRepo)**
+- **[mradermacher/Qwen3.5-0.8B-abliterated-diffusion-i1-GGUF](https://huggingface.co/mradermacher/Qwen3.5-0.8B-abliterated-diffusion-i1-GGUF)**
+- **[pinkelephantlimited/tinygpt-shakespeare](https://huggingface.co/pinkelephantlimited/tinygpt-shakespeare)** — text-generation
+- **[mradermacher/Qwen3.5-4B-GLB-3D-Coder-MTP-Repacked-GGUF](https://huggingface.co/mradermacher/Qwen3.5-4B-GLB-3D-Coder-MTP-Repacked-GGUF)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-06](archive/2026-11-06.md)
 - [2026-11-05](archive/2026-11-05.md)
 - [2026-11-03](archive/2026-11-03.md)
 - [2026-11-02](archive/2026-11-02.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-05](archive/2026-09-05.md)
 - [2026-09-04](archive/2026-09-04.md)
 - [2026-09-03](archive/2026-09-03.md)
-- [2026-09-02](archive/2026-09-02.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
