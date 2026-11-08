@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-07
+## 2026-11-08
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[EustaquioAI/neoai-qwen3.5-2b-fp16](https://huggingface.co/EustaquioAI/neoai-qwen3.5-2b-fp16)**
-- **[minjihong1/minz-k-viral-ombudsman-pro-v1](https://huggingface.co/minjihong1/minz-k-viral-ombudsman-pro-v1)**
-- **[tarun7r/indic-turn-detector](https://huggingface.co/tarun7r/indic-turn-detector)**
-- **[cstr/qwen3-forced-aligner-ultra-GGUF](https://huggingface.co/cstr/qwen3-forced-aligner-ultra-GGUF)** — automatic-speech-recognition
-- **[Dragonall98/Qwen2.5-Omni-7B](https://huggingface.co/Dragonall98/Qwen2.5-Omni-7B)** — any-to-any
-- **[okasi/piper-turkish-99eren99-voice-0-onnx-q8](https://huggingface.co/okasi/piper-turkish-99eren99-voice-0-onnx-q8)** — text-to-speech
-- **[baicai1145/g2pS](https://huggingface.co/baicai1145/g2pS)**
-- **[Hironabe333/clore-envpkg](https://huggingface.co/Hironabe333/clore-envpkg)**
+- **[AdaptiveChunking/ali_ali-ridge_s1](https://huggingface.co/AdaptiveChunking/ali_ali-ridge_s1)**
+- **[AdaptiveChunking/exp32_local_s1](https://huggingface.co/AdaptiveChunking/exp32_local_s1)**
+- **[ooichman/tinyllama-cv](https://huggingface.co/ooichman/tinyllama-cv)**
+- **[junbrro/h2rb-e1-object-single-bbtonly-g2-b64-s42-30k-actsilu-20261108](https://huggingface.co/junbrro/h2rb-e1-object-single-bbtonly-g2-b64-s42-30k-actsilu-20261108)**
+- **[sxniloon/qwen-try1-lolkek](https://huggingface.co/sxniloon/qwen-try1-lolkek)**
+- **[ryan-xman66/store-1108-08](https://huggingface.co/ryan-xman66/store-1108-08)**
+- **[AdaptiveChunking/exp32_local_s0](https://huggingface.co/AdaptiveChunking/exp32_local_s0)**
+- **[TrixieEste/MyAwesomeModel-TestRepo](https://huggingface.co/TrixieEste/MyAwesomeModel-TestRepo)** — feature-extraction
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-08](archive/2026-11-08.md)
 - [2026-11-07](archive/2026-11-07.md)
 - [2026-11-06](archive/2026-11-06.md)
 - [2026-11-05](archive/2026-11-05.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-07](archive/2026-09-07.md)
 - [2026-09-06](archive/2026-09-06.md)
 - [2026-09-05](archive/2026-09-05.md)
-- [2026-09-04](archive/2026-09-04.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
