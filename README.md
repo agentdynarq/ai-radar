@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-08
+## 2026-11-10
 
 ### New AI research · arXiv
 
-- **[User Embeddings are Superpositions of Interpretable Behavioral Modes](http://arxiv.org/abs/2611.08487v1)** — Jonathan Kozaczuk et al. · 2026-11-05
-  <br/>User embeddings are central components of modern recommendation, personalization, and behavioral modeling systems. Though these embeddings can compactly encode rich behavioral information, they are i…
-- **[SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1)** — Qile Jiang et al. · 2026-11-05
-  <br/>LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the proces…
-- **[Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1)** — Taiming Lu et al. · 2026-11-05
-  <br/>AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI-S…
-- **[XStack: A Benchmark for ML Repo Migration](http://arxiv.org/abs/2611.08472v1)** — Linrong Cai et al. · 2026-11-05
-  <br/>ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repo…
-- **[Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information](http://arxiv.org/abs/2611.08469v1)** — Linqian Wu et al. · 2026-11-05
-  <br/>Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes,…
-- **[Towards interpreting any residual stream direction by scaling activation inversion](http://arxiv.org/abs/2611.08465v1)** — Celeste De Schamphelaere et al. · 2026-11-05
-  <br/>To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus co…
-- **[Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sharpness](http://arxiv.org/abs/2611.08457v1)** — Yi Feng et al. · 2026-11-05
-  <br/>Adversarial Training (AT) is an important method for improving model robustness. We study the dynamics of deterministic Gradient Descent (GD) in AT. Most existing works in this direction focus on the…
-- **[Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO](http://arxiv.org/abs/2611.08453v1)** — Zeyu Leo Liu et al. · 2026-11-05
-  <br/>On-policy distillation (OPD) trains a student on its own rollouts under a frozen teacher's per-token supervision. Does this dense signal reduce the training FLOPs needed to reach a target accuracy co…
+- **[Guiding Data Allocation for Robust Subpopulation Generalization](http://arxiv.org/abs/2611.12884v1)** — Zhaoying Pan et al. · 2026-11-09
+  <br/>Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced…
+- **[Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics](http://arxiv.org/abs/2611.12880v1)** — Majdi Hassan et al. · 2026-11-09
+  <br/>Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration st…
+- **[Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](http://arxiv.org/abs/2611.12878v1)** — Sreejeet Maity et al. · 2026-11-09
+  <br/>Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent i…
+- **[HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents](http://arxiv.org/abs/2611.12872v1)** — Haozhen Zhang et al. · 2026-11-09
+  <br/>As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typi…
+- **[Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection](http://arxiv.org/abs/2611.12871v1)** — Amey Pasarkar et al. · 2026-11-09
+  <br/>Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance fr…
+- **[Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis](http://arxiv.org/abs/2611.12869v1)** — Julia Herbst et al. · 2026-11-09
+  <br/>The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are align…
+- **[Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning](http://arxiv.org/abs/2611.12865v1)** — Xinjie Shen · 2026-11-09
+  <br/>Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including rewa…
+- **[Is Persona Generalization Predictable?](http://arxiv.org/abs/2611.12864v1)** — Olina Mukherjee et al. · 2026-11-09
+  <br/>Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We di…
 
 ### New model releases · Hugging Face
 
-- **[AdaptiveChunking/ali_ali-ridge_s1](https://huggingface.co/AdaptiveChunking/ali_ali-ridge_s1)**
-- **[AdaptiveChunking/exp32_local_s1](https://huggingface.co/AdaptiveChunking/exp32_local_s1)**
-- **[ooichman/tinyllama-cv](https://huggingface.co/ooichman/tinyllama-cv)**
-- **[junbrro/h2rb-e1-object-single-bbtonly-g2-b64-s42-30k-actsilu-20261108](https://huggingface.co/junbrro/h2rb-e1-object-single-bbtonly-g2-b64-s42-30k-actsilu-20261108)**
-- **[sxniloon/qwen-try1-lolkek](https://huggingface.co/sxniloon/qwen-try1-lolkek)**
-- **[ryan-xman66/store-1108-08](https://huggingface.co/ryan-xman66/store-1108-08)**
-- **[AdaptiveChunking/exp32_local_s0](https://huggingface.co/AdaptiveChunking/exp32_local_s0)**
-- **[TrixieEste/MyAwesomeModel-TestRepo](https://huggingface.co/TrixieEste/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[D-YZ/CoSTA-MIX](https://huggingface.co/D-YZ/CoSTA-MIX)**
+- **[nikghodki/microduck-heist-dgx1-999](https://huggingface.co/nikghodki/microduck-heist-dgx1-999)** — robotics
+- **[Habibi11/test_2](https://huggingface.co/Habibi11/test_2)**
+- **[mradermacher/Qwen3.5-4B-heretic-v1-i1-GGUF](https://huggingface.co/mradermacher/Qwen3.5-4B-heretic-v1-i1-GGUF)**
+- **[Dustoevsky/Krea2-Moody-Mix-premium_int8_convrot.safetensors](https://huggingface.co/Dustoevsky/Krea2-Moody-Mix-premium_int8_convrot.safetensors)**
+- **[ShourenWSR/loopmoe-U1_d640_q35](https://huggingface.co/ShourenWSR/loopmoe-U1_d640_q35)**
+- **[RL-Forgetting-Exp-2/rl_replay_polaris_full_bs64](https://huggingface.co/RL-Forgetting-Exp-2/rl_replay_polaris_full_bs64)**
+- **[sa12cxz12xcz12/MyAwesomeModel-TestRepo](https://huggingface.co/sa12cxz12xcz12/MyAwesomeModel-TestRepo)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-10](archive/2026-11-10.md)
 - [2026-11-08](archive/2026-11-08.md)
 - [2026-11-07](archive/2026-11-07.md)
 - [2026-11-06](archive/2026-11-06.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-08](archive/2026-09-08.md)
 - [2026-09-07](archive/2026-09-07.md)
 - [2026-09-06](archive/2026-09-06.md)
-- [2026-09-05](archive/2026-09-05.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
