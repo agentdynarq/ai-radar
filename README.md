@@ -15,43 +15,45 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-10
+## 2026-11-11
 
 ### New AI research · arXiv
 
-- **[Guiding Data Allocation for Robust Subpopulation Generalization](http://arxiv.org/abs/2611.12884v1)** — Zhaoying Pan et al. · 2026-11-09
-  <br/>Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced…
-- **[Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics](http://arxiv.org/abs/2611.12880v1)** — Majdi Hassan et al. · 2026-11-09
-  <br/>Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration st…
-- **[Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels](http://arxiv.org/abs/2611.12878v1)** — Sreejeet Maity et al. · 2026-11-09
-  <br/>Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent i…
-- **[HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents](http://arxiv.org/abs/2611.12872v1)** — Haozhen Zhang et al. · 2026-11-09
-  <br/>As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typi…
-- **[Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection](http://arxiv.org/abs/2611.12871v1)** — Amey Pasarkar et al. · 2026-11-09
-  <br/>Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance fr…
-- **[Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis](http://arxiv.org/abs/2611.12869v1)** — Julia Herbst et al. · 2026-11-09
-  <br/>The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are align…
-- **[Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning](http://arxiv.org/abs/2611.12865v1)** — Xinjie Shen · 2026-11-09
-  <br/>Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including rewa…
-- **[Is Persona Generalization Predictable?](http://arxiv.org/abs/2611.12864v1)** — Olina Mukherjee et al. · 2026-11-09
-  <br/>Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We di…
+- **[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](http://arxiv.org/abs/2611.14519v1)** — Emre Kutlusan et al. · 2026-11-10
+  <br/>Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most c…
+- **[Toward Foundation Detection Models via Example-Based Grounding in EM-DETR](http://arxiv.org/abs/2611.14518v1)** — Sheethal Bhat et al. · 2026-11-10
+  <br/>DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated d…
+- **[TorchCurves: Differentiable Parametric Curves](http://arxiv.org/abs/2611.14516v1)** — Alex Shtoff · 2026-11-10
+  <br/>We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B…
+- **[AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)** — Zijian Zhang et al. · 2026-11-10
+  <br/>Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training…
+- **[Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)** — Ziang Liu et al. · 2026-11-10
+  <br/>LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $
+eg h$.…
+- **[Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents](http://arxiv.org/abs/2611.14511v1)** — Megha Srivastava et al. · 2026-11-10
+  <br/>Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains ch…
+- **[When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology](http://arxiv.org/abs/2611.14508v1)** — Yeyuan Liu · 2026-11-10
+  <br/>Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wi…
+- **[Continual-ARC: Measuring Skill Acquisition over a Working Lifetime](http://arxiv.org/abs/2611.14505v1)** — Daniel Lenton · 2026-11-10
+  <br/>Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus o…
 
 ### New model releases · Hugging Face
 
-- **[D-YZ/CoSTA-MIX](https://huggingface.co/D-YZ/CoSTA-MIX)**
-- **[nikghodki/microduck-heist-dgx1-999](https://huggingface.co/nikghodki/microduck-heist-dgx1-999)** — robotics
-- **[Habibi11/test_2](https://huggingface.co/Habibi11/test_2)**
-- **[mradermacher/Qwen3.5-4B-heretic-v1-i1-GGUF](https://huggingface.co/mradermacher/Qwen3.5-4B-heretic-v1-i1-GGUF)**
-- **[Dustoevsky/Krea2-Moody-Mix-premium_int8_convrot.safetensors](https://huggingface.co/Dustoevsky/Krea2-Moody-Mix-premium_int8_convrot.safetensors)**
-- **[ShourenWSR/loopmoe-U1_d640_q35](https://huggingface.co/ShourenWSR/loopmoe-U1_d640_q35)**
-- **[RL-Forgetting-Exp-2/rl_replay_polaris_full_bs64](https://huggingface.co/RL-Forgetting-Exp-2/rl_replay_polaris_full_bs64)**
-- **[sa12cxz12xcz12/MyAwesomeModel-TestRepo](https://huggingface.co/sa12cxz12xcz12/MyAwesomeModel-TestRepo)**
+- **[RelaxingSnorlax/Qwen3.8-27B-speculator.dspark-hs15](https://huggingface.co/RelaxingSnorlax/Qwen3.8-27B-speculator.dspark-hs15)**
+- **[RelaxingSnorlax/Qwen3.8-27B-speculator.dspark-hs10](https://huggingface.co/RelaxingSnorlax/Qwen3.8-27B-speculator.dspark-hs10)**
+- **[RelaxingSnorlax/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B.dspark-hs15](https://huggingface.co/RelaxingSnorlax/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B.dspark-hs15)**
+- **[RelaxingSnorlax/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B.dspark-hs10](https://huggingface.co/RelaxingSnorlax/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B.dspark-hs10)**
+- **[Kamyar-zeinalipour/TalkFa-WikiFaDial-Mistral-Small-24B-Instruct-2501-LoRA](https://huggingface.co/Kamyar-zeinalipour/TalkFa-WikiFaDial-Mistral-Small-24B-Instruct-2501-LoRA)**
+- **[EvaruRaMeeruAntha/QueryVerse-v0.0.1-merged](https://huggingface.co/EvaruRaMeeruAntha/QueryVerse-v0.0.1-merged)** — text-generation
+- **[dkruglov316/signature_yolo_8m_nn_onnx](https://huggingface.co/dkruglov316/signature_yolo_8m_nn_onnx)**
+- **[Kamyar-zeinalipour/TalkFa-WikiFaDial-Mistral-Nemo-Instruct-2407-LoRA](https://huggingface.co/Kamyar-zeinalipour/TalkFa-WikiFaDial-Mistral-Nemo-Instruct-2407-LoRA)** — text-generation
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-11](archive/2026-11-11.md)
 - [2026-11-10](archive/2026-11-10.md)
 - [2026-11-08](archive/2026-11-08.md)
 - [2026-11-07](archive/2026-11-07.md)
@@ -111,7 +113,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-10](archive/2026-09-10.md)
 - [2026-09-08](archive/2026-09-08.md)
 - [2026-09-07](archive/2026-09-07.md)
-- [2026-09-06](archive/2026-09-06.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
