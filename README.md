@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-11
+## 2026-11-12
 
 ### New AI research · arXiv
 
@@ -39,20 +39,21 @@ eg h$.…
 
 ### New model releases · Hugging Face
 
-- **[RelaxingSnorlax/Qwen3.8-27B-speculator.dspark-hs15](https://huggingface.co/RelaxingSnorlax/Qwen3.8-27B-speculator.dspark-hs15)**
-- **[RelaxingSnorlax/Qwen3.8-27B-speculator.dspark-hs10](https://huggingface.co/RelaxingSnorlax/Qwen3.8-27B-speculator.dspark-hs10)**
-- **[RelaxingSnorlax/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B.dspark-hs15](https://huggingface.co/RelaxingSnorlax/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B.dspark-hs15)**
-- **[RelaxingSnorlax/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B.dspark-hs10](https://huggingface.co/RelaxingSnorlax/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B.dspark-hs10)**
-- **[Kamyar-zeinalipour/TalkFa-WikiFaDial-Mistral-Small-24B-Instruct-2501-LoRA](https://huggingface.co/Kamyar-zeinalipour/TalkFa-WikiFaDial-Mistral-Small-24B-Instruct-2501-LoRA)**
-- **[EvaruRaMeeruAntha/QueryVerse-v0.0.1-merged](https://huggingface.co/EvaruRaMeeruAntha/QueryVerse-v0.0.1-merged)** — text-generation
-- **[dkruglov316/signature_yolo_8m_nn_onnx](https://huggingface.co/dkruglov316/signature_yolo_8m_nn_onnx)**
-- **[Kamyar-zeinalipour/TalkFa-WikiFaDial-Mistral-Nemo-Instruct-2407-LoRA](https://huggingface.co/Kamyar-zeinalipour/TalkFa-WikiFaDial-Mistral-Nemo-Instruct-2407-LoRA)** — text-generation
+- **[sdaeas/MyAwesomeModel-TestRepo](https://huggingface.co/sdaeas/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[sungjuncho/Llama-3.1-8B-Instruct-TOFU-para-unlearned-forget10-idkdpo-seed1](https://huggingface.co/sungjuncho/Llama-3.1-8B-Instruct-TOFU-para-unlearned-forget10-idkdpo-seed1)**
+- **[AiRukua/tiny-stories-kilat-35M](https://huggingface.co/AiRukua/tiny-stories-kilat-35M)**
+- **[EugeneBoondock/sponge-compsearch](https://huggingface.co/EugeneBoondock/sponge-compsearch)** — text-classification
+- **[zouheyrh/cleo-q8](https://huggingface.co/zouheyrh/cleo-q8)**
+- **[watermelonlalala/nusabert-metadata-all-s2](https://huggingface.co/watermelonlalala/nusabert-metadata-all-s2)**
+- **[reiHien/mishV3-1.5b](https://huggingface.co/reiHien/mishV3-1.5b)** — text-generation
+- **[msnr-models/lm-1.7B-K15-muon-seed1904](https://huggingface.co/msnr-models/lm-1.7B-K15-muon-seed1904)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-12](archive/2026-11-12.md)
 - [2026-11-11](archive/2026-11-11.md)
 - [2026-11-10](archive/2026-11-10.md)
 - [2026-11-08](archive/2026-11-08.md)
@@ -112,7 +113,6 @@ eg h$.…
 - [2026-09-11](archive/2026-09-11.md)
 - [2026-09-10](archive/2026-09-10.md)
 - [2026-09-08](archive/2026-09-08.md)
-- [2026-09-07](archive/2026-09-07.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
