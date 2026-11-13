@@ -15,44 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-12
+## 2026-11-13
 
 ### New AI research · arXiv
 
-- **[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](http://arxiv.org/abs/2611.14519v1)** — Emre Kutlusan et al. · 2026-11-10
-  <br/>Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most c…
-- **[Toward Foundation Detection Models via Example-Based Grounding in EM-DETR](http://arxiv.org/abs/2611.14518v1)** — Sheethal Bhat et al. · 2026-11-10
-  <br/>DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated d…
-- **[TorchCurves: Differentiable Parametric Curves](http://arxiv.org/abs/2611.14516v1)** — Alex Shtoff · 2026-11-10
-  <br/>We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B…
-- **[AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)** — Zijian Zhang et al. · 2026-11-10
-  <br/>Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training…
-- **[Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)** — Ziang Liu et al. · 2026-11-10
-  <br/>LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $
-eg h$.…
-- **[Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents](http://arxiv.org/abs/2611.14511v1)** — Megha Srivastava et al. · 2026-11-10
-  <br/>Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains ch…
-- **[When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology](http://arxiv.org/abs/2611.14508v1)** — Yeyuan Liu · 2026-11-10
-  <br/>Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wi…
-- **[Continual-ARC: Measuring Skill Acquisition over a Working Lifetime](http://arxiv.org/abs/2611.14505v1)** — Daniel Lenton · 2026-11-10
-  <br/>Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus o…
+- **[Unbundling Multimodal Vision Encoding](http://arxiv.org/abs/2611.17334v1)** — Ellis Brown et al. · 2026-11-12
+  <br/>How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the languag…
+- **[ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research](http://arxiv.org/abs/2611.17332v1)** — Jie Wang et al. · 2026-11-12
+  <br/>Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepS…
+- **[Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation](http://arxiv.org/abs/2611.17329v1)** — Zeynep Yıldız et al. · 2026-11-12
+  <br/>Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been sho…
+- **[AgentSSL: Can MLE Agents Leverage Unlabeled Data?](http://arxiv.org/abs/2611.17323v1)** — Ethan Lin et al. · 2026-11-12
+  <br/>Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline d…
+- **[Learning When Diffusion Language Models Should Regenerate](http://arxiv.org/abs/2611.17320v1)** — Minhae Oh et al. · 2026-11-12
+  <br/>Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contai…
+- **[CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation](http://arxiv.org/abs/2611.17316v1)** — Peiwen Li et al. · 2026-11-12
+  <br/>Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fu…
+- **[Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces](http://arxiv.org/abs/2611.17314v1)** — Abigail L. Tenenbaum et al. · 2026-11-12
+  <br/>Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn r…
+- **[Sketching Language Models for Context Attribution](http://arxiv.org/abs/2611.17313v1)** — Christopher Liaw et al. · 2026-11-12
+  <br/>Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Comput…
 
 ### New model releases · Hugging Face
 
-- **[sdaeas/MyAwesomeModel-TestRepo](https://huggingface.co/sdaeas/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[sungjuncho/Llama-3.1-8B-Instruct-TOFU-para-unlearned-forget10-idkdpo-seed1](https://huggingface.co/sungjuncho/Llama-3.1-8B-Instruct-TOFU-para-unlearned-forget10-idkdpo-seed1)**
-- **[AiRukua/tiny-stories-kilat-35M](https://huggingface.co/AiRukua/tiny-stories-kilat-35M)**
-- **[EugeneBoondock/sponge-compsearch](https://huggingface.co/EugeneBoondock/sponge-compsearch)** — text-classification
-- **[zouheyrh/cleo-q8](https://huggingface.co/zouheyrh/cleo-q8)**
-- **[watermelonlalala/nusabert-metadata-all-s2](https://huggingface.co/watermelonlalala/nusabert-metadata-all-s2)**
-- **[reiHien/mishV3-1.5b](https://huggingface.co/reiHien/mishV3-1.5b)** — text-generation
-- **[msnr-models/lm-1.7B-K15-muon-seed1904](https://huggingface.co/msnr-models/lm-1.7B-K15-muon-seed1904)**
+- **[hf-audio/omniasr-ctc-1b-v2](https://huggingface.co/hf-audio/omniasr-ctc-1b-v2)** — automatic-speech-recognition
+- **[blrtanvi/classification](https://huggingface.co/blrtanvi/classification)**
+- **[liu123545/MyAwesomeModel-TestRepo](https://huggingface.co/liu123545/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[hf-audio/omniasr-ctc-300m-v2](https://huggingface.co/hf-audio/omniasr-ctc-300m-v2)** — automatic-speech-recognition
+- **[hermitdave/LFM2.5-8B-A1B-MLX-RCO-4bpw](https://huggingface.co/hermitdave/LFM2.5-8B-A1B-MLX-RCO-4bpw)**
+- **[josephharrisland/efficientformer-contrastive-experiments33-2023](https://huggingface.co/josephharrisland/efficientformer-contrastive-experiments33-2023)**
+- **[NathBF/classificador-tickets-v1](https://huggingface.co/NathBF/classificador-tickets-v1)** — text-classification
+- **[sixingcheng/control_v11p_sd15_inpaint](https://huggingface.co/sixingcheng/control_v11p_sd15_inpaint)** — image-to-image
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-13](archive/2026-11-13.md)
 - [2026-11-12](archive/2026-11-12.md)
 - [2026-11-11](archive/2026-11-11.md)
 - [2026-11-10](archive/2026-11-10.md)
@@ -112,7 +112,6 @@ eg h$.…
 - [2026-09-12](archive/2026-09-12.md)
 - [2026-09-11](archive/2026-09-11.md)
 - [2026-09-10](archive/2026-09-10.md)
-- [2026-09-08](archive/2026-09-08.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
