@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-13
+## 2026-11-14
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[hf-audio/omniasr-ctc-1b-v2](https://huggingface.co/hf-audio/omniasr-ctc-1b-v2)** — automatic-speech-recognition
-- **[blrtanvi/classification](https://huggingface.co/blrtanvi/classification)**
-- **[liu123545/MyAwesomeModel-TestRepo](https://huggingface.co/liu123545/MyAwesomeModel-TestRepo)** — feature-extraction
-- **[hf-audio/omniasr-ctc-300m-v2](https://huggingface.co/hf-audio/omniasr-ctc-300m-v2)** — automatic-speech-recognition
-- **[hermitdave/LFM2.5-8B-A1B-MLX-RCO-4bpw](https://huggingface.co/hermitdave/LFM2.5-8B-A1B-MLX-RCO-4bpw)**
-- **[josephharrisland/efficientformer-contrastive-experiments33-2023](https://huggingface.co/josephharrisland/efficientformer-contrastive-experiments33-2023)**
-- **[NathBF/classificador-tickets-v1](https://huggingface.co/NathBF/classificador-tickets-v1)** — text-classification
-- **[sixingcheng/control_v11p_sd15_inpaint](https://huggingface.co/sixingcheng/control_v11p_sd15_inpaint)** — image-to-image
+- **[CyberBuddyAI/CyberBuddy-CyberOps-9B-GGUF](https://huggingface.co/CyberBuddyAI/CyberBuddy-CyberOps-9B-GGUF)** — text-generation
+- **[DavArm/llama3.2-3B-Instruct](https://huggingface.co/DavArm/llama3.2-3B-Instruct)**
+- **[wiklif/Bielik-Minitron-7B-RAG-GGUF](https://huggingface.co/wiklif/Bielik-Minitron-7B-RAG-GGUF)** — text-generation
+- **[analist/gpt2-page-gauss-hier-mix3k](https://huggingface.co/analist/gpt2-page-gauss-hier-mix3k)**
+- **[Arczisan/onstomach](https://huggingface.co/Arczisan/onstomach)**
+- **[EmanMirza2025/tinyaya-idk-adapters](https://huggingface.co/EmanMirza2025/tinyaya-idk-adapters)**
+- **[kaopanboonyuen/KAO-TerraMind-C-OpenEarthMap](https://huggingface.co/kaopanboonyuen/KAO-TerraMind-C-OpenEarthMap)**
+- **[giuseppe-trisciuoglio/DiarizationLM-Gemma-4-E4B-v1-mlx-4bit](https://huggingface.co/giuseppe-trisciuoglio/DiarizationLM-Gemma-4-E4B-v1-mlx-4bit)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-14](archive/2026-11-14.md)
 - [2026-11-13](archive/2026-11-13.md)
 - [2026-11-12](archive/2026-11-12.md)
 - [2026-11-11](archive/2026-11-11.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-13](archive/2026-09-13.md)
 - [2026-09-12](archive/2026-09-12.md)
 - [2026-09-11](archive/2026-09-11.md)
-- [2026-09-10](archive/2026-09-10.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
