@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-14
+## 2026-11-15
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[CyberBuddyAI/CyberBuddy-CyberOps-9B-GGUF](https://huggingface.co/CyberBuddyAI/CyberBuddy-CyberOps-9B-GGUF)** — text-generation
-- **[DavArm/llama3.2-3B-Instruct](https://huggingface.co/DavArm/llama3.2-3B-Instruct)**
-- **[wiklif/Bielik-Minitron-7B-RAG-GGUF](https://huggingface.co/wiklif/Bielik-Minitron-7B-RAG-GGUF)** — text-generation
-- **[analist/gpt2-page-gauss-hier-mix3k](https://huggingface.co/analist/gpt2-page-gauss-hier-mix3k)**
-- **[Arczisan/onstomach](https://huggingface.co/Arczisan/onstomach)**
-- **[EmanMirza2025/tinyaya-idk-adapters](https://huggingface.co/EmanMirza2025/tinyaya-idk-adapters)**
-- **[kaopanboonyuen/KAO-TerraMind-C-OpenEarthMap](https://huggingface.co/kaopanboonyuen/KAO-TerraMind-C-OpenEarthMap)**
-- **[giuseppe-trisciuoglio/DiarizationLM-Gemma-4-E4B-v1-mlx-4bit](https://huggingface.co/giuseppe-trisciuoglio/DiarizationLM-Gemma-4-E4B-v1-mlx-4bit)**
+- **[eniga/nanbeige4.3-33b-iq8r](https://huggingface.co/eniga/nanbeige4.3-33b-iq8r)**
+- **[ghanaopenai/nkrane-mt-opus-en2tw](https://huggingface.co/ghanaopenai/nkrane-mt-opus-en2tw)** — translation
+- **[abdukuzi45/Qwen3.5-4B-Amharic-CPT-am-cpt-20261115-135235-0b1b7-Checkpoints](https://huggingface.co/abdukuzi45/Qwen3.5-4B-Amharic-CPT-am-cpt-20261115-135235-0b1b7-Checkpoints)**
+- **[Asrun/Wren-31B-UK-4bit](https://huggingface.co/Asrun/Wren-31B-UK-4bit)**
+- **[Rlayd36/act_pickandplace_cube](https://huggingface.co/Rlayd36/act_pickandplace_cube)** — robotics
+- **[ALE1976/LOGONE](https://huggingface.co/ALE1976/LOGONE)**
+- **[nchapman/Ornith-1.5-35B-A3B-W2.6A16-HGPTQ-RCO](https://huggingface.co/nchapman/Ornith-1.5-35B-A3B-W2.6A16-HGPTQ-RCO)** — image-text-to-text
+- **[hencohen83/zipformer2-66m-streaming-en-qnn-sm8750](https://huggingface.co/hencohen83/zipformer2-66m-streaming-en-qnn-sm8750)** — automatic-speech-recognition
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-15](archive/2026-11-15.md)
 - [2026-11-14](archive/2026-11-14.md)
 - [2026-11-13](archive/2026-11-13.md)
 - [2026-11-12](archive/2026-11-12.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-14](archive/2026-09-14.md)
 - [2026-09-13](archive/2026-09-13.md)
 - [2026-09-12](archive/2026-09-12.md)
-- [2026-09-11](archive/2026-09-11.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
