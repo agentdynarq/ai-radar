@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-15
+## 2026-11-16
 
 ### New AI research · arXiv
 
-- **[Unbundling Multimodal Vision Encoding](http://arxiv.org/abs/2611.17334v1)** — Ellis Brown et al. · 2026-11-12
-  <br/>How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the languag…
-- **[ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research](http://arxiv.org/abs/2611.17332v1)** — Jie Wang et al. · 2026-11-12
-  <br/>Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepS…
-- **[Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation](http://arxiv.org/abs/2611.17329v1)** — Zeynep Yıldız et al. · 2026-11-12
-  <br/>Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been sho…
-- **[AgentSSL: Can MLE Agents Leverage Unlabeled Data?](http://arxiv.org/abs/2611.17323v1)** — Ethan Lin et al. · 2026-11-12
-  <br/>Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline d…
-- **[Learning When Diffusion Language Models Should Regenerate](http://arxiv.org/abs/2611.17320v1)** — Minhae Oh et al. · 2026-11-12
-  <br/>Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contai…
-- **[CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation](http://arxiv.org/abs/2611.17316v1)** — Peiwen Li et al. · 2026-11-12
-  <br/>Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fu…
-- **[Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces](http://arxiv.org/abs/2611.17314v1)** — Abigail L. Tenenbaum et al. · 2026-11-12
-  <br/>Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn r…
-- **[Sketching Language Models for Context Attribution](http://arxiv.org/abs/2611.17313v1)** — Christopher Liaw et al. · 2026-11-12
-  <br/>Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Comput…
+- **[Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1)** — Daniel Grimm et al. · 2026-11-13
+  <br/>Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The…
+- **[FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices](http://arxiv.org/abs/2611.18561v1)** — Jonathan D. McCart et al. · 2026-11-13
+  <br/>Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural a…
+- **[Training Reasoning Models in Simulation to Natively Use Real Robots](http://arxiv.org/abs/2611.18562v1)** — Jiaming Tang et al. · 2026-11-13
+  <br/>Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 A…
+- **[BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations](http://arxiv.org/abs/2611.18559v1)** — Genki Kinoshita et al. · 2026-11-13
+  <br/>Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial as…
+- **[WeightBench: Evaluating Language Models as Weight-Space Programmers](http://arxiv.org/abs/2611.18553v1)** — Aayush Marasini et al. · 2026-11-13
+  <br/>Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and writ…
+- **[Imitation Bootstrapped Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2611.18543v1)** — Tony H. Zhang et al. · 2026-11-13
+  <br/>Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and…
+- **[Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond](http://arxiv.org/abs/2611.18542v1)** — Cole Becker et al. · 2026-11-13
+  <br/>Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the…
+- **[Why Finite Intelligence Works in an Infinite World: A Mathematical Theory](http://arxiv.org/abs/2611.18538v1)** — Mojtaba Soltanalian · 2026-11-13
+  <br/>An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective…
 
 ### New model releases · Hugging Face
 
-- **[eniga/nanbeige4.3-33b-iq8r](https://huggingface.co/eniga/nanbeige4.3-33b-iq8r)**
-- **[ghanaopenai/nkrane-mt-opus-en2tw](https://huggingface.co/ghanaopenai/nkrane-mt-opus-en2tw)** — translation
-- **[abdukuzi45/Qwen3.5-4B-Amharic-CPT-am-cpt-20261115-135235-0b1b7-Checkpoints](https://huggingface.co/abdukuzi45/Qwen3.5-4B-Amharic-CPT-am-cpt-20261115-135235-0b1b7-Checkpoints)**
-- **[Asrun/Wren-31B-UK-4bit](https://huggingface.co/Asrun/Wren-31B-UK-4bit)**
-- **[Rlayd36/act_pickandplace_cube](https://huggingface.co/Rlayd36/act_pickandplace_cube)** — robotics
-- **[ALE1976/LOGONE](https://huggingface.co/ALE1976/LOGONE)**
-- **[nchapman/Ornith-1.5-35B-A3B-W2.6A16-HGPTQ-RCO](https://huggingface.co/nchapman/Ornith-1.5-35B-A3B-W2.6A16-HGPTQ-RCO)** — image-text-to-text
-- **[hencohen83/zipformer2-66m-streaming-en-qnn-sm8750](https://huggingface.co/hencohen83/zipformer2-66m-streaming-en-qnn-sm8750)** — automatic-speech-recognition
+- **[aichamzaic2026/zac2026-datamate-sqllora](https://huggingface.co/aichamzaic2026/zac2026-datamate-sqllora)**
+- **[Shanahancn/MyAwesomeModel-TestRepo](https://huggingface.co/Shanahancn/MyAwesomeModel-TestRepo)**
+- **[csabag76/gemma-4-E2B-it-abliterated-litert-lm](https://huggingface.co/csabag76/gemma-4-E2B-it-abliterated-litert-lm)** — image-text-to-text
+- **[joyhee/S2v20_mix_s1-Qwen3-VL-4B-Instruct-gpt-6-luna-full_SFT-GRPO-lr1e-7-step47](https://huggingface.co/joyhee/S2v20_mix_s1-Qwen3-VL-4B-Instruct-gpt-6-luna-full_SFT-GRPO-lr1e-7-step47)**
+- **[joyhee/S2v20_mix_s1-Qwen3-VL-4B-Instruct-gpt-6-luna-full_SFT-GRPO-lr1e-7-step46](https://huggingface.co/joyhee/S2v20_mix_s1-Qwen3-VL-4B-Instruct-gpt-6-luna-full_SFT-GRPO-lr1e-7-step46)**
+- **[touati-kamel/Hadra-TTS-xtts](https://huggingface.co/touati-kamel/Hadra-TTS-xtts)**
+- **[theredspace/kokoro-82M-coreml](https://huggingface.co/theredspace/kokoro-82M-coreml)**
+- **[Jordine/rlport-hkl_rlw1_g2_20261116_153518](https://huggingface.co/Jordine/rlport-hkl_rlw1_g2_20261116_153518)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-16](archive/2026-11-16.md)
 - [2026-11-15](archive/2026-11-15.md)
 - [2026-11-14](archive/2026-11-14.md)
 - [2026-11-13](archive/2026-11-13.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-15](archive/2026-09-15.md)
 - [2026-09-14](archive/2026-09-14.md)
 - [2026-09-13](archive/2026-09-13.md)
-- [2026-09-12](archive/2026-09-12.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
