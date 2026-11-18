@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-16
+## 2026-11-18
 
 ### New AI research · arXiv
 
-- **[Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion](http://arxiv.org/abs/2611.18563v1)** — Daniel Grimm et al. · 2026-11-13
-  <br/>Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The…
-- **[FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices](http://arxiv.org/abs/2611.18561v1)** — Jonathan D. McCart et al. · 2026-11-13
-  <br/>Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural a…
-- **[Training Reasoning Models in Simulation to Natively Use Real Robots](http://arxiv.org/abs/2611.18562v1)** — Jiaming Tang et al. · 2026-11-13
-  <br/>Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 A…
-- **[BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations](http://arxiv.org/abs/2611.18559v1)** — Genki Kinoshita et al. · 2026-11-13
-  <br/>Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial as…
-- **[WeightBench: Evaluating Language Models as Weight-Space Programmers](http://arxiv.org/abs/2611.18553v1)** — Aayush Marasini et al. · 2026-11-13
-  <br/>Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and writ…
-- **[Imitation Bootstrapped Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2611.18543v1)** — Tony H. Zhang et al. · 2026-11-13
-  <br/>Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and…
-- **[Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond](http://arxiv.org/abs/2611.18542v1)** — Cole Becker et al. · 2026-11-13
-  <br/>Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the…
-- **[Why Finite Intelligence Works in an Infinite World: A Mathematical Theory](http://arxiv.org/abs/2611.18538v1)** — Mojtaba Soltanalian · 2026-11-13
-  <br/>An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective…
+- **[Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](http://arxiv.org/abs/2611.23229v1)** — Giannis Daras et al. · 2026-11-17
+  <br/>Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets…
+- **[Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models](http://arxiv.org/abs/2611.23228v1)** — Rui Ning et al. · 2026-11-17
+  <br/>Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybri…
+- **[StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics](http://arxiv.org/abs/2611.23225v1)** — Xingyang Yu · 2026-11-17
+  <br/>We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chap…
+- **[An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization](http://arxiv.org/abs/2611.23221v1)** — Zhaosong Lu et al. · 2026-11-17
+  <br/>In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative r…
+- **[Do LLM Agents Still Need to Be Told How to Self-Improve?](http://arxiv.org/abs/2611.23219v1)** — Shobhita Sundaram et al. · 2026-11-17
+  <br/>LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a…
+- **[What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution](http://arxiv.org/abs/2611.23218v1)** — S. M Seefat Alam · 2026-11-17
+  <br/>Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the stati…
+- **[Higher-Scoring Coding Models Did Not Get More Work Done](http://arxiv.org/abs/2611.23216v1)** — Yining Hua · 2026-11-17
+  <br/>New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026…
+- **[Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving](http://arxiv.org/abs/2611.23211v1)** — John Gideon et al. · 2026-11-17
+  <br/>Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cogni…
 
 ### New model releases · Hugging Face
 
-- **[aichamzaic2026/zac2026-datamate-sqllora](https://huggingface.co/aichamzaic2026/zac2026-datamate-sqllora)**
-- **[Shanahancn/MyAwesomeModel-TestRepo](https://huggingface.co/Shanahancn/MyAwesomeModel-TestRepo)**
-- **[csabag76/gemma-4-E2B-it-abliterated-litert-lm](https://huggingface.co/csabag76/gemma-4-E2B-it-abliterated-litert-lm)** — image-text-to-text
-- **[joyhee/S2v20_mix_s1-Qwen3-VL-4B-Instruct-gpt-6-luna-full_SFT-GRPO-lr1e-7-step47](https://huggingface.co/joyhee/S2v20_mix_s1-Qwen3-VL-4B-Instruct-gpt-6-luna-full_SFT-GRPO-lr1e-7-step47)**
-- **[joyhee/S2v20_mix_s1-Qwen3-VL-4B-Instruct-gpt-6-luna-full_SFT-GRPO-lr1e-7-step46](https://huggingface.co/joyhee/S2v20_mix_s1-Qwen3-VL-4B-Instruct-gpt-6-luna-full_SFT-GRPO-lr1e-7-step46)**
-- **[touati-kamel/Hadra-TTS-xtts](https://huggingface.co/touati-kamel/Hadra-TTS-xtts)**
-- **[theredspace/kokoro-82M-coreml](https://huggingface.co/theredspace/kokoro-82M-coreml)**
-- **[Jordine/rlport-hkl_rlw1_g2_20261116_153518](https://huggingface.co/Jordine/rlport-hkl_rlw1_g2_20261116_153518)**
+- **[tarekziade/Qwen3.8-Flash-Next-expert-streaming](https://huggingface.co/tarekziade/Qwen3.8-Flash-Next-expert-streaming)**
+- **[PrevetDurgan279/MyAwesomeModel-TestRepo](https://huggingface.co/PrevetDurgan279/MyAwesomeModel-TestRepo)** — feature-extraction
+- **[NeosQ/SenseNova-Loop-9B-MLX-8bit](https://huggingface.co/NeosQ/SenseNova-Loop-9B-MLX-8bit)**
+- **[devkumarhf/ur7e-sac-line-following](https://huggingface.co/devkumarhf/ur7e-sac-line-following)** — reinforcement-learning
+- **[rfsbc/waiIllustriousSDXL_v170](https://huggingface.co/rfsbc/waiIllustriousSDXL_v170)** — text-to-image
+- **[hubnemo/Qwen3-8B-ALoRA-MTP-dcd-a128-30k-chat-template-whole-doc-resumed-lr2e-5](https://huggingface.co/hubnemo/Qwen3-8B-ALoRA-MTP-dcd-a128-30k-chat-template-whole-doc-resumed-lr2e-5)**
+- **[TonyZhan/AlphaRAE-Reconstruction](https://huggingface.co/TonyZhan/AlphaRAE-Reconstruction)** — image-to-image
+- **[LyricBobby/MyAwesomeModel-TestRepo](https://huggingface.co/LyricBobby/MyAwesomeModel-TestRepo)** — feature-extraction
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-18](archive/2026-11-18.md)
 - [2026-11-16](archive/2026-11-16.md)
 - [2026-11-15](archive/2026-11-15.md)
 - [2026-11-14](archive/2026-11-14.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-16](archive/2026-09-16.md)
 - [2026-09-15](archive/2026-09-15.md)
 - [2026-09-14](archive/2026-09-14.md)
-- [2026-09-13](archive/2026-09-13.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
