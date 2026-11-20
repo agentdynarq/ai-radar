@@ -15,43 +15,44 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-19
+## 2026-11-20
 
 ### New AI research · arXiv
 
-- **[Jailbreak Detection on Large Language Models via Contrastive Prototype Structures](http://arxiv.org/abs/2611.24936v1)** — Yan Qiu et al. · 2026-11-18
-  <br/>Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without…
-- **[Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems](http://arxiv.org/abs/2611.24932v1)** — Priyanka Sinha et al. · 2026-11-18
-  <br/>When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alig…
-- **[Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem](http://arxiv.org/abs/2611.24927v1)** — Sarah H. Cen et al. · 2026-11-18
-  <br/>AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relations…
-- **[Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses](http://arxiv.org/abs/2611.24924v1)** — Jiahang Lin et al. · 2026-11-18
-  <br/>Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requir…
-- **[Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation](http://arxiv.org/abs/2611.24908v1)** — Samet Demir et al. · 2026-11-18
-  <br/>We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect genera…
-- **[Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators](http://arxiv.org/abs/2611.24896v1)** — Michael Liaofan Liu et al. · 2026-11-18
-  <br/>We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many applicati…
-- **[On Evaluating User Simulators for Interactive Agents](http://arxiv.org/abs/2611.24892v1)** — Hengguang Zhou et al. · 2026-11-18
-  <br/>User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation fra…
-- **[Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity](http://arxiv.org/abs/2611.24891v1)** — Benjamin Novotny et al. · 2026-11-18
-  <br/>A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity.…
+- **[RL Post-Training in Diffusion Transformers Is Activation Steering](http://arxiv.org/abs/2611.26627v1)** — Tuna Han Salih Meral et al. · 2026-11-19
+  <br/>Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reque…
+- **[PlayCraft: Designing Engaging Games from Agent Play Experience](http://arxiv.org/abs/2611.26624v1)** — Weihao Cheng · 2026-11-19
+  <br/>Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We pr…
+- **[TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming](http://arxiv.org/abs/2611.26619v1)** — Jinbin Luo et al. · 2026-11-19
+  <br/>Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and…
+- **[One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning](http://arxiv.org/abs/2611.26617v1)** — Yuxin Jiang et al. · 2026-11-19
+  <br/>Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamic…
+- **[AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control](http://arxiv.org/abs/2611.26613v1)** — Yiyang Du et al. · 2026-11-19
+  <br/>Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, ex…
+- **[Bio-PM-Guided Synthetic IMU Generation](http://arxiv.org/abs/2611.26607v1)** — Deepali Singh et al. · 2026-11-19
+  <br/>Collecting and labeling inertial measurement unit (IMU) data for human activity recognition (HAR) is expensive, and models trained on one group of subjects often fail to generalize to unseen individu…
+- **[Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](http://arxiv.org/abs/2611.26603v1)** — Peiyun Hu et al. · 2026-11-19
+  <br/>We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly tra…
+- **[SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Research](http://arxiv.org/abs/2611.26601v1)** — Amine Lbath et al. · 2026-11-19
+  <br/>LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulne…
 
 ### New model releases · Hugging Face
 
-- **[JeremyLiShuhao/UD_model_v4_judge](https://huggingface.co/JeremyLiShuhao/UD_model_v4_judge)**
-- **[AmaLS367/LFM3-1.7B-Focused-Search-GGUF](https://huggingface.co/AmaLS367/LFM3-1.7B-Focused-Search-GGUF)**
-- **[ndoll1998/smollm2-1.7b_cpt-finemed-de_slerp](https://huggingface.co/ndoll1998/smollm2-1.7b_cpt-finemed-de_slerp)**
-- **[bagley-security/BAGLEY-AI-Security-Swarm](https://huggingface.co/bagley-security/BAGLEY-AI-Security-Swarm)**
-- **[SDIDSA/lyric-studio-models](https://huggingface.co/SDIDSA/lyric-studio-models)**
-- **[tennisonj/som-admin-role-classifier](https://huggingface.co/tennisonj/som-admin-role-classifier)**
-- **[rvaniuta/xzykasi](https://huggingface.co/rvaniuta/xzykasi)**
-- **[miladgholami/act_b601_nowrist](https://huggingface.co/miladgholami/act_b601_nowrist)**
+- **[11-47/Qwen3.5-9B-DeepSeekV4-GLM5.1-SLERP](https://huggingface.co/11-47/Qwen3.5-9B-DeepSeekV4-GLM5.1-SLERP)**
+- **[inference-optimization/Qwen3.6-35B-A3B-MoNe-20](https://huggingface.co/inference-optimization/Qwen3.6-35B-A3B-MoNe-20)**
+- **[ViuAI/TTS_10M](https://huggingface.co/ViuAI/TTS_10M)**
+- **[qhoenix/zl-fb9670](https://huggingface.co/qhoenix/zl-fb9670)** — feature-extraction
+- **[mouadtarif/First-RLHF-RLCD-Rotation](https://huggingface.co/mouadtarif/First-RLHF-RLCD-Rotation)**
+- **[xuxyongsdt/spritecraft-models](https://huggingface.co/xuxyongsdt/spritecraft-models)**
+- **[WillNuyen228/auramask-nothing](https://huggingface.co/WillNuyen228/auramask-nothing)** — image-to-image
+- **[anaaaaaa13421312/zenz-kana-slm-40m-bpe2k](https://huggingface.co/anaaaaaa13421312/zenz-kana-slm-40m-bpe2k)**
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-20](archive/2026-11-20.md)
 - [2026-11-19](archive/2026-11-19.md)
 - [2026-11-18](archive/2026-11-18.md)
 - [2026-11-16](archive/2026-11-16.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-18](archive/2026-09-18.md)
 - [2026-09-17](archive/2026-09-17.md)
 - [2026-09-16](archive/2026-09-16.md)
-- [2026-09-15](archive/2026-09-15.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
