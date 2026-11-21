@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-20
+## 2026-11-21
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[11-47/Qwen3.5-9B-DeepSeekV4-GLM5.1-SLERP](https://huggingface.co/11-47/Qwen3.5-9B-DeepSeekV4-GLM5.1-SLERP)**
-- **[inference-optimization/Qwen3.6-35B-A3B-MoNe-20](https://huggingface.co/inference-optimization/Qwen3.6-35B-A3B-MoNe-20)**
-- **[ViuAI/TTS_10M](https://huggingface.co/ViuAI/TTS_10M)**
-- **[qhoenix/zl-fb9670](https://huggingface.co/qhoenix/zl-fb9670)** — feature-extraction
-- **[mouadtarif/First-RLHF-RLCD-Rotation](https://huggingface.co/mouadtarif/First-RLHF-RLCD-Rotation)**
-- **[xuxyongsdt/spritecraft-models](https://huggingface.co/xuxyongsdt/spritecraft-models)**
-- **[WillNuyen228/auramask-nothing](https://huggingface.co/WillNuyen228/auramask-nothing)** — image-to-image
-- **[anaaaaaa13421312/zenz-kana-slm-40m-bpe2k](https://huggingface.co/anaaaaaa13421312/zenz-kana-slm-40m-bpe2k)**
+- **[medinstructbench/medinstructbench-omni-7b-v](https://huggingface.co/medinstructbench/medinstructbench-omni-7b-v)**
+- **[Tasthastoo/LongCat-Video-Avatar-1.6](https://huggingface.co/Tasthastoo/LongCat-Video-Avatar-1.6)**
+- **[bcckfdn/cevher3-test-15](https://huggingface.co/bcckfdn/cevher3-test-15)** — text-generation
+- **[medinstructbench/medinstructbench-omni-7b-a](https://huggingface.co/medinstructbench/medinstructbench-omni-7b-a)**
+- **[mradermacher/Krypton-Fly-3.0-i1-GGUF](https://huggingface.co/mradermacher/Krypton-Fly-3.0-i1-GGUF)**
+- **[dogknowsAI/b22853e8e2b6c763](https://huggingface.co/dogknowsAI/b22853e8e2b6c763)**
+- **[dogknowsAI/50fb12c762385017](https://huggingface.co/dogknowsAI/50fb12c762385017)**
+- **[Keanualfahd/Kanata-S1](https://huggingface.co/Keanualfahd/Kanata-S1)** — text-generation · ♥ 1
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-21](archive/2026-11-21.md)
 - [2026-11-20](archive/2026-11-20.md)
 - [2026-11-19](archive/2026-11-19.md)
 - [2026-11-18](archive/2026-11-18.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-19](archive/2026-09-19.md)
 - [2026-09-18](archive/2026-09-18.md)
 - [2026-09-17](archive/2026-09-17.md)
-- [2026-09-16](archive/2026-09-16.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
