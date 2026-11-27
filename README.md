@@ -15,7 +15,7 @@ Part of [Dynarq](https://www.dynarq.com).
 ## Latest digest
 
 <!-- LATEST:START -->
-## 2026-11-26
+## 2026-11-27
 
 ### New AI research · arXiv
 
@@ -38,20 +38,21 @@ Part of [Dynarq](https://www.dynarq.com).
 
 ### New model releases · Hugging Face
 
-- **[chenth/abl_mask_9b_rand_c304](https://huggingface.co/chenth/abl_mask_9b_rand_c304)**
-- **[minamllak12/nvvn](https://huggingface.co/minamllak12/nvvn)**
-- **[thetemirbolatov/karachay-shazam-resnet18](https://huggingface.co/thetemirbolatov/karachay-shazam-resnet18)** — ♥ 1
-- **[gowombat/tiny-voca-dk](https://huggingface.co/gowombat/tiny-voca-dk)**
-- **[ttttim3/Cartpole8](https://huggingface.co/ttttim3/Cartpole8)** — reinforcement-learning
-- **[GPTrepublic/GPTrepublic-General-Multilingual-IT02-0.1.0](https://huggingface.co/GPTrepublic/GPTrepublic-General-Multilingual-IT02-0.1.0)**
-- **[ntlfi/opd-rl-swe7b-oec-exact-ourtrainer](https://huggingface.co/ntlfi/opd-rl-swe7b-oec-exact-ourtrainer)**
-- **[nuntasha/omx_act_bi_insert](https://huggingface.co/nuntasha/omx_act_bi_insert)** — robotics
+- **[jrubiosainz/microduck-tug-cup4-dy06-adea675f](https://huggingface.co/jrubiosainz/microduck-tug-cup4-dy06-adea675f)**
+- **[netprojects/Qwen-Concept-27B-LayerFit-MLX-2.5bit](https://huggingface.co/netprojects/Qwen-Concept-27B-LayerFit-MLX-2.5bit)**
+- **[Vljnh/trans-ai-router](https://huggingface.co/Vljnh/trans-ai-router)**
+- **[ronke21/rlcl-Qwen2.5-Math-7B-Instruct-igbo-s123](https://huggingface.co/ronke21/rlcl-Qwen2.5-Math-7B-Instruct-igbo-s123)**
+- **[Ravenqh/rf-ads-surrogate](https://huggingface.co/Ravenqh/rf-ads-surrogate)**
+- **[Chaotyang/mixer-checkpoint84-2023](https://huggingface.co/Chaotyang/mixer-checkpoint84-2023)**
+- **[d-k-i/granite-4.2-30b-extractor-lora](https://huggingface.co/d-k-i/granite-4.2-30b-extractor-lora)** — text-generation
+- **[silentvalet/whisper-turbo-ro-en-sherpa-onnx](https://huggingface.co/silentvalet/whisper-turbo-ro-en-sherpa-onnx)** — automatic-speech-recognition
 
 <!-- LATEST:END -->
 
 ## Archive
 
 <!-- ARCHIVE:START -->
+- [2026-11-27](archive/2026-11-27.md)
 - [2026-11-26](archive/2026-11-26.md)
 - [2026-11-24](archive/2026-11-24.md)
 - [2026-11-22](archive/2026-11-22.md)
@@ -111,7 +112,6 @@ Part of [Dynarq](https://www.dynarq.com).
 - [2026-09-23](archive/2026-09-23.md)
 - [2026-09-22](archive/2026-09-22.md)
 - [2026-09-21](archive/2026-09-21.md)
-- [2026-09-20](archive/2026-09-20.md)
 <!-- ARCHIVE:END -->
 
 ## How it works
